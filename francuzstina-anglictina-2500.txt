@@ -1,0 +1,2502 @@
+# Francúzsko-anglický frekvenčný slovník (poradie podľa frekvencie)
+de, du, de la, de l', des (det, prep) /də, dy, də la, də ɛl', de/	of, from, some, any
+je, j' (pron) /ʒə, ʒi'/	I
+être (nm, verb) /ɛtʁ/	to be; being
+pas (adv, nm[pl]) /pa/	not; footstep
+le, la, les, l' (det, pron) /lə, la, le, ɛl'/	the; him, her, it, them
+vous (pron) /vu/	you (form & pl)
+là (adv, int) /la/	there, here
+tu (pron) /ty/	you (fam)
+que, qu' (adv, conj, pron) /kə, k'/	that, which, who, whom, as
+un, une, des (adj, det, nm, pron, num) /œ̃, yn, de/	a, an, one
+il (pron) /il/	he, it
+et (conj) /e/	and
+à, au, aux (det, prep) /a, o, o/	to, at, in
+avoir (nm, verb) /avwaʁ/	asset, to have
+ne, n' (adv) /nə, ɛn'/	not
+ce, cet, cette, ces (det, pron) /sə, sɛt, sɛt, se/	this, that
+en (adv, prep, pron) /ɑ̃/	in, by
+on (pron) /ɔ̃/	one, we
+cela (pron) /səla/	that, it
+pour (prep) /puʁ/	to, for, in order to
+moi (nm, pron) /mwa/	me
+qui (pron) /ki/	who, whom
+nous (pron) /nu/	we, us
+mais (adv, conj, int) /mɛ/	but
+y (adv, ni, pron) /i/	there
+me, m' (pron) /mə, ɛm'/	me, to me, myself
+dans (prep) /dɑ̃/	in, into, from
+bien (adj(i), adv, nm) /bjɛ̃/	well
+elle (pron) /ɛl/	she, her
+si (adv, conj, ni) /si/	if, whether
+tout (adv, det, nm, adj, pron) /tu/	all, very
+plus (adv) /ply/	more, no
+non (adv) /nɔ̃/	no, not
+mon, ma, mes (det) /mɔ, ma, me/	my
+suivre (verb) /sɥivʁ/	to follow
+te, t' (pron) /tə, te'/	you, to you, from you
+avec (prep) /avɛk/	with
+oui (adv, ni) /wi/	yes
+aller (nm, verb) /ale/	to go
+toi (nm, pron) /twa/	you, yourself
+faire (nm, verb) /fɛʁ/	to do, make
+se, s' (pron) /sə, ɛs'/	oneself, himself, herself, itself, themselves
+comme (adv, conj) /kɔm/	like, as
+sur (adj, prep) /syʁ/	on, upon
+quoi (pron) /kwa/	what
+ici (adv) /isi/	here
+savoir (nm, verb) /savwaʁ/	to know
+lui (pron) /lɥi/	him, her
+vouloir (nm, verb) /vulwaʁ/	to want
+là (adv, int) /la/	there, here
+rien (adv, nm, pron) /ʁjɛ̃/	nothing
+dire (nm, verb) /diʁ/	to say
+où (adv, pron) /u/	where
+votre (det) /vɔtʁ/	your
+pourquoi (adv, conj, ni) /puʁkwa/	why
+quand (adv, conj) /kɑ̃/	when
+par (prep) /paʁ/	by
+son, sa, ses (det, nm) /sɔ, sa, se/	his, her, its; sound; bran
+ton, ta, tes (det, nm) /tɔ, ta, te/	your; tone
+pouvoir (nm, verb) /puvwaʁ/	can, to be able to
+alors (adv) /alɔʁ/	then, so
+comment (adv, conj, int, ni) /kɔmɑ̃/	how
+bon (adj, adv, int, nm) /bɔ̃/	good
+ou (adv, pron) /u/	where
+très (adv) /tʁɛ/	very
+même (adj(f), adv, pron) /mɛm/	same, even, self
+merci (int, nm, nf) /mɛʁsi/	thank you; favor
+jamais (adv) /ʒamɛ/	never
+aussi (adv, conj) /osi/	too, also, as
+chose (adj(f), nf) /ʃoz/	thing
+voir (verb) /vwaʁ/	to see
+deux (det, num) /dø/	two, couple
+falloir (verb) /falwaʁ/	to take, require, need
+autre (adj(f), pron) /otʁ/	other
+maintenant (adv) /mɛ̃tnɑ̃/	now
+encore (adv) /ɑ̃kɔʁ/	again, yet
+peu (adv) /pø/	little
+vraiment (adv) /vʁɛmɑ̃/	truly, really, very
+temps (nm[pl]) /tɑ̃/	time
+toujours (adv) /tuʒuʁ/	always
+notre (det) /nɔtʁ/	our
+vie (nf) /vi/	life
+oh (int) /o/	oh
+juste (adv, nm, adj(f)) /ʒyst/	just, only; fair
+sans (prep) /sɑ̃/	without
+quelque (adv, adj, det) /kɛlk/	some
+monde (nm) /mɔ̃d/	world, people
+accord (nm) /akɔʁ/	agreement
+fois (nf[pl]) /fwa/	time, times
+trop (adv) /tʁo/	too much, too many
+venir (verb) /vəniʁ/	to come
+croire (verb) /kʁwaʁ/	to believe
+devoir (nm, verb) /dəvwaʁ/	to have to, owe; duty
+père (nm) /pɛʁ/	father
+dieu (int, nm) /djø/	god
+homme (nm) /ɔm/	man
+sûr (adj, prep) /syʁ/	on, upon
+leur (det, adj(f), pron) /lœʁ/	them, their, theirs
+avant (adj(i), adv, nm, prep) /avɑ̃/	before
+besoin (nm) /bəzwɛ̃/	need
+femme (nf) /fam/	woman, wife
+personne (nf, pron) /pɛʁsɔn/	person, people, anybody, anyone nobody, no-one
+aimer (verb) /eme/	to like, love, wish
+chez (prep) /ʃe/	at, with
+vrai (adv, nm, adj) /vʁɛ/	true
+an (nm) /ɑ̃/	year
+mal (adj(i), adv, nm) /mal/	bad, sore
+parler (nm, verb) /paʁle/	to speak, talk
+après (adv) /apʁɛ/	after
+mort (adj, nf) /mɔʁ/	dead; death
+parce que (conj) /paʁsə kə/	because
+mieux (adj(i)[pl], adv, nm) /mjø/	better
+petit (adv, nm, adj) /pəti/	small, little
+beaucoup (adv) /boku/	much, a lot of, many
+monsieur (nm) /məsjø/	mister, sir, gentleman
+voilà (prep) /vwala/	right, there, here; that's
+depuis (adv, prep) /dəpɥi/	since, for, in
+devoir (verb) /dəvwaʁ/	must, have to
+mère (nf) /mɛʁ/	mother
+quel (det, adj, pron) /kɛl/	which, what
+fille (nf) /fij/	girl, daughter
+déjà (adv) /deʒa/	already, ever
+gens (nmpl) /ʒɑ̃/	people
+donc (conj) /dɔ̃k/	so, then, therefore, thus
+jour (nm) /ʒuʁ/	day
+soir (nm) /swaʁ/	evening
+ouais (int) /wɛ/	yeah
+argent (nm) /aʁʒɑ̃/	money, silver
+maison (nf) /mɛzɔ̃/	house
+nom (nm) /nɔ̃/	name
+bonjour (nm) /bɔ̃ʒuʁ/	hello
+penser (nm, verb) /pɑ̃se/	to think
+nuit (nf) /nɥi/	night
+merde (int, nf) /mɛʁd/	sh*t, crap
+papa (nm) /papa/	dad, daddy
+maman (nf) /mamɑ̃/	mom
+rester (verb) /ʁɛste/	to stay
+peur (nf) /pœʁ/	fear
+désolé (adj) /dezɔle/	sorry, afraid
+salut (int, nm) /saly/	salute, hi, bye
+seul (adj) /sœl/	alone, only
+arriver (verb) /aʁive/	to arrive, happen
+vite (adv) /vit/	fast, quickly
+prendre (verb) /pʁɑ̃dʁ/	to take
+regarder (verb) /ʁəɡaʁde/	to look, watch
+soit (adv, conj) /swa/	either...or
+air (nm) /ɛʁ/	air, appearance
+passer (verb) /pase/	to pass, go
+trois (det, num) /tʁwa/	three
+plaire (verb) /plɛʁ/	to please, like
+chose (adj(f), nf) /ʃoz/	thing
+fil (nm) /fil/	thread, wire
+ah (int) /a/	ah, oh
+bas (adv, nm&f, adj[pl], nm[pl]) /ba/	low; bass; stockings
+moins (adj(i)[pl], adv, nm[pl], prep) /mwɛ̃/	less
+entre (prep) /ɑ̃tʁ/	between
+passe (nf, adj, prep) /pas/	pass, past
+demain (adv, nm) /dəmɛ̃/	tomorrow
+appeler (verb) /aple/	to call
+grand (adv, nm/f, adj) /ɡʁɑ̃/	great, older girl or boy, tall
+tête (nf) /tɛt/	head
+arrêter (verb) /aʁete/	to stop, arrest
+hein (int) /ɛ̃/	eh, huh
+attendre (verb) /atɑ̃dʁ/	to wait
+raison (nf) /ʁɛzɔ̃/	reason
+enfant (nm, nf, adj(f)) /ɑ̃fɑ̃/	child
+assez (adv) /ase/	enough
+moment (nm) /mɔmɑ̃/	moment
+amour (nm) /amuʁ/	love
+heure (nf) /œʁ/	hour
+puis (adv) /pɥi/	then, so
+tard (adv) /taʁ/	late
+tuer (verb) /tɥe/	to kill
+eh (int) /e/	hey, uh
+ami (nm/f, adj) /ami/	friend
+partir (verb) /paʁtiʁ/	to leave
+connaître (verb) /kɔnɛtʁ/	to know
+aider (verb) /ede/	to help, assist
+gars (nm[pl]) /ɡa/	guy
+chance (nf) /ʃɑ̃s/	luck; chance
+combien (adv, conj) /kɔ̃bjɛ̃/	how much, how many
+tant (adv) /tɑ̃/	so much, so many
+part (nf) /paʁ/	share
+voiture (nf) /vwatyʁ/	car
+problème (nm) /pʁɔblɛm/	problem
+coup (nm) /ku/	coup, blow, knock, stroke
+porte (nf) /pɔʁt/	door
+travail (nm) /tʁavaj/	work
+famille (nf) /famij/	family
+sens (nm[pl]) /sɑ̃s/	sense, meaning
+putain (nf) /pytɛ̃/	whore, bitch; stupid
+idée (nf) /ide/	idea
+ni (conj, adv) /ni/	nor, neither
+contre (adv, nm, prep) /kɔ̃tʁ/	against
+revoir (verb) /ʁəvwaʁ/	to see again, revise, meet
+entendre (verb) /ɑ̃tɑ̃dʁ/	to hear
+comprendre (verb) /kɔ̃pʁɑ̃dʁ/	to understand
+pendre (verb) /pɑ̃dʁ/	to hang down
+trouver (verb) /tʁuve/	to find
+vieux (adj[pl], nm[pl]) /vjø/	old
+attention (nf) /atɑ̃sjɔ̃/	attention
+demander (verb) /dəmɑ̃de/	to ask for
+chercher (verb) /ʃɛʁʃe/	to look for
+sous (prep) /su/	under
+voici (prep) /vwasi/	here is, here are, this is, these are
+sang (nm) /sɑ̃/	blood
+histoire (nf) /istwaʁ/	history, story
+sortir (verb) /sɔʁtiʁ/	to go out, leave
+question (nf) /kɛstjɔ̃/	question
+frère (nm) /fʁɛʁ/	brother
+ville (nf) /vil/	city
+finir (verb) /finiʁ/	to finish
+nouveau (adj, nm) /nuvo/	new
+eux (pron) /ø/	them
+truc (nm) /tʁyk/	trick; (that) thing (what I can't recall)
+tenir (verb) /təniʁ/	to hold
+œil (nm) /œj/	eye
+moi (nm, pron) /mwa/	me
+laisser (verb) /lese/	to leave
+mec (nm) /mɛk/	guy
+longtemps (adv) /lɔ̃tɑ̃/	a long time, a long while
+beau (adj, nm) /bo/	handsome, fine, right
+police (nf) /pɔlis/	police
+seulement (adv) /sœlmɑ̃/	only
+importer (verb) /ɛ̃pɔʁte/	to import; to be important
+eau (nf) /o/	water
+car (conj, nm) /kaʁ/	because
+super (adj(i), nm) /sypɛʁ/	great
+chaque (det, adj) /ʃak/	each, every
+cas (nm[pl]) /ka/	case
+terre (nf) /tɛʁ/	earth, world, soil, land
+placer (verb) /plase/	to place
+main (nf) /mɛ̃/	hand
+ensemble (adv, nm) /ɑ̃sɑ̃bl/	together
+type (nm) /tip/	type; guy
+pardon (nm) /paʁdɔ̃/	forgiveness
+vers (nm[pl], prep) /vɛʁ/	toward; verse
+aucun (det, adj, pron) /okœ̃/	none, either, neither, not any
+guerre (nf) /ɡɛʁ/	war
+suite (nf) /sɥit/	result, follow-up, rest
+prier (verb) /pʁije/	to pray
+devant (adv, nm, prep) /dəvɑ̃/	in front, ahead
+arrivé (adj) /aʁive/	arrived, happen
+mettre (verb) /mɛtʁ/	to put, place
+matin (nm) /matɛ̃/	morning
+aide (nm, nf) /ɛd/	help, assistance
+dessus (adv, nm[pl], prep) /dəsy/	above, on top
+genre (nm) /ʒɑ̃ʁ/	type, kind, sort
+fin (adj, adv, nf, nm) /fɛ̃/	end; gist, clever person
+perdre (verb) /pɛʁdʁ/	to lose
+jeune (nmf adj(f)) /ʒœn/	young
+chéri (noun, adj) /ʃeʁi/	darling, love, dear
+premier (det, nm&f, adj) /pʁəmje/	first, premier, first
+donner (verb) /dɔne/	to give
+droit (adj, adv, nm) /dʁwa/	right
+côté (nf) /kote/	coast
+chambre (nf) /ʃɑ̃bʁ/	bedroom, chamber
+loin (adv, nm) /lwɛ̃/	far
+feu (adj(f), nm) /fø/	fire
+jouer (verb) /ʒwe/	to play
+train (nm) /tʁɛ̃/	train
+gros (adv, nm, adj[pl]) /ɡʁo/	big, whoiesale, heavy
+compter (verb) /kɔ̃te/	to count
+mourir (verb) /muʁiʁ/	to die
+dernier (nm&f, adj) /dɛʁnje/	last
+minute (nf) /minyt/	minute
+mari (nm) /maʁi/	husband
+enfin (adv) /ɑ̃fɛ̃/	at last, finally
+madame (nf) /madam/	madam, lady
+façon (nf) /fasɔ̃/	way, manner
+film (nm) /film/	film, movie
+fort (adv, adj, nm) /fɔʁ/	strong
+écoute (nf) /ekut/	listening
+pays (nm[pl]) /pei/	country
+affaire (nf, adj) /afɛʁ/	case, matter, business
+endroit (nm) /ɑ̃dʁwa/	place, spot
+corps (nm[pl]) /kɔʁ/	body
+fou (adj, nm) /fu/	mad, crazy
+vivre (nm, verb) /vivʁ/	to live
+prêt (adj, nm) /pʁɛ/	ready
+dont (pron) /dɔ̃/	whose, of which
+espérer (verb) /ɛspeʁe/	to hope
+cause (nf) /koz/	cause
+point (adv, nm) /pwɛ̃/	point
+dehors (adv, nm[pl], prep) /dəɔʁ/	outside
+hier (adv) /ijɛʁ/	yesterday
+boulot (adj, nm) /bulo/	work, job
+garçon (nm) /ɡaʁsɔ̃/	boy
+près (adv, prep) /pʁɛ/	near, nearby, close by
+cinq (det, nm[pl]) /sɛ̃k/	five
+chef (nm) /ʃɛf/	head, leader, chief
+ainsi (adv) /ɛ̃si/	thus
+haut (adv, adj) /o/	top, high
+celui (pron) /səlɥi/	that, the one, he, him
+bébé (nmf, adj(f)) /bebe/	baby
+possible (adj(f)) /pɔsibl/	possible
+école (nf) /ekɔl/	school
+plein (adv, nm, adj, prep) /plɛ̃/	full
+année (nf) /ane/	year
+manger (nm, verb) /mɑ̃ʒe/	to eat
+docteur (nm) /dɔktœʁ/	doctor
+tour (nm, nf) /tuʁ/	tower; turn; tour
+quatre (det, num) /katʁ/	four
+plutôt (adv) /plyto/	rather
+marcher (verb) /maʁʃe/	to walk
+semaine (nf) /səmɛn/	week
+vérité (nf) /veʁite/	truth
+envier (verb) /ɑ̃vje/	to envy
+capitaine (nm) /kapitɛn/	captain
+affaire (nf) /afɛʁ/	business, matter
+bientôt (adv) /bjɛ̃to/	soon
+instant (adj, nm) /ɛ̃stɑ̃/	instant, moment
+essayer (verb) /eseje/	to try
+tellement (adv) /tɛlmɑ̃/	so much
+derrière (adv, nm, prep) /dɛʁjɛʁ/	last; behind
+tomber (verb) /tɔ̃be/	to fall
+presque (adv) /pʁɛsk/	almost
+meilleur (nmf, adj, adv) /mɛjœʁ/	best, better
+numéro (nm) /nymeʁo/	number
+journée (nf) /ʒuʁne/	day
+dollar (nm) /dɔlaʁ/	dollar
+confiance (nf) /kɔ̃fjɑ̃s/	confidence, trust
+garde (nm, nf) /ɡaʁd/	guard
+souvenir (nm, verb) /suvəniʁ/	memory; to remember
+dur (adv, nm&f, adj) /dyʁ/	hard
+bureau (nm) /byʁo/	office, desk
+abord (nm) /abɔʁ/	manner; approach, access, environs
+important (nm, adj) /ɛ̃pɔʁtɑ̃/	important
+ben (adv) /bɛ̃/	well
+peiner (verb) /pene/	to toil, labor, struggle
+cours (nfpl, nm[pl]) /kuʁ/	course
+seigneur (nm) /sɛɲœʁ/	lord
+suffire (verb) /syfiʁ/	to be sufficient, suffice
+route (nf) /ʁut/	road
+cul (nm) /ky/	bum, arse, ass
+minute (nf) /minyt/	minute
+bonsoir (nm) /bɔ̃swaʁ/	good evening
+jeu (nm) /ʒø/	game
+ferme (adj) /fɛʁm/	shut, closed, locked
+plaisir (nm) /pleziʁ/	pleasure
+heureux (adj[pl]) /øʁø/	happy, lucky, fortunate
+mot (nm) /mo/	word
+musique (nf) /myzik/	music
+chien (nm) /ʃjɛ̃/	dog
+messieurs (nmpl) /mesjø/	gentlemen
+calme (nm, adj(f)) /kalm/	composure, calm
+parent (nm&f, adj) /paʁɑ̃/	parent
+dedans (adv, nm[pl], prep) /dədɑ̃/	inside, indoors
+mariage (nm) /maʁjaʒ/	marriage, wedding
+entrer (verb) /ɑ̃tʁe/	to enter, go in, come in, get in
+rentrer (verb) /ʁɑ̃tʁe/	to go in, come in, come back, return
+lit (nm) /li/	bed
+autant (adv) /otɑ̃/	as much, as many
+revenir (verb) /ʁəvəniʁ/	to come back
+parfait (nm, adj, int) /paʁfɛ/	perfect
+cœur (nm) /kœʁ/	heart
+ceci (pron) /səsi/	this
+service (nm) /sɛʁvis/	service
+téléphoner (verb) /telefɔne/	to telephone, phone, call
+pauvre (nmf, adj(f)) /povʁ/	poor
+mademoiselle (nf) /madmwazɛl/	Miss
+drôle (adj(f), nm) /dʁol/	funny, strange
+parfois (adv) /paʁfwa/	sometimes
+retour (nm) /ʁətuʁ/	return
+verre (nm) /vɛʁ/	glass
+six (det, num) /sis/	six
+ci (adv, pron) /si/	this one, here
+impossible (nm, adj(f)) /ɛ̃pɔsibl/	impossible
+payer (verb) /peje/	to pay
+facile (adj(f)) /fasil/	easy
+maître (nm) /mɛtʁ/	master
+mauvais (adv, nm, adj[pl]) /movɛ/	bad, wrong
+général (nm, adj) /ʒeneʁal/	general
+doute (nm) /dut/	doubt
+prison (nf) /pʁizɔ̃/	prison, jail
+adorer (verb) /adɔʁe/	to adore, worship
+faute (nf) /fot/	mistake, error, fault
+oublier (verb) /ublije/	to forget
+bras (nm[pl]) /bʁa/	arm
+exactement (adv) /ɛɡzaktəmɑ̃/	exactly
+fêter (verb) /fete/	to celebrate
+café (nm) /kafe/	coffee, café
+gentil (adj) /ʒɑ̃ti/	nice, kind
+valoir (verb) /valwaʁ/	to be worth
+lieu (nm) /ljø/	place
+malade (nmf, adj(f)) /malad/	mental patient; ill, sick
+changer (verb) /ʃɑ̃ʒe/	to change
+roi (nm) /ʁwa/	king
+commencer (verb) /kɔmɑ̃se/	to begin, start
+président (nm) /pʁezidɑ̃/	president
+travailler (verb) /tʁavaje/	to work
+partout (adv) /paʁtu/	everywhere, all over the place
+cher (adj, adv) /ʃɛʁ/	expensive
+rendre (verb) /ʁɑ̃dʁ/	to render, return, yield, give up
+écrire (verb) /ekʁiʁ/	to write
+équipe (nf) /ekip/	team
+sinon (conj) /sinɔ̃/	otherwise, or else, or
+esprit (nm) /ɛspʁi/	mind, spirit
+plan (adj, nm) /plɑ̃/	plan
+montrer (verb) /mɔ̃tʁe/	to show
+boire (nm, verb) /bwaʁ/	to drink
+propre (nm, adj(f)) /pʁɔpʁ/	particular; clean, proper
+état (nm) /eta/	state
+bois (nm[pl]) /bwa/	wood
+essayer (verb) /eseje/	to try
+dès (prep) /dɛ/	from, as soon
+sembler (verb) /sɑ̃ble/	to seem
+dix (det, num) /dis/	ten
+génial (adj) /ʒenjal/	inspired, great, brilliant
+sécurité (nf) /sekyʁite/	security, safety, health
+tôt (adj(i), adv) /to/	early
+rêver (verb) /ʁeve/	to dream
+armer (verb) /aʁme/	to arm
+avis (nm[pl]) /avi/	opinion, mind
+surtout (adv, nm) /syʁtu/	especially, above all
+difficile (adj(f)) /difisil/	difficult
+dormir (verb) /dɔʁmiʁ/	to sleep
+ensuite (adv) /ɑ̃sɥit/	next
+pire (adj(f), nm) /piʁ/	worse, worst
+simple (adj(f)) /sɛ̃pl/	simple, single
+paix (nf[pl]) /pɛ/	peace
+sujet (nm) /syʒɛ/	subject, topic
+retard (nm) /ʁətaʁ/	delay, late
+livre (nm, nf) /livʁ/	book; pound
+apprendre (verb) /apʁɑ̃dʁ/	to learn
+sale (adj(f)) /sal/	dirty
+souvent (adv) /suvɑ̃/	often
+sauf (adj, prep) /sof/	except
+choix (nm[pl]) /ʃwa/	choice
+sûrement (adv) /syʁmɑ̃/	surely
+or (conj, nm) /ɔʁ/	gold; hence, thus
+visage (nm) /vizaʒ/	face
+ordre (nm) /ɔʁdʁ/	order
+noir (nmf adj) /nwaʁ/	black (wo)man), black
+dîner (nm, verb) /dine/	dinner; to dine
+âge (nm) /aʒ/	age
+chemin (nm) /ʃəmɛ̃/	path, way
+bouillir (verb) /bujiʁ/	to boil
+face (nf) /fas/	front, side, face
+rue (nf) /ʁy/	street
+inquiet (adj) /ɛ̃kjɛ/	worried, anxious
+photo (nf) /fɔto/	photo
+sérieux (nm, adj[pl]) /seʁjø/	seriousness, serious
+ciel (nm) /sjɛl/	sky
+honneur (nm) /ɔnœʁ/	honor
+force (adv, nf) /fɔʁs/	force
+garder (verb) /ɡaʁde/	to keep
+tirer (verb) /tiʁe/	to pull, fire
+million (nm) /miljɔ̃/	million
+grave (adv, adj(f), nm) /ɡʁav/	serious, grave
+voix (nf[pl]) /vwa/	voice
+courant (adj, nm) /kuʁɑ̃/	current
+propos (nm[pl]) /pʁɔpo/	remark
+bateau (nm) /bato/	boat, ship
+con (adj, nmf) /kɔ̃/	stupid
+gauche (nf, adj(f)) /ɡoʃ/	left
+content (adj) /kɔ̃tɑ̃/	glad, pleased, happy
+prix (nm[pl]) /pʁi/	price; prize
+rouge (nm, adj(f)) /ʁuʒ/	red
+faim (nf) /fɛ̃/	hungry
+avion (nm) /avjɔ̃/	plane
+devenir (nm, verb) /dəvəniʁ/	to become
+prochain (adj, nm) /pʁɔʃɛ̃/	next; fellow man
+acheter (verb) /aʃte/	to buy
+voyage (nm) /vwajaʒ/	trip, journey
+sorte (nf) /sɔʁt/	sort, kind
+long (adv, adj, nm) /lɔ̃/	long, lengthy, length
+espèce (nf) /ɛspɛs/	species
+idiot (nmf, adj) /idjo/	idiot, fool, stupid
+gueule (nf) /ɡœl/	mouth, trap
+début (nm) /deby/	beginning
+bouger (verb) /buʒe/	to move, shift, budge
+continu (adj) /kɔ̃tiny/	continuous
+hôpital (nm) /ɔpital/	hospital
+grâce (nf) /ɡʁas/	thanks, grace, favor
+message (nm) /mesaʒ/	message
+certain (adj, det, nm, pron) /sɛʁtɛ̃/	certain, sure
+patron (nm) /patʁɔ̃/	boss
+recevoir (verb) /ʁəsəvwaʁ/	to receive
+ouvrir (verb) /uvʁiʁ/	to open
+promettre (verb) /pʁɔmɛtʁ/	to promise
+oncle (nm) /ɔ̃kl/	uncle
+euh (int) /ø/	er, um, uh
+bienvenue (nf, adj) /bjɛ̃vəny/	welcome
+occuper (verb) /ɔkype/	to occupy
+camp (nm) /kɑ̃/	camp
+manquer (verb) /mɑ̃ke/	to miss
+soleil (nm) /sɔlɛj/	sun
+cheveu (nm) /ʃəvø/	hair
+arme (adj) /aʁm/	armed
+salle (nf) /sal/	room
+bizarre (adj(f)) /bizaʁ/	strange, odd
+gagner (verb) /ɡaɲe/	to win, earn
+fondre (verb) /fɔ̃dʁ/	to melt, merge
+sauver (verb) /sove/	to rescue, save
+pièce (nf) /pjɛs/	piece, part, component; room
+erreur (nf) /eʁœʁ/	mistake, error
+ailleurs (adv) /ajœʁ/	elsewhere, somewhere else
+rapport (nm) /ʁapɔʁ/	relationship, report
+froid (nm, adj) /fʁwa/	cold
+scène (nf) /sɛn/	scene
+secret (nm, adj) /səkʁɛ/	secret
+sac (nm) /sak/	bag, sack
+second (adj, det, nm) /səɡɔ̃/	second
+cru (adj) /kʁy/	vintage, raw, crude
+allô (conj) /alo/	hello
+battre (verb) /batʁ/	to beat, hit
+hôtel (nm) /otɛl/	hotel
+soirée (nf) /swaʁe/	evening
+sœur (nf) /sœʁ/	sister
+pied (nm) /pje/	foot
+carte (nf) /kaʁt/	card
+joli (adj) /ʒɔli/	pretty, attractive
+groupe (nm) /ɡʁup/	group
+monter (verb) /mɔ̃te/	to go up, rise, assemble
+agent (nm, nf) /aʒɑ̃/	agent
+effet (nm) /efɛ/	effect
+libre (adj(f)) /libʁ/	free
+foutre (verb, nm) /futʁ/	to f*ck, shove off, piss off
+bordel (nm) /bɔʁdɛl/	brothel, mess, chaos
+neuf (det, adj, ni) /nœf/	nine; new
+faux (adv, adj[pl], nm[pl], nf[pl]) /fo/	false; scythe
+situation (nf) /sitɥasjɔ̃/	situation
+taire (verb) /tɛʁ/	to keep quiet, hold ones tongue
+lumière (nf) /lymjɛʁ/	light
+debout (adv) /dəbu/	standing
+Noël (nm) /nɔɛl/	Christmas
+cheval (nm) /ʃəval/	horse
+intérieur (nm adj) /ɛ̃teʁjœʁ/	interior, inside
+écouter (verb) /ekute/	to listen to
+loi (nf) /lwa/	law
+incroyable (adj(f)) /ɛ̃kʁwajabl/	incredible, amazing, unbelievable
+lettre (nf) /lɛtʁ/	letter
+présent (nm, adj) /pʁezɑ̃/	present
+absolument (adv) /apsɔlymɑ̃/	absolutely
+dame (int, nf) /dam/	lady
+professeur (nm, nf) /pʁɔfesœʁ/	professor, teacher
+fric (nm) /fʁik/	cash, money, dough
+retrouver (verb) /ʁətʁuve/	to find, recall
+coin (nm) /kwɛ̃/	corner
+table (nf) /tabl/	table
+colonel (nm) /kɔlɔnɛl/	colonel
+âme (nf) /am/	soul
+dos (nm[pl]) /do/	back
+magnifique (adj(f)) /maɲifik/	magnificent
+rencontrer (verb) /ʁɑ̃kɔ̃tʁe/	to meet
+réussir (verb) /ʁeysiʁ/	to succeed
+rappeler (verb) /ʁaple/	to recall, call back, remember
+tranquille (adj(f)) /tʁɑ̃kil/	quiet
+chaud (adv, nm, adj) /ʃo/	warm, hot
+agir (verb) /aʒiʁ/	to act
+doucement (adv) /dusmɑ̃/	gently, softly
+pareil (adj, nm) /paʁɛj/	similar, likewise; peer, equal; the same
+accident (nm) /aksidɑ̃/	accident
+appel (nm) /apɛl/	call, phone call
+anniversaire (nm, adj(f)) /anivɛʁsɛʁ/	anniversary, birthday
+blanc (adj, nm) /blɑ̃/	white
+risque (nm) /ʁisk/	risk
+moyen (adj, nm) /mwajɛ̃/	means, way; medium
+terminer (verb) /tɛʁmine/	to finish, end
+complètement (adv) /kɔ̃plɛtmɑ̃/	completely, fully
+clair (adv, adj) /klɛʁ/	clear
+meurtre (nm) /mœʁtʁ/	murder
+toucher (nm, verb) /tuʃe/	to touch
+dejeuner (nm, verb) /dəʒœne/	lunch, to eat lunch
+envoyer (verb) /ɑ̃vwaje/	to send
+lire (nf, verb) /liʁ/	to read; italian lira
+avance (nf) /avɑ̃s/	advance
+detester (verb) /dətɛste/	to hate, detest
+forme (nf) /fɔʁm/	form
+bord (nm) /bɔʁ/	edge, side
+decider (verb) /dəside/	to decide
+mer (nf) /mɛʁ/	sea
+medecin (nm) /mədsɛ̃/	physician, doctor
+midi (nm) /midi/	noon
+porter (nm, verb) /pɔʁte/	to wear, carry
+ignorer (verb) /iɲɔʁe/	to ignore
+silence (nm) /silɑ̃s/	silence
+diable (int, nm) /djabl/	devil
+cadeau (nm) /kado/	present, gift
+supposer (verb) /sypoze/	to suppose, assume
+flic (nm, nf) /flik/	cop
+avocat (nm) /avɔka/	lawyer
+jurer (verb) /ʒyʁe/	to swear
+anglais (nm, adj[pl]) /ɑ̃ɡlɛ/	English
+sept (det, num) /sɛt/	seven
+moitié (nf) /mwatje/	half
+surprendre (verb) /syʁpʁɑ̃dʁ/	to surprise
+chacun (pron) /ʃakœ̃/	each
+exact (adj) /ɛɡzakt/	exact, correct
+commander (verb) /kɔmɑ̃de/	to order, command
+télé (nf) /tele/	TV
+autour (adv, nm) /otuʁ/	around
+disparaître (verb) /dispaʁɛtʁ/	to disappear, vanish
+ligne (nf) /liɲ/	line
+expliquer (verb) /ɛksplike/	to explain
+arrivée (nf) /aʁive/	arrival
+simplement (adv) /sɛ̃pləmɑ̃/	simply, just
+mission (nf) /misjɔ̃/	mission
+balle (nf) /bal/	ball, bullet
+quitter (verb) /kite/	to leave
+selon (prep) /səlɔ̃/	according to
+classe (nf) /klas/	class
+pari (nm) /paʁi/	bet, wager
+peuple (nm) /pœpl/	people
+habitude (nf) /abityd/	habit
+voie (nf) /vwa/	road, lane, route, track, way
+dangereux (adj[pl]) /dɑ̃ʒʁø/	dangerous
+pote (nm) /pɔt/	mate
+contrôle (nm) /kɔ̃tʁol/	control
+honte (nf) /ɔ̃t/	shame
+impression (nf) /ɛ̃pʁesjɔ̃/	impression
+fou (adj, nm) /fu/	mad, crazy
+suivre (verb) /sɥivʁ/	to follow
+retourner (verb) /ʁətuʁne/	to return, go back
+offrir (verb) /ɔfʁiʁ/	to offer
+chanson (nf) /ʃɑ̃sɔ̃/	song, tune
+trou (nm) /tʁu/	hole
+arriere (adj(i), adv, nm) /aʁiʁ/	back, rear
+poste (nm, nf) /pɔst/	post, position, job; post office
+huit (det, num) /ɥit/	eight
+radio (adj(i), nm, nf) /ʁadjo/	radio
+ressembler (verb) /ʁəsɑ̃ble/	to look like, resemble
+attaque (nf) /atak/	attack
+baiser (nm, verb) /beze/	to kiss
+pourtant (adv) /puʁtɑ̃/	yet, nonetheless, nevertheless
+réponse (nf) /ʁepɔ̃s/	answer, response
+connard (nm) /kɔnaʁ/	shithead, asshole
+pute (nf) /pyt/	whore, bitch, prostitute
+bande (nf) /bɑ̃d/	band, strip
+enfer (nm) /ɑ̃fɛʁ/	hell
+triste (adj(f)) /tʁist/	sad
+tel (adj, det, pron) /tɛl/	such
+bravo (int, nm) /bʁavo/	bravo, well done
+plusieurs (det, adj, pron) /plyzjœʁ/	several
+exister (verb) /ɛɡziste/	to exist
+rire (nm, verb) /ʁiʁ/	to laugh
+compagnie (nf) /kɔ̃paɲi/	company
+étrange (adj(f)) /etʁɑ̃ʒ/	strange, odd
+exemple (nm) /ɛɡzɑ̃pl/	example
+combat (nm) /kɔ̃ba/	fight, combat, battle
+secours (nm[pl]) /səkuʁ/	help, aid, assistance
+connerie (nf) /kɔnʁi/	crap, bullsh*t, stupidity
+visiter (verb) /vizite/	to visit
+coucher (nm, verb) /kuʃe/	lie down, sleep
+imaginer (verb) /imaʒine/	to imagine
+merveilleux (adj[pl]) /mɛʁvɛjø/	marvellous, wonderful
+continuer (verb) /kɔ̃tinɥe/	to continue
+voler (verb) /vɔle/	to steal, rob
+lune (nf) /lyn/	moon
+bouche (nf) /buʃ/	mouth
+sud (adj(i), nm) /syd/	south
+danser (verb) /dɑ̃se/	to dance
+ennui (nm) /ɑ̃nɥi/	boredom, trouble, worry
+but (nm) /by/	goal, aim, objective, purpose
+hors (adv, prep) /ɔʁ/	except, outside
+sortie (nf) /sɔʁti/	exit
+boîte (nf) /bwat/	box
+vol (nm) /vɔl/	flight, theft
+public (nm, adj) /pyblik/	public, audience
+lieutenant (nm) /ljøtnɑ̃/	lieutenant
+système (nm) /sistɛm/	system
+époque (nf) /epɔk/	era, period
+bête (nf, adj(f)) /bɛt/	animal, beast; stupid
+vendre (verb) /vɑ̃dʁ/	to sell
+avenir (nm) /avniʁ/	future
+santé (nf) /sɑ̃te/	health
+amoureux (nmf, adj[pl]) /amuʁø/	lover; in love, amorous
+cuisine (nf) /kɥizin/	cooking, kitchen
+normal (adj) /nɔʁmal/	normal
+danger (nm) /dɑ̃ʒe/	danger
+gouvernement (nm) /ɡuvɛʁnəmɑ̃/	government
+village (nm) /vilaʒ/	village
+poser (verb) /poze/	to put, pose, ask
+ouvrir (verb) /uvʁiʁ/	to open
+journal (nm) /ʒuʁnal/	newspaper, paper
+approche (nf) /apʁɔʃ/	approach
+dommage (nm) /dɔmaʒ/	damage, harm; too bad, a pity
+peau (nf) /po/	skin
+nez (nm[pl]) /ne/	nose
+servir (verb) /sɛʁviʁ/	to serve
+sympa (adj) /sɛ̃pa/	friendly, nice, kind
+mille (det, nm, num) /mil/	thousand
+héros (nm[pl]) /eʁo/	hero
+banque (nf) /bɑ̃k/	bank
+clé (nf) /kle/	key
+seconde (det, nf) /səɡɔ̃d/	second
+nord (adj(i), nm) /nɔʁ/	north
+inspecteur (nm) /ɛ̃spɛktœʁ/	inspector
+liberté (nf) /libɛʁte/	liberty, freedom
+salaud (nm) /salo/	bastard
+cour (nf) /kuʁ/	yard, court
+juge (nm, nf) /ʒyʒ/	judge
+terrible (adj(f)) /teʁibl/	terrible, dreadful
+paraître (verb) /paʁɛtʁ/	to appear
+crime (nm) /kʁim/	crime
+asseoir (verb) /aswaʁ/	to sit
+thé (nm) /te/	tea
+bonheur (nm) /bɔnœʁ/	happiness
+tas (nm[pl]) /ta/	pile, lots of, heap
+travers (nm[pl]) /tʁavɛʁ/	breadth, across; fault, amiss
+stupide (adj(f)) /stypid/	stupid, silly, bemused
+blague (nf) /blaɡ/	joke
+préférer (verb) /pʁefeʁe/	to prefer
+conseil (nm) /kɔ̃sɛj/	advice, counsel, council
+protéger (verb) /pʁɔteʒe/	to protect
+rêve (nm) /ʁɛv/	dream
+pitié (nf) /pitje/	pity, mercy
+vin (nm) /vɛ̃/	wine
+don (nm) /dɔ̃/	gift
+sol (nm) /sɔl/	floor, ground
+vent (nm) /vɑ̃/	wind
+club (nm) /klœb/	club
+gamin (nm) /ɡamɛ̃/	kid
+tante (nf) /tɑ̃t/	aunt
+bar (nm) /baʁ/	bar
+milieu (nm) /miljø/	middle
+reine (nf) /ʁɛn/	queen
+signer (verb) /siɲe/	to sign
+centre (nm) /sɑ̃tʁ/	center, centre
+probablement (adv) /pʁɔbabləmɑ̃/	probably
+bière (nf) /bjɛʁ/	beer, coffin
+dingue (adj) /dɛ̃ɡ/	crazy, mad, wild, nutty
+inutile (adj(f)) /inytil/	useless
+nul (adj, det, pron) /nyl/	nil, null
+sentir (verb) /sɑ̃tiʁ/	to feel, smell
+différent (adj) /difeʁɑ̃/	different
+emmener (verb) /ɑ̃mne/	to take
+vêtement (nm) /vɛtmɑ̃/	garment, item or article of clothing
+liste (nf) /list/	list
+unir (verb) /yniʁ/	to unite, come to terms with
+société (nf) /sɔsjete/	society
+soin (nm) /swɛ̃/	care
+pierre (nf) /pjɛʁ/	stone
+utiliser (verb) /ytilize/	to use
+lequel (pron) /ləkɛl/	who, whom, which
+ficher (verb) /fiʃe/	to file; to make fun of, not care, not give a damn
+parole (nf) /paʁɔl/	word
+marier (verb) /maʁje/	to marry
+départ (nm) /depaʁ/	departure
+ennemi (nmf, adj) /ɛnmi/	enemy
+spectacle (nm) /spɛktakl/	sight, show
+recherche (nf) /ʁəʃɛʁʃ/	research, search
+choisir (verb) /ʃwaziʁ/	to choose
+intérêt (nm) /ɛ̃teʁɛ/	interest
+intéresser (verb) /ɛ̃teʁese/	to interest, involve
+rôle (nm) /ʁol/	role
+félicitations (nf) /felisitasjɔ̃/	congratulations
+descendre (verb) /desɑ̃dʁ/	to go down, come down
+tourner (verb) /tuʁne/	to turn, to spin
+position (nf) /pozisjɔ̃/	position
+blessé (adj, nmf) /blese/	injured; injured person, causualty
+humain (nm, adj) /ymɛ̃/	human
+match (nm) /matʃ/	match, game
+coupable (nmf, adj(f)) /kupabl/	guilty
+environ (adv, prep, nm) /ɑ̃viʁɔ̃/	about, thereabouts, or so
+art (nm) /aʁ/	art
+espoir (nm) /ɛspwaʁ/	hope
+mur (nm) /myʁ/	wall
+église (nf) /eɡliz/	church
+salope (nf) /salɔp/	slut
+beauté (nf) /bote/	beauty
+lâche (adj) /laʃ/	loose
+adresser (verb) /adʁese/	to address
+sauter (verb) /sote/	to jump
+colère (nf) /kɔlɛʁ/	anger, wrath
+directeur (nmf, adj) /diʁɛktœʁ/	director
+adieu (int, nm) /adjø/	goodbye, farewell, adieu
+parier (verb) /paʁje/	to bet
+tort (nm) /tɔʁ/	wrong
+conduire (verb) /kɔ̃dɥiʁ/	to lead, drive
+américain (adj, nm) /ameʁikɛ̃/	American, American English
+revenu (nm) /ʁəvəny/	income
+justice (nf) /ʒystis/	justice
+soldat (nm) /sɔlda/	soldier
+expérience (nf) /ɛkspeʁjɑ̃s/	experience
+cerveau (nm) /sɛʁvo/	brain
+fenêtre (nf) /fənɛtʁ/	window
+quartier (nm) /kaʁtje/	district, quarter
+prince (nm) /pʁɛ̃s/	prince
+riche (adj(f)) /ʁiʃ/	rich
+fleur (nf) /flœʁ/	flower
+présenter (verb) /pʁezɑ̃te/	to present
+presse (nf) /pʁɛs/	press
+ridicule (nm, adj(f)) /ʁidikyl/	ridiculousness, silly
+preuve (nf) /pʁœv/	proof
+épouser (verb) /epuze/	to marry, wed
+intéressant (adj) /ɛ̃teʁesɑ̃/	interesting
+gosse (nm, nf) /ɡɔs/	kid
+rose (adj(f), nf) /ʁoz/	pink; rose
+nature (nf) /natyʁ/	nature
+vide (adj(f), nm) /vid/	empty; vacuum
+responsable (adj(f), nmf) /ʁɛspɔ̃sabl/	responsible
+courage (nm) /kuʁaʒ/	courage
+capable (adj(f)) /kapabl/	able, capable
+cinéma (nm) /sinema/	cinema
+décision (nf) /desizjɔ̃/	decision
+taxi (nm) /taksi/	taxi
+chanter (verb) /ʃɑ̃te/	to sing
+excuser (verb) /ɛkskyze/	to excuse
+fier (adj, verb) /fjɛʁ/	to rely on; proud
+deuxième (det, nm, nf) /døzjɛm/	second
+appartement (nm) /apaʁtəmɑ̃/	apartment, flat
+contact (nm) /kɔ̃takt/	contact
+cacher (verb) /kaʃe/	to hide
+répondre (verb) /ʁepɔ̃dʁ/	to answer
+manière (nf) /manjɛʁ/	manner, way
+jambe (nf) /ʒɑ̃b/	leg
+occasion (nf) /ɔkazjɔ̃/	chance, opportunity
+défense (nf) /defɑ̃s/	defence
+longue (adj) /lɔ̃ɡ/	long
+jeter (verb) /ʒəte/	to throw
+formidable (adj(f)) /fɔʁmidabl/	tremendous, considerable, great
+base (nf) /baz/	base
+glace (nf) /ɡlas/	ice, ice cream; mirror
+dent (nf) /dɑ̃/	tooth
+parmi (prep) /paʁmi/	among
+immediatement (adv) /imdjatmɑ̃/	immediately
+paie (nf) /pɛ/	pay, payroll
+machine (nf) /maʃin/	machine
+vacance (nf) /vakɑ̃s/	vacancy; vacation ; holiday
+monstre (nm adj(f)) /mɔ̃stʁ/	monster
+tueur (nm) /tɥœʁ/	killer, hit man
+naitre (verb) /nɛtʁ/	to be born
+francais (nm, adj[pl]) /fʁɑ̃kɛ/	French
+course (nf) /kuʁs/	race, shopping
+majeste (nf) /maʒɛst/	majesty
+mien (pron) /mjɛ̃/	mine
+type (nm) /tip/	type; guy
+certainement (adv) /sɛʁtɛnmɑ̃/	certainly
+couper (verb) /kupe/	to cut
+ha (int) /a/	oh
+importance (nf) /ɛ̃pɔʁtɑ̃s/	importance
+ouest (adj(i), nm) /wɛst/	west
+chat (nm) /ʃa/	cat; chat
+degager (verb) /dəɡaʒe/	to free, clear
+chier (verb) /ʃje/	to sh*t, piss off, get pissed off
+ravir (verb) /ʁaviʁ/	to delight, rob
+joie (nf) /ʒwa/	joy
+lorsque (conj) /lɔʁsk/	when
+superbe (nf, adj(f)) /sypɛʁb/	arrogance; superb, magnificent
+bain (nm) /bɛ̃/	bath, bathing
+horrible (adj(f)) /ɔʁibl/	horrible, terrible, dreadful, hideous
+court (adj, adv, nm) /kuʁ/	short
+deranger (verb) /dəʁɑ̃ʒe/	to disturb, bother
+bombe (nf) /bɔ̃b/	bomb
+ramener (verb) /ʁamne/	to bring back, return, take back
+realite (nf) /ʁilit/	reality
+enqueter (verb) /ɑ̃kte/	to investigate, hold inquiry, conduct a survey
+camion (nm) /kamjɔ̃/	truck
+signifier (verb) /siɲifje/	to mean
+cent (det, nm) /sɑ̃/	one hundred, cent
+rencontre (nm) /ʁɑ̃kɔ̃tʁ/	meeting
+excellent (adj) /ɛksɛlɑ̃/	excellent
+respect (nm) /ʁɛspɛ/	respect
+terrain (nm) /teʁɛ̃/	ground, terrain
+projet (nm) /pʁɔʒɛ/	project
+eviter (verb) /əvite/	to avoid
+poisson (nm) /pwasɔ̃/	fish
+plupart /plypaʁ/	the majority, most
+joyeux (adj[pl]) /ʒwajø/	merry, joyful, happy
+empecher (verb) /ɑ̃pʃe/	to prevent
+envers (nm[pl], prep) /ɑ̃vɛʁ/	towards
+kilometre (nm) /kilɔmɛtʁ/	kilometer
+ange (nm) /ɑ̃ʒ/	angel
+copine (nf) /kɔpin/	girlfriend
+chaussure (nf) /ʃosyʁ/	shoe, sneakers
+dossier (nm) /dosje/	file, record; case
+règle (adj) /ʁɛɡl/	regular, steady, well-ordered, ruled
+animal (nm, adj) /animal/	animal
+langue (nf) /lɑ̃ɡ/	language, tongue
+imbécile (adj, nf) /ɛ̃besil/	imbecile, fool
+princesse (nf) /pʁɛ̃sɛs/	princess
+zone (nf) /zon/	zone, area
+droguer (verb) /dʁɔɡe/	to drug, take drugs
+charge (nf) /ʃaʁʒ/	to charge, load
+enfoiré (nm) /ɑ̃fwaʁe/	bastard
+nourriture (nf) /nuʁityʁ/	food
+pont (nm) /pɔ̃/	bridge
+refuser (verb) /ʁəfyze/	to refuse
+contraire (nm, adj(f)) /kɔ̃tʁɛʁ/	opposite, contrary
+enchanter (verb) /ɑ̃ʃɑ̃te/	to delight, enchant, rejoice
+douleur (nf) /dulœʁ/	pain
+politique (nm, nf, adj(f)) /pɔlitik/	politician; politics; political
+fait (adj, nm) /fɛ/	done, fact
+magasin (nm) /maɡazɛ̃/	store, shop
+entier (nm, adj) /ɑ̃tje/	whole, full
+chapeau (nm) /ʃapo/	hat
+raconter (verb) /ʁakɔ̃te/	to tell
+discuter (verb) /diskyte/	to discuss, debate; to question
+papier (nm) /papje/	paper
+action (nf) /aksjɔ̃/	action
+permettre (verb) /pɛʁmɛtʁ/	to allow
+rapide (adj(f), nm) /ʁapid/	fast, quick; rapids, fast train
+frais (adj[pl], adv, nm[pl]) /fʁɛ/	cool, fresh; fee, expense
+réunion (nf) /ʁeynjɔ̃/	meeting, reunion
+île (nf) /il/	island
+toilette (nf) /twalɛt/	washing, toilet, lavatory, bathroom, restroom
+coder (verb) /kɔde/	to code, encode
+opération (nf) /ɔpeʁasjɔ̃/	operation
+spécial (adj) /spesjal/	special
+planète (nf) /planɛt/	planet
+champ (nm) /ʃɑ̃/	field, realm
+couleur (nf) /kulœʁ/	color
+pain (nm) /pɛ̃/	bread
+destin (nm) /dɛstɛ̃/	fate, destiny
+découvrir (verb) /dekuvʁiʁ/	to discover, find out
+puisque (conj) /pɥisk/	since
+tailler (verb) /taje/	to cut, carve, engrave, sharpen, trim
+vaisseau (nm) /vɛso/	ship, vessel
+sexe (nm) /sɛks/	sex
+sacré (adj) /sakʁe/	sacred
+repas (nm[pl]) /ʁəpa/	meal
+contrat (nm) /kɔ̃tʁa/	contract
+nécessaire (nm, adj(f)) /nesesɛʁ/	necessary, required
+client (nm) /klijɑ̃/	client, customer
+détruire (verb) /detʁɥiʁ/	to destroy
+lait (nm) /lɛ/	milk
+mémoire (nm, nf) /memwaʁ/	memory
+pleurer (verb) /plœʁe/	to cry
+copain (nm) /kɔpɛ̃/	friend, buddy, mate
+reste (nm) /ʁɛst/	rest
+personnel (noun, adj) /pɛʁsɔnɛl/	personnel, personal
+doubler (verb) /duble/	to double, pass; to dub
+mignon (adj) /miɲɔ̃/	cute
+couteau (nm) /kuto/	knife
+témoin (nm) /temwɛ̃/	witness
+foi (nf) /fwa/	faith
+remercier (verb) /ʁəmɛʁsje/	to thank
+direction (nf) /diʁɛksjɔ̃/	direction, management
+malin (noun, adj) /malɛ̃/	smart, shrewd, cunning
+niveau (nm) /nivo/	level
+remettre (verb) /ʁəmɛtʁ/	to deliver, replace, set, put back
+habiter (verb) /abite/	to live
+apporter (verb) /apɔʁte/	to bring
+procès (nm[pl]) /pʁɔsɛ/	trial, proceedings
+doux (adv, noun, adj[pl]) /du/	soft, sweet
+solution (nf) /sɔlysjɔ̃/	solution
+fermer (verb) /fɛʁme/	to close, shut
+goût (nm) /ɡu/	taste
+amuser (verb) /amyze/	to amuse
+différence (nf) /difeʁɑ̃s/	difference
+stop (nm, int) /sto/	stop
+réfléchir (verb) /ʁefleʃiʁ/	to reflect
+enceinte (adjf, nf) /ɑ̃sɛ̃t/	pregnant; enclosure
+université (nf) /ynivɛʁsite/	university, college
+bleu (adj, nm) /blø/	blue
+mètre (nm) /mɛtʁ/	meter
+marre (nf) /maʁ/	fed up, to have enough
+mentir (verb) /mɑ̃tiʁ/	to lie
+courir (verb) /kuʁiʁ/	to run
+arranger (verb) /aʁɑ̃ʒe/	to arrange
+officier (nm, nf, verb) /ɔfisje/	officer; officiate
+espace (nm, nf) /ɛspas/	space
+sourire (nm, verb) /suʁiʁ/	smile; to smile
+mérite (nm) /meʁit/	merit
+lettre (nf) /lɛtʁ/	letter
+accepter (verb) /aksɛpte/	to accept, admit
+failli (adj) /faji/	bankrupt
+angleterre (nf) /ɑ̃ɡlətɛʁ/	England
+vitesse (nf) /vitɛs/	speed
+jambe (nf) /ʒɑ̃b/	leg
+camera (nf) /kamʁa/	camera
+arbre (nm) /aʁbʁ/	tree
+force (adv, nf) /fɔʁs/	force
+trésor (nm) /tʁezɔʁ/	treasure, treasury
+victime (nf) /viktim/	victim
+énergie (nf) /enɛʁʒi/	energy
+énorme (adj(f)) /enɔʁm/	enormous, huge
+appartenir (verb) /apaʁtəniʁ/	to belong
+préparer (verb) /pʁepaʁe/	to prepare
+regretter (verb) /ʁəɡʁete/	to regret
+finalement (adv) /finalmɑ̃/	finally, eventually
+inviter (verb) /ɛ̃vite/	to invite
+moindre (adj(f)) /mwɛ̃dʁ/	lesser, least, slightest
+censé (adj) /sɑ̃se/	supposed
+image (nf) /imaʒ/	picture, image
+justement (adv) /ʒystəmɑ̃/	exactly, rightly, precisely
+enlever (verb) /ɑ̃lve/	to remove, to take off
+chasse (nf) /ʃas/	chase, hunt, hunting
+unique (adj(f)) /ynik/	unique
+arrêt (nm) /aʁɛ/	stop
+filer (verb) /file/	to spin, run, get out
+balle (nf) /bal/	ball, bullet
+dimanche (nm) /dimɑ̃ʃ/	Sunday
+lycée (nm) /lise/	high school
+fil (nm) /fil/	thread, wire
+morceau (nm) /mɔʁso/	piece, bit
+durant (prep) /dyʁɑ̃/	during, for
+casser (verb) /kase/	to break
+doigt (nm) /dwa/	finger
+vérifier (verb) /veʁifje/	to check, verify
+appareil (nm) /apaʁɛj/	apparatus, device
+piste (nf) /pist/	track, trail, path
+troisième (det, nm, nf) /tʁwazjɛm/	third
+dépendre (verb) /depɑ̃dʁ/	to depend
+programme (nm) /pʁɔɡʁam/	program
+honnête (adj(f)) /ɔnɛt/	honest, decent, fair
+voiture (nf) /vwatyʁ/	car
+régler (verb) /ʁeɡle/	to pay, adjust, settle
+aveugle (noun, adj(f)) /avœɡl/	blind
+présence (nf) /pʁezɑ̃s/	presence
+crise (nf) /kʁiz/	crisis
+amener (verb) /amne/	to bring
+interdire (verb) /ɛ̃tɛʁdiʁ/	to forbid, prohibit, ban
+lever (verb) /ləve/	to lift, raise
+obtenir (verb) /ɔptəniʁ/	to get, obtain
+pluie (nf) /plɥi/	rain
+récupérer (verb) /ʁekypeʁe/	to get back, recover, recuperate
+prouver (verb) /pʁuve/	to prove
+souris (nf[pl]) /suʁi/	mouse
+restaurer (verb) /ʁɛstɔʁe/	to restore, feed
+regard (nm) /ʁəɡaʁ/	look, glance
+intention (nf) /ɛ̃tɑ̃sjɔ̃/	intention
+cou (nm) /ku/	neck
+proche (adv, noun, adj(f), prep) /pʁɔʃ/	nearby, close
+urgence (nf) /yʁʒɑ̃s/	emergency
+folie (nf) /fɔli/	madness, folly, insanity
+ancien (adj, nm) /ɑ̃sjɛ̃/	ancient; former
+relation (nf) /ʁəlasjɔ̃/	relationship
+bouteille (nf) /butɛj/	bottle
+étager (nm) /etaʒe/	floor
+rejoindre (verb) /ʁəʒwɛ̃dʁ/	to rejoin, reunite
+cassé (adj) /kase/	broken
+jardin (nm) /ʒaʁdɛ̃/	garden
+malgré (prep) /malɡʁe/	despite, in spite of
+oiseau (nm) /wazo/	bird
+frappé (nf) /fʁape/	strike, striking, stamp, impression, punch
+nombre (nm) /nɔ̃bʁ/	number
+sentiment (nm) /sɑ̃timɑ̃/	feeling
+toit (nm) /twa/	roof
+lors (adv) /lɔʁ/	at the time of, during
+métier (nm) /metje/	job, occupation, trade
+maladie (nf) /maladi/	illness, disease
+poche (nf) /pɔʃ/	pocket
+frapper (verb) /fʁape/	to hit, strike, knock
+succès (nm[pl]) /syksɛ/	success
+dessous (adv, nm[pl], prep) /dəsu/	underneath, below, bottom, underside
+théâtre (nm) /teatʁ/	theater
+chinois (noun, adj[pl]) /ʃinwa/	Chinese
+craindre (verb) /kʁɛ̃dʁ/	to fear, be afraid of
+afin /afɛ̃/	in order to, so that, so as
+gare (int, nf) /ɡaʁ/	station, railway station; beware
+billet (nm) /bijɛ/	ticket
+remarquer (verb) /ʁəmaʁke/	to remark; to notice, point out
+paradis (nm[pl]) /paʁadi/	paradise, heaven
+étranger (noun, adj) /etʁɑ̃ʒe/	foreigner; foreign
+campagne (nf) /kɑ̃paɲ/	countryside
+alcool (nm) /alkɔl/	alcohol
+samedi (nm) /samdi/	Saturday
+produire (verb) /pʁɔdɥiʁ/	to product
+répéter (verb) /ʁepete/	to repeat
+souhaiter (verb) /swete/	to wish
+odeur (nf) /ɔdœʁ/	smell, odor
+vôtre (det) /votʁ/	your (form & pl)
+attendant (adv) /atɑ̃dɑ̃/	meanwhile
+montagne (nf) /mɔ̃taɲ/	mountain
+fantastique (noun, adj(f)) /fɑ̃tastik/	fantastic, terrific, great, weird, eerie
+victoire (nf) /viktwaʁ/	victory
+carrière (nf) /kaʁjɛʁ/	career
+fatiguer (verb) /fatiɡe/	to tire, get
+rater (verb) /ʁate/	to miss, misfire
+règle (adj) /ʁɛɡl/	regular, steady, well-ordered, ruled
+assurer (verb) /asyʁe/	to assure, insure
+queue (nf) /kø/	tail, handle, stalk, stem, rear
+viande (nf) /vjɑ̃d/	meat
+rivière (nf) /ʁivjɛʁ/	river
+suivant (noun, adj, prep) /sɥivɑ̃/	following
+obliger (verb) /ɔbliʒe/	to require, force, oblige, to have to
+fusil (nm) /fyzi/	rifle, gun
+passager (noun, adj) /pasaʒe/	passenger, temporary
+hasard (nm) /azaʁ/	chance, luck
+neige (nf) /nɛʒ/	snow
+parfaitement (adv) /paʁfɛtmɑ̃/	perfectly
+journal (nm) /ʒuʁnal/	newspaper, paper
+échapper (verb) /eʃape/	to escape
+plage (nf) /plaʒ/	beach
+signal (nm) /siɲal/	signal
+crétin (nm) /kʁetɛ̃/	dumbass
+vidéo (adj(i), nf) /video/	video
+coffrer (nm) /kɔfʁe/	trunk, boot, chest
+pression (nf) /pʁesjɔ̃/	pressure
+costume (nm) /kɔstym/	suit, costume, dress
+information (nf) /ɛ̃fɔʁmasjɔ̃/	information
+futur (noun, adj) /fytyʁ/	future
+univers (nm[pl]) /ynivɛʁ/	universe
+volonté (nf) /vɔlɔ̃te/	will
+attendu (adj) /atɑ̃dy/	expected
+excuse (nf) /ɛkskyz/	excuse, apology
+faible (noun, adj(f)) /fɛbl/	weak
+attraper (verb) /atʁape/	to catch, get, pick up
+inquiéter (verb) /ɛ̃kjete/	to worry, disturb
+cesse (adv) /sɛs/	constantly, always
+ministre (nm, nf) /ministʁ/	minister
+naissance (nf) /nɛsɑ̃s/	birth
+utile (adj(f)) /ytil/	useful
+gaz (nm[pl]) /ɡaz/	gas
+bataille (nf) /bataj/	battle
+voleur (noun, adj) /vɔlœʁ/	thief, light-fingered
+poids (nm[pl]) /pwa/	weight
+discourir (verb) /diskuʁiʁ/	to discuss, to discourse, ramble
+star (nf) /staʁ/	star
+gâteau (noun, adj) /ɡato/	cake
+ventre (nm) /vɑ̃tʁ/	belly, stomach
+connaissance (nf) /kɔnɛsɑ̃s/	knowledge
+vif (noun, adj) /vif/	lively
+assassin (noun, adj) /asasɛ̃/	murderer, assassin
+vendredi (nm) /vɑ̃dʁədi/	Friday
+couple (nm, nf) /kupl/	couple
+sérieusement (adv) /seʁjøzmɑ̃/	seriously
+militaire (noun, adj(f)) /militɛʁ/	military
+date (nf) /dat/	date
+titre (nm) /titʁ/	title
+génie (nm) /ʒeni/	genius
+autrement (adv) /otʁəmɑ̃/	differently, something else, otherwise
+amener (verb) /amne/	to bring
+os (nm[pl]) /ɔs/	bone
+valeur (nf) /valœʁ/	value, worth
+puissant (noun, adj) /pɥisɑ̃/	powerful
+style (nm) /stil/	style
+vert (noun, adj) /vɛʁ/	green
+fortune (nf) /fɔʁtyn/	fortune
+poulet (nm) /pulɛ/	chicken
+embrasser (verb) /ɑ̃bʁase/	to kiss, embrace
+genou (nm) /ʒənu/	knee
+célèbre (adj(f)) /selɛbʁ/	famous
+cibler (verb) /sible/	to target
+cousin (nm) /kuzɛ̃/	cousin
+conscience (nf) /kɔ̃sjɑ̃s/	conscience, consciousness
+prévenir (verb) /pʁevəniʁ/	to prevent, warn; to notify
+article (nm) /aʁtikl/	article
+étoile (nf) /etwal/	star
+millier (nm) /milje/	thousand
+reprendre (verb) /ʁəpʁɑ̃dʁ/	to resume, recover, start again, take back
+mine (nf) /min/	appearance, look, skin
+charmant (adj) /ʃaʁmɑ̃/	charming
+reposer (verb) /ʁəpoze/	to rest
+noter (verb) /nɔte/	to note, notice, write down
+agréable (noun, adj(f)) /aɡʁeabl/	pleasant, nice, agreeable
+château (nm) /ʃato/	castle
+bal (nm) /bal/	ball
+oreille (nf) /ɔʁɛj/	ear
+apparemment (adv) /apaʁamɑ̃/	apparently
+zéro (nm) /zeʁo/	zero
+saint (noun, adj) /sɛ̃/	saint, holy
+marrant (noun, adj) /maʁɑ̃/	funny, funny guy
+joue (nf) /ʒu/	cheek
+salon (nm) /salɔ̃/	lounge, living room
+lève (nf) /lɛv/	survey
+conversation (nf) /kɔ̃vɛʁsasjɔ̃/	conversation
+piloter (verb) /pilɔte/	to fly, pilot, drive
+fer (nm) /fɛʁ/	iron
+gorge (nf) /ɡɔʁʒ/	throat
+victime (nf) /viktim/	victim
+détail (nm) /detaj/	detail
+priver (verb) /pʁive/	to deprive
+violence (nf) /vjɔlɑ̃s/	violence
+nerveux (noun, adj[pl]) /nɛʁvø/	nervous, irritable
+aéroport (nm) /aeʁɔpɔʁ/	airport
+direct (noun, adj) /diʁɛkt/	direct
+tribunal (nm) /tʁibynal/	court
+paquet (nm) /pakɛ/	packet
+fumer (verb) /fyme/	to smoke
+aise (noun, adj(f)) /ɛz/	comfort, joy, pleasure, ease
+emmerder (verb) /ɑ̃mɛʁde/	to bug, bother
+joindre (verb) /ʒwɛ̃dʁ/	to join
+lance (nf) /lɑ̃s/	lance, spear
+usiner (nf) /yzine/	factory
+défendre (verb) /defɑ̃dʁ/	to defend, forbid
+forêt (nf) /fɔʁɛ/	forest
+champion (noun, adj) /ʃɑ̃pjɔ̃/	champion
+horreur (nf) /ɔʁœʁ/	horror
+test (nm) /tɛst/	test
+désormais (adv) /dezɔʁmɛ/	from now on, henceforth
+extérieur (noun, adj) /ɛksteʁjœʁ/	exterior
+désert (adj, nm) /dezɛʁ/	desert, wilderness
+intelligent (adj) /ɛ̃teliʒɑ̃/	intelligent, clever, bright, smart
+hum (int) /œm/	um, uh, Hmm
+compte (nm) /kɔ̃t/	account, count
+mode (nm, nf) /mɔd/	mode, way, fashion
+série (nf) /seʁi/	series
+pis (adv, nm[pl]) /pi/	worse
+sage (noun, adj(f)) /saʒ/	wise, good, sound, sensible
+concerner (verb) /kɔ̃sɛʁne/	to concern
+grandir (verb) /ɡʁɑ̃diʁ/	to grow, increase, expand
+pousser (verb) /puse/	to push
+vache (adj(f), nf) /vaʃ/	cow
+repos (nm[pl]) /ʁəpo/	rest
+ordinateur (noun, adj) /ɔʁdinatœʁ/	computer
+rock (nm) /ʁɔk/	rock music
+ombre (nm, nf) /ɔ̃bʁ/	shade, shadow
+russe (noun, adj(f)) /ʁys/	Russian
+minuit (nm) /minɥi/	midnight
+amusant (noun, adj) /amyzɑ̃/	funny, amusing, entertaining
+membre (nm) /mɑ̃bʁ/	member
+ouvert (adj) /uvɛʁ/	open
+nombreux (adj[pl]) /nɔ̃bʁø/	numerous
+également (adv) /eɡalmɑ̃/	also, too, as well, equally
+mince (adj(f), int) /mɛ̃s/	thin, slim, slender
+essence (nf) /esɑ̃s/	gas, petrol
+maire (nm) /mɛʁ/	mayor
+lundi (nm) /lœ̃di/	Monday
+moteur (noun, adj) /mɔtœʁ/	motor
+réparer (verb) /ʁepaʁe/	to repair, fix, correct, make up
+franchement (adv) /fʁɑ̃ʃmɑ̃/	frankly
+cigarette (nf) /siɡaʁɛt/	cigarette
+partager (verb) /paʁtaʒe/	to share
+puissance (nf) /pɥisɑ̃s/	power
+hiver (nm) /ivɛʁ/	winter
+souffle (nm) /sufl/	breath, puff
+tenter (verb) /tɑ̃te/	to tempt, try
+vingt (det, num) /vɛ̃/	twenty
+miracle (nm) /miʁakl/	miracle
+apprécier (verb) /apʁesje/	to appreciate
+artiste (noun, adj(f)) /aʁtist/	artist
+créer (verb) /kʁee/	to create
+lac (nm) /lak/	lake
+sommeil (nm) /sɔmɛj/	sleep, sleepiness
+réveiller (verb) /ʁeveje/	to wake up
+leçon (nf) /ləsɔ̃/	lesson
+chemise (nf) /ʃəmiz/	shirt, folder
+fantôme (nm) /fɑ̃tom/	ghost, phantom
+acteur (nm) /aktœʁ/	actor
+parc (nm) /paʁk/	park
+chair (nf) /ʃɛʁ/	flesh
+rue (nf) /ʁy/	street
+reculer (verb) /ʁəkyle/	to move back, back up, move backward
+japonais (noun, adj[pl]) /ʒapɔnɛ/	Japanese
+coûter (verb) /kute/	to cost
+semblant (nm) /sɑ̃blɑ̃/	semblance, pretence
+annoncer (verb) /anɔ̃se/	to announce
+échange (nm) /eʃɑ̃ʒ/	exchange
+payer (verb) /peje/	to pay
+débarrasser (verb) /debaʁase/	to clear, get rid of
+fuir (verb) /fɥiʁ/	to flee
+supplier (verb) /syplije/	to beg, implore, plead
+gouverneur (nm, nf) /ɡuvɛʁnœʁ/	governor
+mark (nm) /maʁk/	mark
+chauffeur (nm) /ʃofœʁ/	driver, chauffeur
+marquer (verb) /maʁke/	to mark
+rapidement (adv) /ʁapidmɑ̃/	quickly, rapidly
+unité (nf) /ynite/	unity; unit
+fesser (verb) /fese/	to spank
+souci (nm) /susi/	worry, concern, care
+manteau (nm) /mɑ̃to/	coat, overcoat
+allemand (noun, adj) /almɑ̃/	German
+pantalon (nm) /pɑ̃talɔ̃/	trousers, pants
+policier (noun, adj) /pɔlisje/	policeman
+innocent (noun, adj) /inɔsɑ̃/	innocent
+véritable (adj(f)) /veʁitabl/	real, TRUE
+caisse (nf) /kɛs/	till, cash desk, cashier
+lunette(s) (nf) /lynetɛ)/	sg: telescope; pl: glasses
+patient (noun, adj) /pasjɑ̃/	patient
+menteur (nm) /mɑ̃tœʁ/	liar
+perte (nf) /pɛʁt/	loss
+menace (nf) /mənas/	threat
+émission (nf) /emisjɔ̃/	transmision, broadcasting, programme
+abandonner (verb) /abɑ̃dɔne/	to give up, abandon
+permission (nf) /pɛʁmisjɔ̃/	permission, leave
+herbe (nf) /ɛʁb/	grass, herb
+front (nm) /fʁɔ̃/	front, forehead
+juif (noun, adj) /ʒɥif/	Jew, Jewish
+chouette (nf, adj, int) /ʃwɛt/	owl, nice, awesome!
+chaise (nf) /ʃɛz/	chair
+suicider (verb) /sɥiside/	to commit suicide
+malheureusement (adv) /maløʁøzmɑ̃/	unfortunately
+chocolat (adj(i), nm) /ʃɔkɔla/	chocolate
+mouvement (nm) /muvmɑ̃/	movement
+identité (nf) /idɑ̃tite/	identity
+douche (nf) /duʃ/	shower, douche
+chaleur (nf) /ʃalœʁ/	heat
+lèvre (nf) /lɛvʁ/	lip
+étude (nf) /etyd/	study
+faveur (nf) /favœʁ/	favor
+totalement (adv) /tɔtalmɑ̃/	totally
+pause (nf) /poz/	break, pause
+mai (nm) /mɛ/	May
+soudain (adj, adv) /sudɛ̃/	sudden, suddenly
+heureusement (adv) /øʁøzmɑ̃/	fortunately, luckily
+choc (nm) /ʃɔk/	shock, clash
+note (nf) /nɔt/	note, grade
+piéger (verb) /pjeʒe/	to trap, booby-trap
+malheur (nm) /malœʁ/	misfortune
+attaquer (verb) /atake/	to attack
+mars (nm[pl]) /maʁs/	March; Mars
+fonctionner (verb) /fɔ̃ksjɔne/	to function, work
+portable (adj(f), nm) /pɔʁtabl/	portable, wearable; cell phone
+secrétaire (nm, nf) /səkʁetɛʁ/	secretary
+mensonge (nm) /mɑ̃sɔ̃ʒ/	lie
+nettoyer (verb) /netwaje/	to clean
+gloire (nf) /ɡlwaʁ/	glory, fame
+accès (nm[pl]) /aksɛ/	access
+changement (nm) /ʃɑ̃ʒmɑ̃/	change
+poupée (nf) /pupe/	doll, dolly, puppet
+bref (adj, adv, nm) /bʁɛf/	brief, short
+réel (noun, adj) /ʁeɛl/	real
+ballon (nm) /balɔ̃/	ball
+abri (nm) /abʁi/	shelter
+corde (nf) /kɔʁd/	rope, cord, string
+respirer (verb) /ʁɛspiʁe/	to breathe
+plat (adj, nm) /pla/	dish, flat
+emploi (nm) /ɑ̃plwa/	employment, work, use
+ennuyer (verb) /ɑ̃nɥije/	to bore, worry, bother
+attrape (nf) /atʁap/	catch
+foule (nf) /ful/	crowd
+larme (nf) /laʁm/	tear
+siècle (nm) /sjɛkl/	century
+atteindre (verb) /atɛ̃dʁ/	to reach
+veste (nf) /vɛst/	jacket
+couverture (nf) /kuvɛʁtyʁ/	blanket
+fac (nf) /fak/	uni, university
+mener (verb) /məne/	to lead, live
+lancer (nm, verb) /lɑ̃se/	to throw, launch, start
+piano (adv, nm) /pjano/	piano
+source (nf) /suʁs/	source, spring
+camarade (nm, nf) /kamaʁad/	friend, comrade, pal, mate
+couche (nf) /kuʃ/	layer, coat
+prêtre (nm) /pʁɛtʁ/	priest
+saison (nf) /sɛzɔ̃/	season
+mesurer (verb) /məzyʁe/	to measure
+entreprendre (verb) /ɑ̃tʁəpʁɑ̃dʁ/	to begin, start, undertake
+supporter (nm, verb) /sypɔʁte/	to support, endure
+évidemment (adv) /evidamɑ̃/	obviously
+image (nf) /imaʒ/	picture, image
+distance (nf) /distɑ̃s/	distance
+commettre (verb) /kɔmɛtʁ/	to commit
+delà (adv) /dəla/	beyond, above, over
+laver (verb) /lave/	to wash, clean
+somme (nm, nf) /sɔm/	amount, sum; nap
+affreux (noun, adj[pl]) /afʁø/	dreadful, awful, horrible
+ours (adj(i), nm[pl]) /uʁs/	bear
+geste (nm) /ʒɛst/	gesture
+prisonnier (noun, adj) /pʁizɔnje/	prisoner, captive
+directement (adv) /diʁɛktəmɑ̃/	directly
+tableau (nm) /tablo/	frame, picture, painting, panel
+reconnaître (verb) /ʁəkɔnɛtʁ/	to recognize
+demi (adj(i), adv, nm) /dəmi/	half
+commissaire (nm, nf) /kɔmisɛʁ/	superintendent, commissioner
+alerte (adj(f), nf) /alɛʁt/	agile, alert, warning
+plaisanter (verb) /plɛzɑ̃te/	to joke
+crier (verb) /kʁije/	to shout, scream, cry out
+singe (nm) /sɛ̃ʒ/	monkey
+prudent (adj) /pʁydɑ̃/	prudent, careful, cautious
+ressentir (verb) /ʁəsɑ̃tiʁ/	to feel
+donne (adj) /dɔn/	given
+convaincre (verb) /kɔ̃vɛ̃kʁ/	to convince
+aube (nf) /ob/	dawn, daybreak
+propriétaire (nm, nf) /pʁɔpʁijetɛʁ/	owner
+laisse (nf) /lɛs/	leash, lead
+coincer (verb) /kwɛ̃se/	to jam, hinder, get stuck
+tenu (adj) /təny/	tenuous, slender, held
+bite (nf) /bit/	cock
+étoile (nf) /etwal/	star
+frontière (nf) /fʁɔ̃tjɛʁ/	border
+remonter (verb) /ʁəmɔ̃te/	to go back up
+sec (adj, adv, nm) /sɛk/	dry
+diriger (verb) /diʁiʒe/	to lead, direct
+soi (ni, pron) /swa/	one, oneself, self
+facilement (adv) /fasilmɑ̃/	easily
+porc (nm) /pɔʁ/	pig, pork
+vierge (noun, adj(f)) /vjɛʁʒ/	virgin
+réserver (verb) /ʁezɛʁve/	to book, to reserve
+haïr (verb) /aiʁ/	to detest, hate, abhor
+suspect (noun, adj) /syspɛ/	suspicious, suspect
+station (nf) /stasjɔ̃/	station
+tromper (verb) /tʁɔ̃pe/	to deceive
+souffrir (verb) /sufʁiʁ/	to suffer
+bagage (nm) /baɡaʒ/	luggage, baggage
+protection (nf) /pʁɔtɛksjɔ̃/	protection
+tir (nm) /tiʁ/	fire, shot, launch
+dame (int, nf) /dam/	lady
+empereur (nm) /ɑ̃pʁœʁ/	emperor
+océan (nm) /ɔseɑ̃/	ocean
+concert (nm) /kɔ̃sɛʁ/	concert
+immeuble (noun, adj(f)) /imœbl/	building
+virer (verb) /viʁe/	to turn, change, transfer, kick out
+chaîne (nf) /ʃɛn/	chain, channel
+enfance (nf) /ɑ̃fɑ̃s/	childhood
+maudire (verb) /modiʁ/	to curse
+cauchemar (nm) /koʃmaʁ/	nightmare, bad dream
+amitié (nf) /amitje/	friendship
+partenaire (nm, nf) /paʁtənɛʁ/	partner
+curieux (noun, adj[pl]) /kyʁjø/	curious
+patte (nf) /pat/	paw, foot, leg
+lendemain (nm) /lɑ̃dmɛ̃/	next day
+soupe (nf) /sup/	soup
+uniforme (adj(f), nm) /ynifɔʁm/	uniform, steady, regular
+marine (adj, nf) /maʁin/	marine, navy
+reserve (nf) /ʁəzɛʁv/	reserve
+chine (nf) /ʃin/	China
+désir (nm) /deziʁ/	desire
+objet (nm) /ɔbʒɛ/	objective; object
+tracer (verb) /tʁase/	to draw, write, mark out
+recommencer (verb) /ʁəkɔmɑ̃se/	to resume, start again, start over
+traverser (verb) /tʁavɛʁse/	to cross, traverse
+humanité (nf) /ymanite/	humanity
+lapin (nm) /lapɛ̃/	rabbit
+sonner (verb) /sɔne/	to ring
+baguer (verb) /baɡe/	to ring, tag
+survivre (verb) /syʁvivʁ/	to survive
+bâtiment (nm) /batimɑ̃/	building
+chèque (nm) /ʃɛk/	check
+palais (nm[pl]) /palɛ/	palace, palate
+valise (nf) /valiz/	suitcase
+charger (verb) /ʃaʁʒe/	to load, charge
+haine (nf) /ɛn/	hatred, hate
+assurance (nf) /asyʁɑ̃s/	insurance, confidence
+navire (nm) /naviʁ/	ship
+foyer (nm) /fwaje/	home, hearth
+printemps (nm[pl]) /pʁɛ̃tɑ̃/	spring
+voiler (verb) /vwale/	to veil
+personnage (nm) /pɛʁsɔnaʒ/	character, individual
+brave (noun, adj) /bʁav/	brave, worthy, good, brave man
+évident (adv) /evidɑ̃/	obviously, of course
+sale (noun, adj(f)) /sal/	dirty
+roule (adj) /ʁul/	rolled
+extraordinaire (adj(f)) /ɛkstʁaɔʁdinɛʁ/	extraordinary
+explosion (nf) /ɛksplozjɔ̃/	explosion
+sucre (nm) /sykʁ/	sugar
+procureur (nm) /pʁɔkyʁœʁ/	prosecutor
+opinion (nf) /ɔpinjɔ̃/	opinion
+davantage (adv) /davɑ̃taʒ/	more
+gardé (nm, nf) /ɡaʁde/	guard
+net (adj, nm) /nɛt/	clear; Internet, web
+vivant (noun, adj) /vivɑ̃/	alive, living
+compliqué (noun, adj) /kɔ̃plike/	complicated, complex
+fiancé (noun, adj) /fjɑ̃se/	fiancé, engaged
+accuser (verb) /akyze/	to accuse
+construire (verb) /kɔ̃stʁɥiʁ/	to build, construct
+sombre (adj(f)) /sɔ̃bʁ/	dark
+hâte (nf) /at/	haste, impatience
+voisin (noun, adj) /vwazɛ̃/	neighbor
+lourd (adj) /luʁ/	heavy
+retirer (verb) /ʁətiʁe/	to remove, withdraw
+comte (nm) /kɔ̃t/	count
+contrôler (verb) /kɔ̃tʁole/	to control, check, inspect, monitor
+réputation (nf) /ʁepytasjɔ̃/	reputation
+exploser (verb) /ɛksploze/	to explode, blow up
+créature (nf) /kʁeatyʁ/	creature
+étudier (verb) /etydje/	to study
+brûler (verb) /bʁyle/	to burn
+soif (nf) /swaf/	thirst
+égal (noun, adj) /eɡal/	equal
+sport (adj(i), nm) /spɔʁ/	sport
+résultat (nm) /ʁezylta/	result, follow-up
+siège (nm) /sjɛʒ/	seat, bench
+adorable (adj) /adɔʁabl/	adorable, sweet
+cingler (verb) /sɛ̃ɡle/	to whip, to slash
+canon (nm) /kanɔ̃/	gun, cannon
+gardien (noun, adj) /ɡaʁdjɛ̃/	guardian, keeper
+représenter (verb) /ʁəpʁezɑ̃te/	to represent
+terme (nm) /tɛʁm/	term, deadline
+troupe (nf) /tʁup/	troop
+théorie (nf) /teɔʁi/	theory
+surveiller (verb) /syʁveje/	to watch
+joueur (noun, adj) /ʒwœʁ/	player
+région (nf) /ʁeʒjɔ̃/	region
+commun (noun, adj) /kɔmœ̃/	common
+tien(s) (noun, adj[pl], int) /tjɛ̃)/	ah, well
+médicament (nm) /medikamɑ̃/	drug, medication
+crâne (adj(f), nm) /kʁan/	skull
+traduction (nf) /tʁadyksjɔ̃/	translation
+studio (nm) /stydjo/	studio, studio apartment
+libérer (verb) /libeʁe/	to free, liberate, release
+responsabilité (nf) /ʁɛspɔ̃sabilite/	responsibility
+délicieux (adj) /delisjø/	delicious
+quant (adv) /kɑ̃/	as for
+trace (nf) /tʁas/	trace, mark, track
+traiter (verb) /tʁete/	to treat, handle, deal with
+modèle (nm) /mɔdɛl/	model
+cellule (nf) /selyl/	cell
+gêne (nm) /ʒɛn/	gene
+pêcher (nm, verb) /peʃe/	to fish, go fishing; peach tree
+poule (nf) /pul/	hen, chick
+sénateur (nm) /senatœʁ/	senator
+péché (nf) /peʃe/	fishing; peach
+lentement (adv) /lɑ̃tmɑ̃/	slowly
+empire (nm) /ɑ̃piʁ/	empire
+débile (nm) /debil/	debile, daft person
+deviner (verb) /dəvine/	to guess, solve
+imagination (nf) /imaʒinasjɔ̃/	imagination
+liquide (noun, adj(f)) /likid/	liquid
+avancer (verb) /avɑ̃se/	to advance, move forward
+marin (noun, adj) /maʁɛ̃/	sea, marine, sailor
+plaire (verb) /plɛʁ/	to please
+humeur (nf) /ymœʁ/	mood, temper
+auprès (adv) /opʁɛ/	nearby, close to, next to
+jaloux (noun, adj) /ʒalu/	jealous
+temple (nm) /tɑ̃pl/	temple
+physique (noun, adj(f)) /fizik/	physical, physics
+bosser (verb) /bɔse/	to work, bash on
+infirmier (noun, adj) /ɛ̃fiʁmje/	nurse
+secteur (nm) /sɛktœʁ/	sector
+tâcher (verb) /taʃe/	to endeavor, strive
+enfuir (verb) /ɑ̃fɥiʁ/	to run away, flee
+cirque (nm) /siʁk/	circus; cirque
+particulier (noun, adj) /paʁtikylje/	particular, peculiar; person
+engager (verb) /ɑ̃ɡaʒe/	to hire, involve
+réaliser (verb) /ʁealize/	to realize, achieve
+chut (int) /ʃy/	hush
+vision (nf) /vizjɔ̃/	vision, view
+cloche (nf) /klɔʃ/	bell
+croix (nf[pl]) /kʁwa/	cross
+vente (nf) /vɑ̃t/	sale
+démon (nm) /demɔ̃/	demon, fiend, devil
+barrer (verb) /baʁe/	to close, block, bar, cross
+aventure (nf) /avɑ̃tyʁ/	adventure
+matériel (noun, adj) /mateʁjɛl/	material, equipment
+surface (nf) /syʁfas/	surface
+télévision (nf) /televizjɔ̃/	television, TV
+jaune (adv, noun, adj(f)) /ʒon/	yellow
+veiller (verb) /veje/	to look after, stay up
+boutique (nf) /butik/	shop
+rare (adj(f)) /ʁaʁ/	rare
+journaliste (nm, nf) /ʒuʁnalist/	journalist, reporter
+magique (adj(f)) /maʒik/	magic; magical
+rat (adj(f), nm) /ʁa/	rat
+cri (nm) /kʁi/	shout, cry
+patience (nf) /pasjɑ̃s/	patience
+ménage (nm) /menaʒ/	housekeeping, housework
+comité (nm) /kɔmite/	committee
+baisser (verb) /bese/	to lower, turn down, bend down
+combattre (verb) /kɔ̃batʁ/	to fight
+romantique (noun, adj(f)) /ʁɔmɑ̃tik/	romantic
+port (nm) /pɔʁ/	harbor, port
+science (nf) /sjɑ̃s/	science
+bouffe (nf) /buf/	food, grub
+crédit (nm) /kʁedi/	credit
+abrutir (verb) /abʁytiʁ/	stupefy, dumb down
+promesse (nf) /pʁɔmɛs/	promise
+inconnu (noun, adj) /ɛ̃kɔny/	unknown
+concourir (verb) /kɔ̃kuʁiʁ/	compete, participate
+ambulance (nf) /ɑ̃bylɑ̃s/	ambulance
+cependant (adv, conj) /səpɑ̃dɑ̃/	however
+panique (noun, adj(f)) /panik/	panic
+criminel (noun, adj) /kʁiminɛl/	criminal
+sauvage (noun, adj(f)) /sovaʒ/	savage, wild
+donnée (nf) /dɔne/	fact, datum
+royaume (nm) /ʁwajom/	kingdom, state
+complet (adj, nm) /kɔ̃plɛ/	full, complete, full
+centaine (nf) /sɑ̃tɛn/	hundred
+scénario (nm) /senaʁjo/	scenario, script
+principal (noun, adj) /pʁɛ̃sipal/	principal
+jus (nm) /ʒy/	juice, sauce
+pot (nm) /po/	jar, pot
+divorce (nm) /divɔʁs/	divorce
+cochon (noun, adj) /kɔʃɔ̃/	pig
+cadavre (nm) /kadavʁ/	corpse
+révolution (nf) /ʁevɔlysjɔ̃/	revolution
+existence (nf) /ɛɡzistɑ̃s/	existence
+accompagner (verb) /akɔ̃paɲe/	to accompany
+lien (nm) /ljɛ̃/	link, bond
+fromage (nm) /fʁɔmaʒ/	cheese
+période (nm, nf) /peʁjɔd/	period
+profond (adv, noun, adj) /pʁɔfɔ̃/	deep
+malheureux (noun, adj[pl]) /maløʁø/	unhappy, miserable
+nommer (verb) /nɔme/	to call, name, appoint
+roman (adj, nm) /ʁɔmɑ̃/	novel
+poussière (nf) /pusjɛʁ/	dust
+passion (nf) /pasjɔ̃/	passion
+récemment (adv) /ʁesamɑ̃/	recently
+maitre (nm) /mɛtʁ/	master
+lutte (nf) /lyt/	struggle, fight, conflict
+briser (verb) /bʁize/	to break
+quiconque (pron) /kikɔ̃k/	whoever, anyone who
+cap (nm) /kap/	cape
+version (nf) /vɛʁsjɔ̃/	version
+entraînement (nm) /ɑ̃tʁɛnmɑ̃/	training
+mardi (nm) /maʁdi/	Tuesday
+indien (noun, adj) /ɛ̃djɛ̃/	Indian
+meurtrier (noun, adj) /mœʁtʁije/	murderer, deadly, lethal
+examen (nm) /ɛɡzamɛ̃/	exam
+septembre (nm) /sɛptɑ̃bʁ/	September
+élever (verb) /elve/	to grow, lift, raise
+profiter (verb) /pʁɔfite/	to take advantage, profit
+serpent (nm) /sɛʁpɑ̃/	snake
+bouton (nm) /butɔ̃/	button, knob, spot
+piscine (nf) /pisin/	swimming pool
+courrier (nm) /kuʁje/	mail, post
+logique (noun, adj(f)) /lɔʒik/	logic, logical
+rythme (nm) /ʁitm/	rhythm, rate
+cancer (nm) /kɑ̃sɛʁ/	cancer
+proposer (verb) /pʁɔpoze/	to propose
+peinture (nf) /pɛ̃tyʁ/	painting, paint, picture
+jeudi (nm) /ʒødi/	Thursday
+courageux (noun, adj[pl]) /kuʁaʒø/	courageous
+œuvrer (verb) /œvʁe/	to work
+camarade (nm, nf) /kamaʁad/	friend, comrade, pal, mate
+hall (nm) /ol/	foyer, lobby
+figurer (verb) /fiɡyʁe/	to represent, appear
+ascenseur (nm) /asɑ̃sœʁ/	elevator
+garage (nm) /ɡaʁaʒ/	garage
+approcher (verb) /apʁɔʃe/	to approach
+traitement (nm) /tʁɛtmɑ̃/	treatment, salary, wage
+sein (nm) /sɛ̃/	breast, bosom
+nation (nf) /nasjɔ̃/	nation
+propriété (nf) /pʁɔpʁijete/	property
+labo (nm) /labo/	lab
+machine (nf) /maʃin/	machine
+sable (adj(i), nm) /sabl/	sand
+commission (nf) /kɔmisjɔ̃/	commission
+section (nf) /sɛksjɔ̃/	section
+nager (verb) /naʒe/	to swim
+pratique (noun, adj(f)) /pʁatik/	practice, practical
+écran (nm) /ekʁɑ̃/	screen
+chuter (verb) /ʃyte/	to fall
+ceinture (nf) /sɛ̃tyʁ/	belt, waist
+briller (verb) /bʁije/	to shine
+miel (nm) /mjɛl/	honey
+crever (verb) /kʁəve/	to burst, puncture
+estomac (nm) /ɛstɔma/	stomach
+salaire (nm) /salɛʁ/	salary, wage
+inventer (verb) /ɛ̃vɑ̃te/	to invent
+étonner (verb) /etɔne/	to astonish, amaze, surprise
+nourrir (verb) /nuʁiʁ/	to feed, nourish
+incendie (nm) /ɛ̃sɑ̃di/	fire, blaze
+pur (adj, nmf) /pyʁ/	pure; hard-liner
+refaire (verb) /ʁəfɛʁ/	to redo, make again
+prénom (nm) /pʁenɔ̃/	first name
+fuite (nf) /fɥit/	escape
+invite (nm) /ɛ̃vit/	guest
+idéal (nm, adj) /ideal/	ideal
+condition (nf) /kɔ̃disjɔ̃/	condition
+élève (adj) /elɛv/	high, heavy, tall
+douze (det, num) /duz/	twelve
+virus (nm[pl]) /viʁys/	virus
+poil (nm) /pwal/	hair, bristle
+jeunesse (nf) /ʒœnɛs/	youth
+ordinaire (adv, nm, adj(f)) /ɔʁdinɛʁ/	ordinary
+agence (nf) /aʒɑ̃s/	agency
+loup (nm) /lu/	wolf
+naturel (nm, adj) /natyʁɛl/	naturalness, natural
+bombe (nf) /bɔ̃b/	bomb
+autrefois (adv) /otʁəfwa/	in the past
+équipage (nm) /ekipaʒ/	crew, gear
+tempête (nf) /tɑ̃pɛt/	storm, gale, turmoil
+central (adj, nm) /sɑ̃tʁal/	central; exchange
+forcément (adv) /fɔʁsemɑ̃/	without question, inevitably
+acteur (nm) /aktœʁ/	actor
+calmer (verb) /kalme/	to calm down
+miroir (nm) /miʁwaʁ/	mirror
+chic (adj) /ʃik/	chic, luxurious
+jury (nm) /ʒyʁi/	jury, board of examiners
+pardonner (verb) /paʁdɔne/	to forgive, excuse
+affronter (verb) /afʁɔ̃te/	to confront, face
+lâcher (verb) /laʃe/	to let go, release
+cérémonie (nf) /seʁemɔni/	ceremony
+tasse (nf) /tas/	cup
+absence (nf) /apsɑ̃s/	absence
+comportement (nm) /kɔ̃pɔʁtəmɑ̃/	behavior
+correct (adj) /kɔʁɛkt/	correct
+récompenser (verb) /ʁekɔ̃pɑ̃se/	to reward, recompense
+national (adj, nf) /nasjɔnal/	national; road, state highway
+carte (nf) /kaʁt/	card
+masque (nm) /mask/	mask
+raisonnable (adj(f)) /ʁɛzɔnabl/	reasonable, fair
+bijou (nm) /biʒu/	jewel
+mystère (nm) /mistɛʁ/	mystery
+cabine (nf) /kabin/	hut, cubicle, booth, box, room, cabin
+étudiant (nm/f, adj) /etydjɑ̃/	student
+créme (adj(i), nf) /kʁem/	cream
+parfum (nm) /paʁfœ̃/	perfume, scent, fragrance
+avouer (verb) /avwe/	to admit
+vengeance (nf) /vɑ̃ʒɑ̃s/	revenge
+nu (nm, adj) /ny/	naked, nude
+presser (verb) /pʁese/	to squeeze, press
+qualité (nf) /kalite/	quality
+couvert (adj, nm) /kuvɛʁ/	covered, overcast; place, seat, cutlery
+couloir (nm) /kulwaʁ/	corridor, aisle
+technique (nf, adj(f)) /tɛknik/	technique, technics, technical
+œuf (nm) /œf/	egg
+réaction (nf) /ʁeaksjɔ̃/	reaction
+doué (adj) /dwe/	gifted
+attente (nf) /atɑ̃t/	wait
+nôtre (det) /notʁ/	our
+race (nf) /ʁas/	breed, race
+bêtise (nf) /betiz/	foolishness, rubbish
+moquer (verb) /mɔke/	to mock, make fun of
+colle (nf) /kɔl/	glue, adhesive
+poitrine (nf) /pwatʁin/	chest, breast, breasts, bosom
+enterrement (nm) /ɑ̃tɛʁmɑ̃/	burial, funeral
+installer (verb) /ɛ̃stale/	to install
+noble (adj(f, nmf) /nɔbl/	noble, noble(wo)man
+large (adj(f), adv, nm) /laʁʒ/	wide, width
+urgent (adj) /yʁʒɑ̃/	urgent
+digne (adj(f)) /diɲ/	dignified, worthy
+être (nm) /ɛtʁ/	human being
+uniquement (adv) /ynikmɑ̃/	only
+riz (nm) /ʁi/	rice
+plaisant (adj) /plɛzɑ̃/	pleasant
+condamner (verb) /kɔ̃dane/	to condemn
+puce (nf) /pys/	chip
+ex (nmfi) /ɛks/	ex
+origine (nf) /ɔʁiʒin/	origin, source
+attitude (nf) /atityd/	attitude
+absurde (nm, adj(f)) /apsyʁd/	absurd
+union (nf) /ynjɔ̃/	union
+bagnole (nf) /baɲɔl/	wagon, car
+maximum (nm, adj) /maksimɔm/	maximum
+effort (nm) /efɔʁ/	effort
+chambre (nf) /ʃɑ̃bʁ/	bedroom, chamber, room
+vélo (nm) /velo/	bike, bicycle
+esclave (nmf) /ɛsklav/	slave
+éducation (nf) /edykasjɔ̃/	education
+réellement (adv) /ʁeɛlmɑ̃/	really
+pair (adj, nm) /pɛʁ/	peer, pair, even
+moche (adj) /mɔʃ/	ugly
+blond (nmf, adj) /blɔ̃/	blond, fair-haired
+boule (nf) /bul/	ball
+ouah (int) /wa/	wow!
+déclaration (nf) /deklaʁasjɔ̃/	declaration
+chasser (verb) /ʃase/	to hunt, chase away
+site (nm) /sit/	site
+scientifique (adj(f), nmf) /sjɑ̃tifik/	scientific; scientist
+traître (nm, adj) /tʁɛtʁ/	traitor, treacherous
+panne (nf) /pan/	breakdown, failure
+traîner (verb) /tʁene/	to drag, pull
+cave (adj(f), nm, nf) /kav/	cellar, basement
+cassette (nf) /kasɛt/	cassette, tape
+essai (nm) /esɛ/	attempt, try, test
+musée (nf) /myze/	museum
+minable (adj) /minabl/	seedy, shabby
+sommet (nm) /sɔmɛ/	summit
+blesser (verb) /blese/	to hurt
+aile (nf) /ɛl/	wing, sail, blade
+bagarre (nf) /baɡaʁ/	fight
+production (nf) /pʁɔdyksjɔ̃/	production
+rang (nm) /ʁɑ̃/	rank, row
+livrer (verb) /livʁe/	to deliver
+venger (verb) /vɑ̃ʒe/	to avenge, take revenge
+flotter (verb) /flɔte/	to float, hang, stream
+humour (nm) /ymuʁ/	humor
+naturellement (adv) /natyʁɛlmɑ̃/	naturally
+résoudre (verb) /ʁezudʁ/	to solve, resolve
+commandement (nm) /kɔmɑ̃dmɑ̃/	command, order, commandment
+remplacer (verb) /ʁɑ̃plase/	to replace
+mandat (nm) /mɑ̃da/	term, mandate
+milliard (nm) /miljaʁ/	billion, thousand million
+fruit (nm) /fʁɥi/	fruit
+plaindre (verb) /plɛ̃dʁ/	to pity, feel sorry for, complain
+partage (nm) /paʁtaʒ/	division, cutting, sharing
+bourse (nf) /buʁs/	purse, scholarship, grant
+jungle (nf) /ʒœ̃ɡl/	jungle
+aimable (adj(f)) /ɛmabl/	pleasant, kind, nice
+guider (verb) /ɡide/	to guide
+gâcher (verb) /ɡaʃe/	to waste, spoil
+adulte (nmf, adj(f)) /adylt/	adult
+pomme (nf) /pɔm/	apple
+auteur (nm, nf) /otœʁ/	author
+jugement (nm) /ʒyʒmɑ̃/	judgement
+organisation (nf) /ɔʁɡanizasjɔ̃/	organization
+vague (adj(f); nf) /vaɡ/	vague; wave
+légende (nf) /leʒɑ̃d/	legend, caption, key
+botter (verb) /bɔte/	to kick
+barbe (nf) /baʁb/	beard
+territoire (nm) /teʁitwaʁ/	territory
+blessure (nf) /blesyʁ/	injury, wound
+géant (nmf, adj) /ʒeɑ̃/	giant, gigantic
+moto (nm) /mɔto/	motorbike
+communauté (nf) /kɔmynote/	community
+cage (nf) /kaʒ/	cage
+désirer (verb) /deziʁe/	to desire, to want
+rayon (nm) /ʁɛjɔ̃/	ray, beam, radius; department, section, shelf
+sorcier (nm) /sɔʁsje/	sorcerer, witch
+pile (nf) /pil/	pile, stack, battery, tails
+kilo (nm) /kilo/	kilo
+écrivain (nm) /ekʁivɛ̃/	writer
+forcer (verb) /fɔʁse/	to force
+respecter (verb) /ʁɛspɛkte/	to respect
+limite (nf) /limit/	limit
+orange (adj(i), nf) /ɔʁɑ̃ʒ/	orange
+associer (verb) /asɔsje/	to associate
+bénir (verb) /beniʁ/	to bless
+quinze (det, num) /kɛ̃z/	fifteen
+posséder (verb) /pɔsede/	to possess, own, have
+conseiller (nm, verb) /kɔ̃seje/	adviser, to advise
+ligne (nf) /liɲ/	line
+escalier (nm) /ɛskalje/	stairs, staircase
+explication (nf) /ɛksplikasjɔ̃/	explanation
+voyager (verb) /vwajaʒe/	to travel
+attirer (verb) /atiʁe/	to attract
+poursuivre (verb) /puʁsɥivʁ/	to pursue
+professionnel (nmf, adj) /pʁɔfesjɔnɛl/	professional
+incident (adj, nm) /ɛ̃sidɑ̃/	incident
+colline (nf) /kɔlin/	hill
+autorisation (nf) /ɔtɔʁizasjɔ̃/	authorization, permission, permit
+assassiner (verb) /asasine/	to murder, assassinate
+ministère (nm, nf) /ministɛʁ/	minister
+exprès (adj[pl], adv) /ɛkspʁɛs/	deliberately, on purpose, intentionally
+football (nm) /futbol/	football, soccer
+rond (adj, nm, nf) /ʁɔ̃/	round, circle, patrol
+exercice (nm) /ɛɡzɛʁsis/	exercise
+fichu (adj) /fiʃy/	damn, rotten
+vote (nm) /vɔt/	vote
+domaine (nm) /dɔmɛn/	domain, field
+retenir (verb) /ʁətəniʁ/	to retain, hold back, remember
+religion (nf) /ʁəliʒjɔ̃/	religion
+clairement (adv) /klɛʁmɑ̃/	clearly
+furieux (adj) /fyʁjø/	furious, raging, violent, mad
+pisser (verb) /pise/	to piss
+circonstance (nf) /siʁkɔ̃stɑ̃s/	circumstance
+excellence (nf) /ɛksɛlɑ̃s/	excellence
+cimetière (nm) /simtjɛʁ/	cemetary, graveyard
+classique (nm, adj(f)) /klasik/	classic
+arrestation (nf) /aʁɛstasjɔ̃/	arrest
+taper (verb) /tape/	to beat, slam, bang, type, tap
+cabinet (nm) /kabinɛ/	cabinet, agency, office
+comédie (nf) /kɔmedi/	comedy, playacting
+bond (nm) /bɔ̃/	leap, rebound
+tunnel (nm) /tynɛl/	tunnel
+amant (nm) /amɑ̃/	lover
+tandis (adv) /tɑ̃di/	while
+incapable (adj) /ɛ̃kapabl/	incapable, incompetent
+drapeau (nm) /dʁapo/	flag
+échouer (verb) /eʃwe/	to fail
+auparavant (adv) /opaʁavɑ̃/	beforehand
+risquer (verb) /ʁiske/	to risk
+magazine (nm) /maɡazin/	magazine
+remplir (verb) /ʁɑ̃pliʁ/	to fill, fulfill, fill out
+véhiculer (verb) /veikyle/	to transport, convey
+précieux (adj [pl]) /pʁesjø/	precious
+éternité (nf) /etɛʁnite/	eternity, lifetime
+citer (verb) /site/	to quote
+huile (nf) /ɥil/	oil
+proposition (nf) /pʁɔpozisjɔ̃/	proposition, proposal
+soutien (nm) /sutjɛ̃/	support
+hauteur (nf) /otœʁ/	height
+échec (adj(i), nm) /eʃɛk/	failure
+fâcher (verb) /faʃe/	to anger, make angry, get angry
+culture (nf) /kyltyʁ/	culture
+précis (adj[pl, noun) /pʁesi/	precise; noun
+langage (nm) /lɑ̃ɡaʒ/	language
+objectif (adj, nm) /ɔbʒɛktif/	objective, aim, goal; lens
+profondément (adv) /pʁɔfɔ̃demɑ̃/	profoundly, deeply
+souffrance (nf) /sufʁɑ̃s/	suffering
+pétrole (nm) /petʁɔl/	crude oil, petroleum
+entièrement (adv) /ɑ̃tjɛʁmɑ̃/	entirely, completely
+épreuve (nf) /epʁœv/	test, ordeal, trial
+copier (verb) /kɔpje/	to copy, reproduce
+bibliothèque (nf) /biblijɔtɛk/	library
+énerver (verb) /enɛʁve/	to annoy, get on someone nerves
+trente (det, num) /tʁɑ̃t/	thirty
+électrique (adj(f)) /elɛktʁik/	electric
+ranger (nm, verb) /ʁɑ̃ʒe/	to tidy up, put away
+enterrer (verb) /ɑ̃teʁe/	to bury, lay aside
+assister (verb) /asiste/	to attend; assist, help
+vallée (nf) /vale/	valley
+golf (nm) /ɡɔlf/	golf, golf course
+las (adj) /la/	tired, weary
+soigner (verb) /swaɲe/	to treat, look after, take care for
+loyer (nm) /lwaje/	rent
+producteur (nm/f, adj) /pʁɔdyktœʁ/	producer
+quart (nm) /kaʁ/	quarter
+critique (adj(f), nmf) /kʁitik/	criticism, critical, critic
+acte (nm) /akt/	act
+plateau (nm) /plato/	plateau, tray, set, stage
+auto (nm, nf) /oto/	car
+concernant (adv, prep) /kɔ̃sɛʁnɑ̃/	concerning
+conférence (nf) /kɔ̃feʁɑ̃s/	conference
+charme (nm) /ʃaʁm/	charm
+fièvre (nf) /fjɛvʁ/	fever
+réception (nf) /ʁesɛpsjɔ̃/	reception
+duc (nm) /dyk/	duke
+italien (nm/f, adj) /italjɛ̃/	Italian
+fenêtre (nf) /fənɛtʁ/	window
+couvrir (verb) /kuvʁiʁ/	to cover
+cervelle (nf) /sɛʁvɛl/	brain, brains
+moral (adj, nm) /mɔʁal/	moral, morale
+supérieur (adj, nmf) /sypeʁjœʁ/	superior
+personnellement (adv) /pɛʁsɔnɛlmɑ̃/	personally
+tendre (adj(f)) /tɑ̃dʁ/	tender, soft
+discussion (nf) /diskysjɔ̃/	discussion
+alarmer (verb) /alaʁme/	to alarm
+ivre (adj) /ivʁ/	drunk, intoxicated
+héler (verb) /ele/	to hail, call out
+gagnant (nmf, adj) /ɡaɲɑ̃/	winner, winning
+beurre (nm) /bœʁ/	butter
+commerce (nm) /kɔmɛʁs/	trade, commerce
+fleuve (nm) /flœv/	river
+nerf (nm) /nɛʁ/	nerve
+séparer (verb) /sepaʁe/	to separate
+pédé (nf) /pede/	homosexual, queer
+assis (adj) /asi/	seated
+employer (verb) /ɑ̃plwaje/	to use, employ
+liaison (nf) /ljɛzɔ̃/	liaison, connection
+document (nm) /dɔkymɑ̃/	document
+salopard (nm) /salɔpaʁ/	bastard
+place (nf) /plas/	room, space, seat, square, place
+nuage (nm) /nyaʒ/	cloud
+fiancer (verb) /fijɑ̃se/	to get engaged, to betroth
+avenue (nf) /avəny/	avenue
+guitare (nf) /ɡitaʁ/	guitar
+portraire (verb) /pɔʁtʁɛʁ/	to portray
+final (nm, adj) /final/	final
+brise (nf) /bʁiz/	breeze, air
+réseau (nm) /ʁezo/	network
+prière (nf) /pʁijɛʁ/	prayer
+réalisateur (nmf) /ʁealizatœʁ/	director
+surveillance (nf) /syʁvɛjɑ̃s/	surveillance, monitoring
+épaule (nf) /epol/	shoulder
+placard (nm) /plakaʁ/	cupboard, locker
+mercredi (nm) /mɛʁkʁədi/	Wednesday
+chiffre (nm) /ʃifʁ/	figure, number
+lampe (nf) /lɑ̃p/	lamp, light
+expert (nm, adj) /ɛkspɛʁ/	expert
+autorité (nf) /ɔtɔʁite/	authority
+destruction (nf) /dɛstʁyksjɔ̃/	destruction
+congrès (nm) /kɔ̃ɡʁɛ/	congres, convention, conference
+poudre (nf) /pudʁ/	powder, dust
+juillet (nm) /ʒɥijɛ/	July
+moderne (adj) /mɔdɛʁn/	modern
+stade (nm) /stad/	stadium, stage
+serment (nm) /sɛʁmɑ̃/	oath, vow
+dette (nf) /dɛt/	debt
+entraîner (verb) /ɑ̃tʁene/	to train
+sensible (adj(f)) /sɑ̃sibl/	sensitive
+ajouter (verb) /aʒute/	to add
+expression (nf) /ɛkspʁesjɔ̃/	expression
+métro (nm) /metʁo/	metro, subway
+fonce (adj) /fɔ̃s/	dark
+chat (nm) /ʃa/	cat; chat
+durer (verb) /dyʁe/	to last
+balance (nf) /balɑ̃s/	scales, balance
+extrêmement (adv) /ɛkstʁɛmmɑ̃/	extremely
+séance (nf) /seɑ̃s/	meeting
+collier (nm) /kɔlje/	necklace
+alliance (nf) /aljɑ̃s/	alliance
+congé (nm) /kɔ̃ʒe/	time off, leave
+portefeuille (nm) /pɔʁtəfœj/	wallet
+trahir (verb) /tʁaiʁ/	to betray, give away
+repartir (verb) /ʁəpaʁtiʁ/	to distribute, spread out, share out, divide
+terroriste (nm, nf) /teʁɔʁist/	terrorist
+clan (nm) /klɑ̃/	clan
+exécution (nf) /ɛɡzekysjɔ̃/	execution
+convenir (verb) /kɔ̃vəniʁ/	to suit, to agree on
+pourrir (verb) /puʁiʁ/	to rot
+juger (verb) /ʒyʒe/	to judge
+invitation (nf) /ɛ̃vitasjɔ̃/	invitation
+électricité (nf) /elɛktʁisite/	electricity
+admettre (verb) /admɛtʁ/	to admit
+avril (nm) /avʁil/	April
+convier (verb) /kɔ̃vje/	to invite
+acier (nm) /asje/	steel
+promener (verb) /pʁɔmne/	to take for a walk, go for a walk
+sourd (adj, nmf) /suʁ/	deaf, deaf person
+degré (nm) /dəɡʁe/	degree
+instruction (nf) /ɛ̃stʁyksjɔ̃/	instruction, direction
+injuste (adj(f)) /ɛ̃ʒyst/	unfair, unjust
+division (nf) /divizjɔ̃/	division
+fierté (nf) /fjɛʁte/	pride
+exprimer (verb) /ɛkspʁime/	to express
+fidèle (adj) /fidɛl/	faithful
+causer (verb) /koze/	to cause; to chat
+couler (verb) /kule/	to flow, run, sink
+renseignement (nm) /ʁɑ̃sɛɲmɑ̃/	information
+total (adj, nm) /tɔtal/	total
+réservé (adj) /ʁezɛʁve/	reserved
+tare (nf) /taʁ/	defect
+espagnol (nm, adj) /ɛspaɲɔl/	Spanish
+solide (nm, adj(f)) /sɔlid/	solid
+avantage (nm) /avɑ̃taʒ/	advantage
+habitant (nm) /abitɑ̃/	inhabitant
+rage (nf) /ʁaʒ/	rage, fury, rabies
+normalement (adv) /nɔʁmalmɑ̃/	normally
+cesser (verb) /sese/	to cease, stop
+neveu (nm) /nəvø/	nephew
+emprunter (verb) /ɑ̃pʁœ̃te/	to borrow
+ouverture (nf) /uvɛʁtyʁ/	opening
+habiller (verb) /abije/	to dress, get dressed
+veuf (nmf, adj) /vœf/	widow, widowed, widower
+munition (nf) /mynisjɔ̃/	ammunition, supplies
+écraser (verb) /ekʁaze/	to crush
+juin (nm) /ʒɥɛ̃/	June
+dégoûter (verb) /deɡute/	to disgust
+démarrer (verb) /demaʁe/	to start
+louer (verb) /lwe/	to rent, praise
+bâton (nm) /batɔ̃/	stick, rod
+timide (adj(f)) /timid/	timid, shy, bashful
+fermé (adj) /fɛʁme/	shut, closed, locked
+caractère (nm) /kaʁaktɛʁ/	nature, character
+dépêcher (verb) /depeʃe/	to hurry, to dispatch
+célibataire (adj, nf, nm) /selibatɛʁ/	single
+pasteur (nm) /pastœʁ/	minister, clergyman, pastor
+progrès (nm) /pʁɔɡʁɛ/	progress
+ordure (nf) /ɔʁdyʁ/	filth
+matière (nf) /matjɛʁ/	matter
+puits (nm[pl]) /pɥi/	well, shaft, pit
+bonté (nf) /bɔ̃te/	kindness
+déposer (verb) /depoze/	to deposit, to leave, to put down
+mondial (adj) /mɔ̃djal/	world, global
+intelligence (nf) /ɛ̃teliʒɑ̃s/	intelligence
+généreux (adj) /ʒeneʁø/	generous
+gérer (verb) /ʒeʁe/	to manage
+température (nf) /tɑ̃peʁatyʁ/	temperature
+fête (nf) /fɛt/	party
+saloperie (nf) /salɔpʁi/	trash, junk, filth
+rapporter (verb) /ʁapɔʁte/	to bring back, report
+filmer (verb) /filme/	to film, shoot
+tension (nf) /tɑ̃sjɔ̃/	tension
+serviette (nf) /sɛʁvjɛt/	towel, napkin
+guérir (verb) /ɡeʁiʁ/	to cure
+rouler (verb) /ʁule/	to roll
+passeport (nm) /paspɔʁ/	passport
+suffisamment (adv) /syfizamɑ̃/	sufficiently
+échelle (nf) /eʃɛl/	ladder
+cercle (nm) /sɛʁkl/	circle, cycle
+exiger (verb) /ɛɡziʒe/	to require, demand
+citoyen (nmf) /sitwajɛ̃/	citizen
+pervers (nmf; adj[pl]) /pɛʁvɛʁ/	pervert; perverse, perverted
+tentative (nf) /tɑ̃tativ/	attempt
+règlement (nm) /ʁɛɡləmɑ̃/	settlement, solution
+immense (adj(f)) /imɑ̃s/	immense
+comté (nm) /kɔ̃te/	count
+crainte (nf) /kʁɛ̃t/	fear
+plaquer (verb) /plake/	to tackle, drop, ditch, dump
+réunir (verb) /ʁeyniʁ/	to reunite
+manuel (adj, nm) /manɥɛl/	manual
+cruel (adj) /kʁyɛl/	cruel, ferocious, bitter
+octobre (nm) /ɔktɔbʁ/	October
+méchant (adj) /meʃɑ̃/	bad, mean
+dessin (nm) /desɛ̃/	drawing, pattern, design
+inde (nf) /ɛ̃d/	India
+demeurer (verb) /dəmœʁe/	to remain, live
+léger (adj) /leʒe/	light, slight, thin
+diamant (nm) /djamɑ̃/	diamond
+publique (adj, nf) /pyblik/	public
+emporter (verb) /ɑ̃pɔʁte/	to take, remove
+asile (nm) /azil/	shelter, asylum, hospital
+organiser (verb) /ɔʁɡanize/	to organise, throw
+sou (nm) /su/	penny
+oser (verb) /oze/	to dare
+tournage (nm) /tuʁnaʒ/	shooting
+nucléaire (adj, nm) /nykleɛʁ/	nuclear, nuclear power
+populaire (adj(f)) /pɔpylɛʁ/	popular
+orchestrer (verb) /ɔʁkɛstʁe/	to orchestrate
+couronne (nf) /kuʁɔn/	crown, wreath
+nue (adj) /ny/	naked
+vedette (nf) /vədɛt/	star, patrol boat
+renvoyer (verb) /ʁɑ̃vwaje/	to send back, dismiss
+garce (nf) /ɡaʁs/	bitch
+formation (nf) /fɔʁmasjɔ̃/	training
+audience (nf) /odjɑ̃s/	audience, hearing
+participer (verb) /paʁtisipe/	to participate
+issu (adj) /isy/	descended from, come from
+procédure (nf) /pʁɔsedyʁ/	procedure
+brancher (verb) /bʁɑ̃ʃe/	to plug in, connect
+influencer (verb) /ɛ̃flyɑ̃se/	to influence
+mouche (nf) /muʃ/	fly
+conséquence (nf) /kɔ̃sekɑ̃s/	result, consequence
+groupe (nm) /ɡʁup/	group
+mortel (nmf, adj) /mɔʁtɛl/	mortal, deadly, lethal
+collègue (nm, nf) /kɔlɛɡ/	colleague
+objection (nf) /ɔbʒɛksjɔ̃/	objection
+éteindre (verb) /etɛ̃dʁ/	to switch off, to turn off, to extinguish
+allumer (verb) /alyme/	to switch on, light up, turn on
+obéir (verb) /ɔbeiʁ/	to obey
+sabrer (verb) /sabʁe/	to cut
+sain (adj) /sɛ̃/	healthy, sane
+tradition (nf) /tʁadisjɔ̃/	tradition
+décevoir (verb) /desəvwaʁ/	to dissapoint
+département (nm) /depaʁtəmɑ̃/	department
+résister (verb) /ʁeziste/	to resist
+impressionnant (adj) /ɛ̃pʁesjɔnɑ̃/	impressive, upsetting
+accusation (nf) /akyzasjɔ̃/	accusation, indictment
+disque (nm) /disk/	disc, disk
+piquer (verb) /pike/	to sting, bite, prick, be hot; to steal
+entretien (nm) /ɑ̃tʁətjɛ̃/	interview, discussion, maintenance
+accueillir (verb) /akœjiʁ/	to welcome, greet, accommodate
+chasseur (nm) /ʃasœʁ/	hunter, fighter, page, messenger
+examiner (verb) /ɛɡzamine/	to examine
+solitaire (adj(f, nmf) /sɔlitɛʁ/	solitary, lone, lonely, loner
+goutter (verb) /ɡute/	to drip
+micro (nm) /mikʁo/	mike, micro, microphone
+technologie (nf) /tɛknɔlɔʒi/	technology
+original (nm, adj) /ɔʁiʒinal/	original
+trompe (adj) /tʁɔ̃p/	horn, trunk
+dépasser (verb) /depase/	to exceed, to overtake
+patrie (nf) /patʁi/	homeland, home country
+tuyau (nm) /tɥijo/	pipe, tube
+clinique (adj(f), nf) /klinik/	clinical, private hospital
+régime (nf) /ʁeʒim/	diet, regime
+album (nm) /albɔm/	album
+suprême (adj) /sypʁɛm/	supreme
+sincère (adj) /sɛ̃sɛʁ/	sincere
+pipe (nf) /pip/	pipe
+violent (adj) /vjɔlɑ̃/	violent
+émotion (nm) /emɔsjɔ̃/	emotion
+coucou (int) /kuku/	hello
+franc (adj, adv, adj, nm) /fʁɑ̃/	frank; franc
+remarque (nf) /ʁəmaʁk/	remark
+excitant (adj) /ɛksitɑ̃/	exciting
+guère (adv) /ɡɛʁ/	hardly
+sel (nm) /sɛl/	salt
+canapé (nf) /kanape/	couch, sofa
+abattre (verb) /abatʁ/	to pull down, kill, beat, cut down
+déclarer (verb) /deklaʁe/	to declare, disclose
+splendide (adj) /splɑ̃did/	magnificent, wonderful
+promotion (nf) /pʁɔmɔsjɔ̃/	promotion, advertising
+scandale (nm) /skɑ̃dal/	scandal, uproar
+cran (nm) /kʁɑ̃/	guts, notch
+mêler (verb) /mele/	to mix, get mixed up with
+élément (nm) /elemɑ̃/	element
+arracher (verb) /aʁaʃe/	to pull up, tear up
+interroger (verb) /ɛ̃tɛʁɔʒe/	to question, interrogate
+efficace (adj(f)) /efikas/	efficient, effective
+événement (nm) /evɛnmɑ̃/	event
+personnalité (nf) /pɛʁsɔnalite/	personality
+buter (verb) /byte/	to stumble, trip, run into, prop up, score
+rumeur (nf) /ʁymœʁ/	rumor
+divin (adj, nm) /divɛ̃/	divine, heavenly
+dégât (pl, nm) /deɡa/	damage
+négatif (adj, nm) /neɡatif/	negative
+éclater (verb) /eklate/	to burst, to shatter
+viser (verb) /vize/	to aim
+invisible (adj(f)) /ɛ̃vizibl/	invisible
+signature (nf) /siɲatyʁ/	signature
+user (verb) /yze/	to wear out, wear away, use up
+insister (verb) /ɛ̃siste/	to insist
+autoriser (verb) /ɔtɔʁize/	to authorize, allow
+canard (nm) /kanaʁ/	duck
+stylo (nm) /stilo/	pen
+possibilité (nf) /pɔsibilite/	possibility
+réveil (nm) /ʁevɛj/	the waking up, alarm clock
+pleuvoir (verb) /pløvwaʁ/	to rain
+ère (nf) /ɛʁ/	era
+conclure (verb) /kɔ̃klyʁ/	to conclude
+étape (nf) /etap/	stage, step, phase
+contacter (verb) /kɔ̃takte/	to contact, get in touch with
+identifier (verb) /idɑ̃tifje/	to identify
+attacher (verb) /ataʃe/	to attach
+prime (noun, adj(f), nf) /pʁim/	free gift, premium, bonus
+renfort (nm) /ʁɑ̃fɔʁ/	help, back-up, support
+publicité (nf) /pyblisite/	publicity
+zut (int) /zy/	heck
+séjour (nm) /seʒuʁ/	stay
+tabac (nm) /taba/	tobacco
+chaos (nm[pl]) /kao/	chaos
+enfermer (verb) /ɑ̃fɛʁme/	to shut, lock in
+tarte (nf) /taʁt/	pie
+cravete (nf) /kʁavɛt/	necktie
+frigo (nm) /fʁiɡo/	fridge
+traîne (nf) /tʁɛn/	train
+câble (nm) /kabl/	cable
+rarement (adv) /ʁaʁmɑ̃/	rarely, seldom
+goûter (verb) /ɡute/	to taste
+disputer (verb) /dispyte/	to dispute, contest
+impliquer (verb) /ɛ̃plike/	to imply, implicate
+remarquable (adj(f)) /ʁəmaʁkabl/	remarkable, outstanding
+exception (nf) /ɛksɛpsjɔ̃/	exception
+gant (nm) /ɡɑ̃/	glove
+ennuyeux (adj) /ɑ̃nɥijø/	boring, annoying, dull
+ouvrier (nmf, adj) /uvʁije/	worker, working-class
+record (nm) /ʁəkɔʁ/	record
+délirer (verb) /deliʁe/	to rave, to be delirious
+enseigne (nf) /ɑ̃sɛɲ/	sign
+angle (nm) /ɑ̃ɡl/	angle, point of view
+instinct (nm) /ɛ̃stɛ̃/	instinct
+impôt (nm) /ɛ̃po/	tax
+rompre (verb) /ʁɔ̃pʁ/	to break, to break up
+rattraper (verb) /ʁatʁape/	to recapture, recover, catch up, make up for
+complexe (nm, adj(f)) /kɔ̃plɛks/	complex
+méthode (nf) /metɔd/	method
+suggérer (verb) /syɡʒeʁe/	to suggest
+tigre (nm) /tiɡʁ/	tiger
+tragédie (nf) /tʁaʒedi/	tragedy
+torture (nf) /tɔʁtyʁ/	torture
+industrie (nf) /ɛ̃dystʁi/	industry
+population (nf) /pɔpylasjɔ̃/	population
+adaptation (nf) /adaptasjɔ̃/	adaptation
+admirer (verb) /admiʁe/	to admire
+autoroute (nf) /otoʁut/	motorway, highway, freeway
+obscurité (nf) /ɔpskyʁite/	darkness, obscurity
+fabuleux (adj) /fabylø/	fabulous
+linge (nf) /lɛ̃ʒ/	linen, cloth
+illégal (adj) /ileɡal/	illegal
+rigole (nf) /ʁiɡɔl/	laugh
+opérer (verb) /ɔpeʁe/	to operate
+fauteuil (nm) /fotœj/	armchair, seat
+vendeur (nm) /vɑ̃dœʁ/	salesman, seller
+novembre (nm) /nɔvɑ̃bʁ/	November
+collection (nf) /kɔlɛksjɔ̃/	collection, series
+tonne (nf) /tɔn/	metric ton, tonne
+accent (nm) /aksɑ̃/	accent
+déplacer (verb) /deplase/	to move, to put off, to displace
+serrer (verb) /seʁe/	to tighten, squeeze
+plastique (nm, adj(f)) /plastik/	plastic
+marche (nf) /maʁʃ/	walk, step, march
+commande (nf) /kɔmɑ̃d/	order, control
+lot (nm) /lo/	share, prize, lot
+trahison (nf) /tʁaizɔ̃/	betrayal, treachery, treason
+sensation (nf) /sɑ̃sasjɔ̃/	sensation
+mesure (nf) /məzyʁ/	measure
+chanceux (adj) /ʃɑ̃sø/	fortunate, lucky
+boue (nf) /bu/	mud
+cabane (nf) /kaban/	hut, cabine
+merveille (nf) /mɛʁvɛj/	marvel, wonder
+poing (nm) /pwɛ̃/	fist, punch
+sacrifice (nm) /sakʁifis/	sacrifice
+communication (nf) /kɔmynikasjɔ̃/	communication
+appuyer (verb) /apɥije/	to lean, support
+chagrin (adj, nm) /ʃaɡʁɛ̃/	grief, sorrow
+concentrer (verb) /kɔ̃sɑ̃tʁe/	to concentrate
+drogue (nf) /dʁɔɡ/	drug
+gratuit (adj) /ɡʁatɥi/	free, gratuitous, unwarranted
+britannique (adj(f)) /bʁitanik/	British
+social (adj) /sɔsjal/	social
+coïncidence (nf) /kɔɛ̃sidɑ̃s/	coincidence
+vire (adj) /viʁ/	fired
+août (nm) /ut/	August
+malédiction (nf) /malediksjɔ̃/	curse
+pension (nf) /pɑ̃sjɔ̃/	pension; room and board, boarding school
+ténèbre (nf) /tenɛbʁ/	darkness
+phase (nf) /faz/	phase, round
+noix (nf) /nwa/	nuts
+boum (nm) /bum/	bang
+sexuel (adj) /sɛksɥɛl/	sexual
+honnêtement (adv) /ɔnɛtmɑ̃/	honestly
+défi (nm) /defi/	challenge
+estimer (verb) /ɛstime/	to estimate; to consider, deem
+désastre (nm) /dezastʁ/	disaster
+feuille (nf) /fœj/	leaf, sheet
+éliminer (verb) /elimine/	to eliminate
+reconnaissant (adj) /ʁəkɔnɛsɑ̃/	grateful
+particulièrement (adv) /paʁtikyljɛʁmɑ̃/	particulary
+solitude (nf) /sɔlityd/	solitude, loneliness
+débrouiller (verb) /debʁuje/	to untangle, to sort out
+jouet (nm) /ʒwɛ/	toy
+tarder (verb) /taʁde/	to delay
+ingénieur (nm) /ɛ̃ʒenjœʁ/	engineer
+chant (nm) /ʃɑ̃/	song
+ongle (nf) /ɔ̃ɡl/	nail, fingernail
+trafic (nm) /tʁafik/	traffic, circulation
+activité (nf) /aktivite/	activity
+reconnaissance (nf) /ʁəkɔnɛsɑ̃s/	recognition, gratitude
+foie (nm) /fwa/	liver
+jusque (adv, prep) /ʒysk/	to, up to, until, till
+cercueil (nm) /sɛʁkœj/	coffin
+gris (nm, adj[pl]) /ɡʁi/	gray
+livraison (nf) /livʁɛzɔ̃/	delivery
+pilule (nf) /pilyl/	pill
+pratiquement (adv) /pʁatikmɑ̃/	practically
+diplômer (verb) /diplome/	to graduate
+cinquante (det, num) /sɛ̃kɑ̃t/	fifty
+armé (adj) /aʁme/	armed
+chapitre (nm) /ʃapitʁ/	chapter
+communiste (adj(f, nmf) /kɔmynist/	communist
+commissariat (nm) /kɔmisaʁja/	police station
+trouille (nf) /tʁuj/	(avoir la) trouille: to be scared stiff
+analyser (verb) /analize/	to analyse
+pisse (nf) /pis/	piss
+essentiel (nm, adj) /esɑ̃sjɛl/	essential
+génération (nm) /ʒeneʁasjɔ̃/	generation
+adjoindre (verb) /adʒwɛ̃dʁ/	to add sth to, to appoint
+écriture (nf) /ekʁityʁ/	writing, entry
+annuler (verb) /anyle/	to cancel
+massacre (nm) /masakʁ/	massacre, slaughter
+volontiers (adv) /vɔlɔ̃tje/	with pleasure, willingly, gladly
+phrase (nf) /fʁaz/	sentence, phrase
+poème (nm) /pɔɛm/	poem
+pénis (nm) /penis/	penis
+singe (nm) /sɛ̃ʒ/	monkey
+statuer (verb) /statɥe/	to rule
+époux (nm) /epu/	husband
+automne (nm) /ɔtɔn/	fall, autumn
+brigade (nf) /bʁiɡad/	team, squad, brigade
+éloigner (verb) /elwaɲe/	to remove
+survie (nf) /syʁvi/	survival
+batterie (nf) /batʁi/	battery; drum set
+ordonner (verb) /ɔʁdɔne/	to ordain, organize, order
+manche (nm, nf) /mɑ̃ʃ/	handle, sleeve
+creuser (verb) /kʁøze/	to dig
+pourvu (adj; adv) /puʁvy/	equiped with; so long as, provided
+mordre (verb) /mɔʁdʁ/	to bite, overlap into
+contenir (verb) /kɔ̃tniʁ/	to contain
+principe (nm) /pʁɛ̃sip/	principle
+bourrer (verb) /buʁe/	to stuff
+rembourser (verb) /ʁɑ̃buʁse/	to reimburse, pay back, pay off, repay
+masse (nf) /mas/	mass
+luxe (nm) /lyks/	luxury
+terreur (nf) /teʁœʁ/	terror, dread
+mobile (adj(f), nm) /mɔbil/	mobile, portable; motive
+sagesse (nf) /saʒɛs/	wisdom, moderation
+rigoler (verb) /ʁiɡɔle/	to laugh
+informer (verb) /ɛ̃fɔʁme/	to inform, notify
+saluer (verb) /salɥe/	to greet, salute
+terriblement (adv) /teʁibləmɑ̃/	terribly, awfully
+satisfaire (verb) /satisfɛʁ/	to satisfy
+avaler (verb) /avale/	to swallow
+décembre (nm) /desɑ̃bʁ/	December
+planter (verb) /plɑ̃te/	to plant, pitch
+usage (nm) /yzaʒ/	use, usage
+collège (nm) /kɔlɛʒ/	secondary school, body
+symbole (nm) /sɛ̃bɔl/	symbol
+aile (nf) /ɛl/	wing, fender
+flamme (nf) /flam/	flame, fire, fervor, brilliance
+bloc (nm) /blɔk/	block
+règne (nm) /ʁɛɲ/	reign
+orage (nm) /ɔʁaʒ/	storm, thunderstorm
+poste (nm, nf) /pɔst/	post, position; post office
+destiner (verb) /dɛstine/	to intend, be used
+renoncer (verb) /ʁənɔ̃se/	to give up, renounce
+gréver (verb) /ɡʁeve/	to put strain on, encumber
+royal (adj) /ʁwajal/	royal
+texte (nm) /tɛkst/	text
+officiel (adj, nmf) /ɔfisjɛl/	official
+pompe (nf) /pɔ̃p/	pump
+poubelle (nf) /pubɛl/	trash can, garbage
+patrouille (nf) /patʁuj/	patrol
+équippement (nm) /ekipmɑ̃/	equipment
+taux (nm) /to/	rate
+taudis (nm) /todi/	slum
+métal (nm) /metal/	metal
+destination (nf) /dɛstinasjɔ̃/	destination
+accomplir (verb) /akɔ̃pliʁ/	to accomplish
+pique (nf;nm) /pik/	pike, critique; spade
+accueil (nm) /akœj/	welcome, reception
+roue (nf) /ʁu/	wheel
+économie (nf) /ekɔnɔmi/	economy
+tombe (nf) /tɔ̃b/	grave, tomb
+charité (nf) /ʃaʁite/	charity
+mélanger (verb) /melɑ̃ʒe/	to mix, mix up, confuse
+endormir (verb) /ɑ̃dɔʁmiʁ/	to put to sleep, fall asleep
+cuisine (nf) /kɥizin/	cooking, kitchen
+laboratoire (nm) /labɔʁatwaʁ/	laboratory
+déconner (nm) /dekɔne/	to talk crap, to screw around, mess around
+plaisanterie (nf) /plɛzɑ̃tʁi/	joke
+quitte (adj) /kit/	to be clear off, quits
+culotte (nf) /kylɔt/	pants, panties
+boisson (nf) /bwasɔ̃/	drink, beverage
+saut (nm) /so/	jump, leap
+matinée (nf) /matine/	morning
+relever (verb) /ʁələve/	to raise, lift
+otage (nm) /ɔtaʒ/	hostage
+ravissant (adj) /ʁavisɑ̃/	delightful, ravishing
+fabriquer (verb) /fabʁike/	to manufacture, invent, make
+tireur (nm) /tiʁœʁ/	shooter
+lave (adj) /lav/	washed
+ambassadeur (nm) /ɑ̃basadœʁ/	ambassador
+atmosphère (nf) /atmɔsfɛʁ/	atmosphere
+menacer (verb) /mənase/	to threaten
+casier (nm) /kazje/	locker
+capital (nm, nf, adj) /kapital/	major, chief, principal; capital, assets
+cendre (nf) /sɑ̃dʁ/	ash
+syndicat (nm) /sɛ̃dika/	union
+suisse (adj(f)) /sɥis/	Swiss
+énormément (adv) /enɔʁmemɑ̃/	enormously
+outil (nm) /uti/	tool
+testament (nm) /tɛstamɑ̃/	will
+poète (nm) /pɔɛt/	poet
+combinaison (nf) /kɔ̃binɛzɔ̃/	combination
+transformer (verb) /tʁɑ̃sfɔʁme/	to transform
+ramasser (verb) /ʁamase/	to pick up, collect, gather
+avertir (verb) /avɛʁtiʁ/	to warn
+lecture (nf) /lɛktyʁ/	reading
+processus (nm[pl]) /pʁɔsesys/	process
+vaincre (verb) /vɛ̃kʁ/	to beat, defeat, overcome, conquer
+médical (adj) /medikal/	medical
+atelier (nm) /atəlje/	workshop, studio
+guerrier (nmf, adj) /ɡɛʁje/	warrior; warlike
+pouce (nm) /pus/	thumb, inch
+entraîneur (nm) /ɑ̃tʁɛnœʁ/	coach, trainer
+peindre (verb) /pɛ̃dʁ/	to paint, depict, portray
+panier (nm) /panje/	basket
+pétrin (nm) /petʁɛ̃/	mess, spot, pickle
+carrément (adv) /kaʁemɑ̃/	completely, directly, straight out
+tonnerre (nf) /tɔnɛʁ/	thunder
+témoignage (nm) /temwaɲaʒ/	testimoney, evidence, witness
+douter (verb) /dute/	to doubt
+indice (nm) /ɛ̃dis/	indication, sign, clue, hint
+création (nf) /kʁeasjɔ̃/	creation
+environnement (nm) /ɑ̃viʁɔnmɑ̃/	environment
+certes (adv) /sɛʁt/	indeed, certainly, of course
+dégueulasse (adj) /deɡœlas/	disgusting, filthy
+enseigner (verb) /ɑ̃seɲe/	to teach
+dose (nf) /doz/	dose, amount
+effrayer (verb) /efʁeje/	to frighten, scare
+môme (nm, nf) /mom/	kid
+curiosité (nf) /kyʁjozite/	curiosity
+administration (nf) /administʁasjɔ̃/	administration
+misère (nf) /mizɛʁ/	misery, poverty
+cuir (nm) /kɥiʁ/	leather
+transport (nm) /tʁɑ̃spɔʁ/	transportation
+prêter (verb) /pʁete/	to lend
+savon (nm) /savɔ̃/	soap
+pipi (nm) /pipi/	pee, wee
+fouiller (verb) /fuje/	to search, frisk, go through, rummage through
+plante (nf) /plɑ̃t/	plant
+viol (nm) /vjɔl/	rape
+douceur (nf) /dusœʁ/	softness, smoothness, mildness, gentleness, sweetness
+vain (adj) /vɛ̃/	vain
+détendre (verb) /detɑ̃dʁ/	to loosen, to relax
+parent (nmf, adj) /paʁɑ̃/	parent
+interrompre (verb) /ɛ̃tɛʁɔ̃pʁ/	to interrupt
+etc (adv) /ɛtseteʁa/	et cetera, etc.
+écart (nm) /ekaʁ/	space, gap
+pester (verb) /pɛste/	pester contre: to curse
+fonction (nf) /fɔ̃ksjɔ̃/	function
+élire (verb) /eliʁ/	to elect
+machin (nm) /maʃɛ̃/	thingy
+fameux (adj[pl]) /famø/	famous
+talent (nm) /talɑ̃/	talent
+nègre (nm, adj) /nɛɡʁ/	negro
+catholique (nmf, adj(f)) /katɔlik/	catholic
+indiquer (verb) /ɛ̃dike/	to indicate, signal
+misérable (nmf, adj) /mizeʁabl/	miserable, wretched
+requin (nm) /ʁəkɛ̃/	shark
+sincèrement (adv) /sɛ̃sɛʁmɑ̃/	truly, sincerely
+affection (nf) /afɛksjɔ̃/	affection, ailment
+adversaire (nm, nf) /advɛʁsɛʁ/	opponent, adversary
+actuellement (adv) /aktɥɛlmɑ̃/	at present, at the moment
+meuble (nm, adj(f)) /mœbl/	piece of furniture
+foutu (adj) /futy/	fucking, damned
+dignité (nf) /diɲite/	dignity
+ramer (verb) /ʁame/	to row
+rat (nf) /ʁa/	rat
+patienter (verb) /pasjɑ̃te/	to wait
+vomir (verb) /vɔmiʁ/	to throw up, to vomit
+dépression (nm) /depʁesjɔ̃/	depression
+précisément (adv) /pʁesizemɑ̃/	precisely
+circuit (nm) /siʁkɥi/	circuit
+voile (nm, nf) /vwal/	veil, sail
+correctement (adv) /kɔʁɛktəmɑ̃/	properly
+fringuer (verb) /fʁɛ̃ɡe/	to dress
+améliorer (verb) /ameljɔʁe/	to improve
+observer (verb) /ɔpsɛʁve/	to observe, watch
+volontaire (nmf, adj(f)) /vɔlɔ̃tɛʁ/	volunteer; voluntary
+fumier (nm) /fymje/	manure
+égoïste (adj, nm, nf) /eɡɔist/	selfish, egoist
+brouillard (nm) /bʁujaʁ/	fog, mist, haze
+construction (nf) /kɔ̃stʁyksjɔ̃/	construction, building
+météo (nf) /meteo/	weather forecast, weather report
+fillette (nf) /fijɛt/	little girl, girl
+motif (nm) /mɔtif/	motive, purpose
+sien (pron) /sjɛ̃/	his, hers
+loyauté (nf) /lwajote/	loyalty
+évidence (nf) /evidɑ̃s/	evidence
+mouton (nm) /mutɔ̃/	sheep
+commercial (adj, nm) /kɔmɛʁsjal/	commercial, marketeer
+lier (verb) /lje/	to link, join, tie to
+remède (nf) /ʁəmɛd/	remedy
+maintenir (verb) /mɛ̃tniʁ/	to maintain
+catastrophe (nf) /katastʁɔf/	catastrophe, disaster
+disparition (nf) /dispaʁisjɔ̃/	disappearance
+éternel (adj) /etɛʁnɛl/	eternal
+drap (nm) /dʁa/	sheet
+envelopper (verb) /ɑ̃vlɔpe/	to wrap, surround, veil
+coco (nm) /koko/	mate, coconut
+éclair (nm) /eklɛʁ/	flash, spark
+témoigner (verb) /temwaɲe/	to bear witness, to testify
+onze (det, num) /ɔ̃z/	eleven
+feuille (nf) /fœj/	leaf, sheet, slip
+embêter (verb) /ɑ̃bete/	to bother
+nichon (nm) /niʃɔ̃/	boob, tit, breast
+interview (nf) /ɛ̃tɛʁvju/	interview
+partant (adv) /paʁtɑ̃/	thus, consequencly, therefore
+promenade (nf) /pʁɔmnad/	walk, stroll
+association (nf) /asɔsjasjɔ̃/	association
+leader (nm, nf) /lidœʁ/	leader
+discipline (nf) /disiplin/	discipline
+civil (f) /sivil/	civil; civilian
+lancement (nm) /lɑ̃smɑ̃/	launch
+gras (adj[pl], adv, nm[pl]) /ɡʁa/	fatty, fat, greasy
+transfert (nm) /tʁɑ̃sfɛʁ/	transfer
+satellite (nm) /satelit/	satellite
+pompier (adj, nm) /pɔ̃pje/	fireman, firefighter
+tennis (nf) /tenis/	tennis
+tragique (adj(f), nm) /tʁaʒik/	tragic, tragedy
+enregistrement (nm) /ɑ̃ʁəʒistʁəmɑ̃/	recording, registration, check-in, logging
+circulation (nf) /siʁkylasjɔ̃/	circulation, traffic
+casque (nf) /kask/	helmet
+compétition (nm) /kɔ̃petisjɔ̃/	competition
+caution (nf) /kosjɔ̃/	deposit, guarantee, bail
+adn (nm) /adn/	DNA
+opportunité (nf) /ɔpɔʁtynite/	opportunity, appropriateness
+officiellement (adv) /ɔfisjɛlmɑ̃/	officially
+fixe (adj, nm) /fiks/	fixed, set; base salary
+fasciner (verb) /fasine/	to fascinate
+menu (nm, adv, adj) /məny/	menu, slender, slim, minor
+plancher (nm, verb) /plɑ̃ʃe/	floor
+subir (verb) /sybiʁ/	to undergo, be subjected to, suffer
+saigner (verb) /seɲe/	to bleed
+dentiste (nm, nf) /dɑ̃tist/	dentist
+légal (adj) /leɡal/	legal
+civilisation (nf) /sivilizasjɔ̃/	civilization
+avertissement (nm) /avɛʁtismɑ̃/	warning
+tache (nf) /taʃ/	stain, spot, mark
+antenne (nf) /ɑ̃tɛn/	antenna
+confier (verb) /kɔ̃fje/	to entrust
+onde (nf) /ɔ̃d/	wave
+assaut (nm) /aso/	assault, attack, bout
+fiche (nf) /fiʃ/	card, sheet, slip, form
+épisode (nf) /epizɔd/	episode
+anneau (nm) /ano/	ring
+maquillage (nf) /makijaʒ/	makeup
+doue (adj) /du/	talented, gifted
+enregistrer (verb) /ɑ̃ʁəʒistʁe/	to record, check in
+impact (nm) /ɛ̃pakt/	impact
+effacer (verb) /efase/	to erase, clean
+zone (nf) /zon/	area
+loger (verb) /lɔʒe/	to put up, accomodate, stay
+conflit (nm) /kɔ̃fli/	conflict

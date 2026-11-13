@@ -1,0 +1,2501 @@
+# Španielsko-anglický frekvenčný slovník (poradie podľa frekvencie)
+de (prep; conj; adv) /de/	of, from; than; off
+que (adj; conj; pron) /ke/	what; that, than; what, that
+no (part) /no/	not, no
+a (prep) /a/	to, at, in
+los, la, las, el, lo (art) /los, la, las, el, lo/	the
+y (conj) /i/	and
+ser (verb; nm) /seɾ/	to be (norm); being
+en (prep) /en/	in, on, at, by
+un, uno, una (art; adj) /un, ˈuno, ˈuna/	a, an; one
+por (prep) /poɾ/	by, for, through
+qué (adj; adv) /ˈke/	what?, which?, how (+ adj)!
+yo (pron) /ʝo/	I (subj)
+tú (pron) /ˈtu/	you (subj-sg/fam)
+saber (verb) /saˈβeɾ/	to know (a fact), find out
+con (prep) /kon/	with
+para (prep; conj) /ˈpaɾa/	for, to, of; in order to
+mi (pron) /mi/	my
+estar (verb) /esˈtaɾ/	to be (location, change from norm)
+si (conj) /si/	if, whether
+él (pron) /ˈel/	he, (ellos) them (m)
+pero (conj) /ˈpeɾo/	but, yet, except
+bien (adv) /bjen/	well
+suyo (pron) /ˈsuʝo/	his, hers, yours (form), theirs
+ese (adj) /ˈese/	that (m) (esa f)
+aquí (adv) /aˈki/	here
+del (art) /del/	of the
+al (art) /al/	to the
+como (adv; conj; prep) /ˈkomo/	as, like; as; as, like
+más (adj; adv; nm) /ˈmas/	more, most; more, most; more, plus
+todo (adj; adv; nm; pron) /ˈtoðo/	all, every; all; all, whole; all, everything
+se (pron) /se/	"reflexive marker", itself, oneself
+ya (adv) /ʝa/	already, still
+muy (adv) /ˈmui/	very, really
+este (adj; nm; pron;) /ˈeste/	this (m) (esta f); East; this one
+ir (verb) /iɾ/	to go
+haber (verb) /aˈβeɾ/	to have (+Ved)
+ahora (adv) /aˈoɾa/	now
+algo (adv; pron) /ˈalgo/	something; something, some
+tener (verb) /teˈneɾ/	to have
+así (adv) /aˈsi/	like that, so, thus
+nada (pron) /ˈnaða/	nothing, (not) at all
+nosotros (pron) /noˈsotɾos/	we (subj)
+cuando (adv; conj) /ˈkwando/	when; when
+cómo (adv; conj) /ˈkomo/	how?
+sólo (adv; adj; pron) /ˈsolo/	only, alone, just; unique; by oneself
+o (conj) /o/	or
+querer (verb) /keˈɾeɾ/	to want, love
+gracias (nf) /gˈɾaθjas/	(pl) thank you; grace, favor
+poder (verb; nm) /poˈðeɾ/	to be able to; power
+bueno (adj) /ˈbweno/	good
+vez (nf) /beθ/	time (specific occurrence)
+hacer (verb) /aˈθeɾ/	to do, make
+usted (pron) /usˈteð/	you (subj/form)
+señor (nm) /seˈɲoɾ/	sir, Mr., lord
+quién (pron) /ˈkjen/	who?, whom?
+casa (nf) /ˈkasa/	house
+crear (verb) /kɾeˈaɾ/	to create
+por qué (conj) /poɾ ˈke/	why
+tan (adv) /tan/	such, as, too, so
+favor (nm) /faˈβoɾ/	favor, benefit
+hola (interj) /ˈola/	hello, hi
+dónde (adv; conj) /ˈdonde/	where?; where
+nunca (adv) /ˈnuŋka/	never, ever
+dos (num) /dos/	two
+verdad (nf) /beɾˈðað/	truth
+mucho (adv) /ˈmuʧo/	much, many, a lot (adv)
+entonces (adv) /enˈtonθes/	so, then
+tiempo (nm) /ˈtjempo/	time (general), weather
+hombre (nm) /ˈombɾe/	man, mankind, husband
+dios (nm) /djos/	god, divinity
+también (adv) /tamˈbjen/	also
+vida (nf) /ˈbiða/	life
+sin (prep) /sin/	without
+ver (verb) /beɾ/	to see
+siempre (adv) /ˈsjempɾe/	always, forever
+oh (interj) /o/	oh
+hasta (adv; prep) /ˈasta/	up, even; until, to, till
+ahí (adv) /aˈi/	there
+sentar (verb) /senˈtaɾ/	to sit (down), seat
+decir (verb) /deˈθiɾ/	to tell, say
+ni (conj; adv) /ni/	or, nor, neither; neither
+sobre (prep) /ˈsoβɾe/	on top of, over, about
+año (nm) /ˈaɲo/	year
+uno (num) /ˈuno/	one
+día (nm) /ˈdia/	day
+noche (nf) /ˈnoʧe/	night, evening
+cosa (nf) /ˈkosa/	thing
+alguien (pron) /ˈalgjen/	somebody, someone, anyone
+antes (adv) /ˈantes/	before
+poco (adj; adv; nm) /ˈpoko/	little; a little bit (adv); little, bit
+otro (adj; pron) /ˈotɾo/	other, another; other, another
+solo (adj) /ˈsolo/	lonely, alone
+nadie (pron) /ˈnaðje/	nobody, no-one, anybody
+padre (nm) /ˈpaðɾe/	father
+gente (nf) /ˈxente/	people
+parecer (verb) /paɾeˈθeɾ/	to seem, look like
+dinero (nm) /diˈneɾo/	money
+hecho (nm) /ˈeʧo/	fact, happening
+les (pron) /les/	them
+mismo (adj) /ˈmizmo/	same
+mirar (verb) /miˈɾaɾ/	to look, watch
+pasa (nf) /ˈpasa/	happen, occurance
+trabajo (nm) /tɾaˈβaxo/	work, job, effort
+claro (adj; nm) /ˈklaɾo/	clear, light; clearing
+mañana (nf) /maˈɲana/	morning, tomorrow
+después (adv) /desˈpwes/	after
+desde (prep) /ˈdezðe/	from, since
+mundo (nm) /ˈmundo/	world
+hablar (verb) /aβˈlaɾ/	to speak, talk
+tal (adj) /tal/	such (a)
+acuerdo (nm) /aˈkweɾðo/	accord; de acuerdo: in agreement
+momento (nm) /moˈmento/	moment, time
+donde (adv; conj) /ˈdonde/	where; where
+fuera (adv) /ˈfweɾa/	out, outside, away
+hijo (nm) /ˈixo/	son, (pl) children
+seguro (adj; nm) /seˈɣuɾo/	safe, sure, secure; insurance
+mujer (nf) /muˈxeɾ/	woman, wife
+amigo (adj; nm/f) /aˈmiɣo/	friendly; friend
+madre (nf) /ˈmaðɾe/	mother
+allí (adv) /aˈʎi/	there, over there
+tu (adj) /tu/	thy, your (sg/fam)
+lugar (nm) /luˈɣaɾ/	place, position
+gustar (verb) /gusˈtaɾ/	to be pleasing to
+gran (adj) /gɾan/	great
+mierda (nf) /ˈmjeɾða/	shit, crap, excrement
+mamá (nf) /maˈma/	mom
+papá (nm) /paˈpa/	dad
+esperar (verb) /espeˈɾaɾ/	to wait, hope (for), expect
+hoy (adv) /ˈoi/	today, nowadays
+estado (nm) /esˈtaðo/	state, condition, status
+nuevo (adj) /ˈnweβo/	new
+luego (adv) /ˈlweɣo/	later, afterwards
+podar (verb) /poˈðaɾ/	to cut, trim, cut back
+tres (num) /tɾes/	three
+nuestro (pron) /ˈnwestɾo/	our
+menos (adj) /ˈmenos/	less, fewer
+deber (verb) /deˈβeɾ/	should, ought to; to owe
+tipo (nm) /ˈtipo/	type, kind
+conmigo (pron) /komˈmiɣo/	with me
+mal (adv; nm) /mal/	badly; evil, disease
+nombre (nm) /ˈnombɾe/	name, noun
+creer (verb) /kɾeˈeɾ/	to believe, think
+amor (nm) /aˈmoɾ/	love
+mío (pron) /ˈmio/	mine
+eh (interj) /e/	hey
+tarde (adj; adv; nf) /ˈtaɾðe/	late; late; afternoon, evening
+importar (verb) /impoɾˈtaɾ/	to matter, import, care abt smt
+parte (nf; pron) /ˈpaɾte/	part, portion; some
+aún (adv) /aˈun/	even, still, yet
+tanto (adj; adv) /ˈtanto/	so much, so many; so, how
+cada (adj; pron) /ˈkaða/	each, every; each, every
+hora (nf) /ˈoɾa/	hour, time (specific)
+necesitar (verb) /neθesiˈtaɾ/	to need
+dicho (nm) /ˈdiʧo/	saying, proverb
+quien (pron) /kjen/	who, whom
+demasiado (adj) /demaˈsjaðo/	too much, too many
+oír (verb) /oˈiɾ/	to hear
+ah (interj) /a/	oh
+haz (nm) /aθ/	beam, bundle
+entre (prep) /ˈentɾe/	between, among
+adiós (nm) /aˈðjos/	goodbye
+problema (nm) /pɾoβˈlema/	problem
+cierto (adj) /ˈθjeɾto/	certain, sure, true
+razón (nf) /raˈθon/	reason; tener razón: to be right
+alguno (adj; adv; pron) /alˈguno/	any, some; a few; any
+pues (conj) /pwes/	then, well then
+idea (nf) /iˈðea/	idea
+chico (nm/f) /ˈʧiko/	boy/girl
+real (adj; nm) /reˈal/	royal, real, authentic; real
+policía (nmf) /poliˈθia/	police, police force, police officer
+ustedes (pron) /usˈteðes/	you
+quizá (adv) /kiˈθa/	maybe, perhaps
+serio (adj) /ˈseɾjo/	serious
+cabeza (nf) /kaˈβeθa/	head (part of body)
+hermano (nm/f) /eɾˈmano/	brother/sister, (pl) siblings
+pasar (verb) /paˈsaɾ/	to happen, pass, spend (time)
+salir (verb) /saˈliɾ/	to leave, go out
+cuenta (nf) /ˈkwenta/	bill, account
+familia (nf) /faˈmilja/	family
+cariño (nm/f) /kaˈɾiɲo/	dear, darling, love, affection
+valer (verb) /baˈleɾ/	to be worth, cost
+señora (nf) /seˈɲoɾa/	Mrs., lady, madam
+muerto (adj; nm) /ˈmweɾto/	dead; dead
+todavía (adv) /toðaˈβia/	still, yet
+rápido (adj; nm) /ˈrapiðo/	quick, fast; rapid
+viejo (adj; nm/f) /ˈbjexo/	old, aged; old man
+lado (nm) /ˈlaðo/	side
+suerte (nf) /ˈsweɾte/	luck, fortune
+cuidado (nm) /kwiˈðaðo/	care, carefulness
+dar (verb) /daɾ/	to give
+mientras (conj) /ˈmjentɾas/	while, whereas, as long as
+miedo (nm) /ˈmjeðo/	fear
+primera (num) /pɾiˈmeɾa/	first
+contra (prep) /ˈkontɾa/	against, opposite
+puerta (nf) /ˈpweɾta/	door
+pronto (adv) /ˈpɾonto/	soon, quick
+casi (adv) /ˈkasi/	almost, nearly
+cualquier (adj) /kwalˈkjeɾ/	any, anyone (pron)
+agua (nf) /ˈaɣwa/	(el) water
+os (pron) /os/	you (obj-pl/fam)
+cuánto (adj) /ˈkwanto/	how much?
+niño (nm/f) /ˈniɲo/	child, little boy/girl
+vengar (verb) /beŋˈgaɾ/	to take revenge, avenge
+camino (nm) /kaˈmino/	road, route, path
+primero (adj) /pɾiˈmeɾo/	first
+hacia (prep) /ˈaθja/	toward, towards
+pensar (verb) /penˈsaɾ/	to think
+dentro (adj; adv; prep) /ˈdentɾo/	inside; within, inside; within
+ciudad (nf) /θjuˈðað/	city
+historia (nf) /isˈtoɾja/	history, story
+venir (verb) /beˈniɾ/	to come
+dejar (verb) /deˈxaɾ/	to let, leave
+durante (adv) /duˈɾante/	during, for (time)
+forma (nf) /ˈfoɾma/	form, shape, way
+volver (verb) /bolˈβeɾ/	to return, to V again
+feliz (adj) /feˈliθ/	happy, fortunate
+ojo (nm) /ˈoxo/	eye
+guerra (nf) /ˈgera/	war, warfare
+caso (nm) /ˈkaso/	case, occasion
+esposa (nf) /esˈposa/	wife
+adelante (adv) /aðeˈlante/	forward, further
+cuál (pron) /ˈkwal/	which?
+mano (nf) /ˈmano/	hand
+muerte (nf) /ˈmweɾte/	death
+allá (adv) /aˈʎa/	there, over there
+loco (adj) /ˈloko/	crazy, insane
+supuesto (adj) /suˈpwesto/	supposed; por supuesto: of course
+tomar (verb) /toˈmaɾ/	to take, drink
+minuto (nm) /miˈnuto/	minute
+entender (verb) /entenˈdeɾ/	to understand
+corazón (nm) /koɾaˈθon/	heart, core
+semana (nf) /seˈmana/	week
+jefe (nm/f) /ˈxefe/	leader, boss, manager
+ayuda (nf) /aˈʝuða/	help, aid
+junto (adv) /ˈxunto/	together with, next to
+suponer (verb) /supoˈneɾ/	to suppose, assume
+importante (adj) /impoɾˈtante/	important
+vetar (verb) /beˈtaɾ/	to veto
+arriba (adv) /aˈriβa/	up above
+persona (nf) /peɾˈsona/	person
+tierra (nf) /ˈtjera/	earth, land, ground
+manera (nf) /maˈneɾa/	way, manner
+fin (nm) /fin/	end
+cara (nf) /ˈkaɾa/	face, expression
+grande (adj) /gˈɾande/	large, great, big
+ninguno (adj; pron) /niŋˈguno/	none, any, neither; no, any, neither
+cinco (num) /ˈθiŋko/	five
+llamar (verb) /ʎaˈmaɾ/	to call, name
+habla (nf) /ˈaβla/	(el) speech, talking
+bajo (prep) /ˈbaxo/	under, underneath
+cuándo (adv) /ˈkwando/	when?
+quizás (adv) /kiˈθas/	perhaps, maybe
+tío (nm/f) /ˈtio/	uncle/aunt, guy
+aunque (conj) /ˈauŋke/	although, even though
+único (adj) /ˈuniko/	only, unique, sole
+siquiera (adv) /siˈkjeɾa/	even (if)
+cerca (adv) /ˈθeɾka/	close, near
+pequeño (adj) /peˈkeɲo/	little, small, young
+seguir (verb) /seˈɣiɾ/	to follow, keep on
+auto (nm) /ˈauto/	auto, car
+cuatro (num) /ˈkwatɾo/	four
+igual (adj) /iˈɣwal/	equal, same (as)
+listo (adj) /ˈlisto/	ready, clever, smart
+significar (verb) /siɣnifiˈkaɾ/	to mean
+capitán (nm) /kapiˈtan/	captain, chief
+clase (nf) /ˈklase/	kind, class, order
+llegar (verb) /ʎeˈɣaɾ/	to arrive
+doctor (nm/f) /dokˈtoɾ/	doctor
+suficiente (adj) /sufiˈθjente/	sufficient, enough
+vivir (verb) /biˈβiɾ/	to live
+joven (adj) /ˈxoβen/	young
+trabajar (verb) /tɾaβaˈxaɾ/	to work
+abajo (adv) /aˈβaxo/	down, below, downward
+genial (adj) /xeˈnjal/	brilliant, inspired
+puta (nf) /ˈputa/	whore, prostitute
+comer (verb) /koˈmeɾ/	to eat
+conocer (verb) /konoˈθeɾ/	to know (someone or place)
+entrar (verb) /enˈtɾaɾ/	to enter
+fuerte (adj) /ˈfweɾte/	strong
+número (nm) /ˈnumeɾo/	number
+morir (verb) /moˈɾiɾ/	to die
+basto (adv) /ˈbasto/	coarse
+bastante (adj) /basˈtante/	rather, fairly, quite a bit (adv)
+amo (nm) /ˈamo/	master, boss (m)
+atrás (adv) /aˈtɾas/	back, behind, ago
+difícil (adj) /diˈfiθil/	difficult, hard
+punto (nm) /ˈpunto/	point, dot, period
+final (adj; nm; nf) /fiˈnal/	end, final, last; finish; final
+escuela (nf) /esˈkwela/	school
+pueblo (nm) /ˈpweβlo/	people, village
+sangre (nf) /ˈsaŋgɾe/	blood
+mes (nm) /mes/	month
+coche (nm) /ˈkoʧe/	car, carriage
+juego (nm) /ˈxweɣo/	game, play, sport
+encontrar (verb) /eŋkonˈtɾaɾ/	to find
+realidad (nf) /realiˈðað/	reality, actuality
+cuerpo (nm) /ˈkweɾpo/	body
+último (adj) /ˈultimo/	last, final
+quedar (verb) /keˈðaɾ/	to remain, stay
+paz (nf) /paθ/	peace
+vuelta (nf) /ˈbwelta/	return, turn
+querido (adj) /keˈɾiðo/	dear, beloved
+culpar (verb) /kulˈpaɾ/	to blame
+malo (adj) /ˈmalo/	bad
+dólar (nm) /ˈdolaɾ/	dollar
+fácil (adj) /ˈfaθil/	easy
+alto (adj) /ˈalto/	tall, high
+posible (adj) /poˈsiβle/	possible
+maldito (adj) /malˈdito/	damned, wretched
+dormir (verb) /doɾˈmiɾ/	to sleep
+pregunta (nf) /pɾeˈɣunta/	question
+incluso (adv) /inˈkluso/	including, even (adv)
+fiesta (nf) /ˈfjesta/	party, feast
+tampoco (adv) /tamˈpoko/	neither, nor, either
+cama (nf) /ˈkama/	bed (furniture)
+lejos (adv) /ˈlexos/	far (away, off)
+medio (nm) /ˈmeðjo/	means, middle, half; por medio: through
+preocupar (verb) /pɾeokuˈpaɾ/	to worry
+ay (interj) /ˈai/	oh no! oh my!
+teléfono (nm) /teˈlefono/	phone, telephone
+tratar (verb) /tɾaˈtaɾ/	to try, treat, deal with
+equipo (nm) /eˈkipo/	team, equipment, outfit
+palabra (nf) /paˈlaβɾa/	word
+cuanto (en .. a) (adv; prep; conj) /ˈkwanto (en .. a)/	as to; regarding; as for
+idiota (nmf) /iˈðjota/	idiot
+luz (nf) /luθ/	light
+país (nm) /paˈis/	country
+segundo (adj) /seˈɣundo/	second
+diablo (nm) /ˈdjaβlo/	devil
+oportunidad (nf) /opoɾtuniˈðað/	opportunity, chance
+matar (verb) /maˈtaɾ/	to kill
+seis (num) /ˈseis/	six
+cuarto (nm) /ˈkwaɾto/	room, chamber
+cielo (nm) /ˈθjelo/	sky, heaven, ceiling
+vivo (adj) /ˈbiβo/	alive, bright
+recuerdo (nm) /reˈkweɾðo/	memory, keepsake
+perdón (nm) /peɾˈðon/	forgiveness, pardon
+falta (nf) /ˈfalta/	lack, shortage
+película (nf) /peˈlikula/	movie, film
+además (adv) /aðeˈmas/	also, as well, besides
+perro (nm/f) /ˈpero/	dog/bitch
+general (adj) /xeneˈɾal/	general
+calle (nf) /ˈkaʎe/	street
+exacto (adj) /ekˈsakto/	exact, faithful, TRUE
+rey (nm) /ˈrei/	king
+habitación (nf) /aβitaˈθjon/	room, bedroom, habitat
+carajo (nm) /kaˈɾaxo/	fuck, hell
+par (adj; nm; adv) /paɾ/	even; pair, couple, par; a la par: at same time
+fuego (nm) /ˈfweɣo/	fire, gunfire
+música (nf) /ˈmusika/	music
+paso (nm) /ˈpaso/	step, pace
+sentido (nm) /senˈtiðo/	sense, feeling
+afuera (adv) /aˈfweɾa/	outside
+café (nm) /kaˈfe/	coffee, café
+llevar (verb) /ʎeˈβaɾ/	to take, carry
+sitio (nm) /ˈsitjo/	place, space, website
+libro (nm) /ˈliβɾo/	book
+buscar (verb) /busˈkaɾ/	to look for
+bebé (nm) /beˈβe/	baby
+callar (verb) /kaˈʎaɾ/	to be/make quiet
+jamás (adv) /xaˈmas/	never
+armar (verb) /aɾˈmaɾ/	to arm, put together
+viaje (nm) /ˈbjaxe/	travel, trip
+muchacho (nm/f) /muˈʧaʧo/	boy/girl
+perder (verb) /peɾˈðeɾ/	to lose, miss
+jugar (verb) /xuˈɣaɾ/	to play (sport/game)
+diez (num) /djeθ/	ten
+mil (num) /mil/	thousand
+demás (adj) /deˈmas/	the rest, others
+gusto (nm) /ˈgusto/	pleasure, taste, preference
+orden (nm; nf) /ˈoɾðen/	order, sequence; warrant, religious order
+cambio (nm) /ˈkambjo/	change
+extraño (adj) /eksˈtɾaɲo/	strange, foreign
+pobre (adj) /ˈpoβɾe/	poor
+ropa (nf) /ˈropa/	clothes, clothing
+oficina (nf) /ofiˈθina/	office
+sino (conj) /ˈsino/	but, except, rather
+modo (nm) /ˈmoðo/	way, manner
+ocurrir (verb) /okuˈriɾ/	to happen, occur
+libre (adj) /ˈliβɾe/	free, vacant
+presidente (adj; nmf) /pɾesiˈðente/	presiding; president
+especial (adj) /espeˈθjal/	special
+anoche (adv) /aˈnoʧe/	last night
+millón (num) /miˈʎon/	million
+acercar (verb) /aθeɾˈkaɾ/	to come near, approach, get closer
+derecho (nm) /deˈɾeʧo/	right, justice, law
+negro (adj) /ˈneɣɾo/	black
+acá (adv) /aˈka/	here, around here
+caballero (nm) /kaβaˈʎeɾo/	gentleman, knight
+correcto (adj) /koˈrekto/	correct, suitable
+frente (nm; nf) /ˈfɾente/	front; forehead; al frente: facing; frente a: across from
+detrás (adv) /deˈtɾas/	behind
+poner (verb) /poˈneɾ/	to put (on), get (+adj)
+asunto (nm) /aˈsunto/	matter, issue, affair
+duro (adj) /ˈduɾo/	hard
+suceder (verb) /suθeˈðeɾ/	to happen
+disculpar (verb) /diskulˈpaɾ/	to excuse
+boca (nf) /ˈboka/	mouth, entrance, opening
+atención (nf) /atenˈθjon/	attention
+arma (nf) /ˈaɾma/	(el) weapon
+encima (adv) /enˈθima/	above, on top, in addition
+demonio (nm) /deˈmonjo/	demon, devil
+cual (pron) /kwal/	which, who, whom
+odiar (verb) /oˈðjaɾ/	to hate
+hospital (nm) /ospiˈtal/	hospital
+sueño (nm) /ˈsweɲo/	dream, sleep
+resto (nm) /ˈresto/	rest, remainder, leftover
+perfecto (adj) /peɾˈfekto/	perfect
+tranquilo (adj) /tɾaŋˈkilo/	calm, tranquil, relaxed
+seguridad (nf) /seɣuɾiˈðað/	security, safety
+ayudar (verb) /aʝuˈðaɾ/	to help
+largo (adj) /ˈlaɾɣo/	long
+pena (nf) /ˈpena/	trouble; valer la pena: be of worth
+probable (adj) /pɾoˈβaβle/	probable
+ayer (adv) /aˈʝeɾ/	yesterday
+probar (verb) /pɾoˈβaɾ/	to test, prove, try
+bonito (adj) /boˈnito/	pretty, nice
+vera (nf) /ˈbeɾa/	de veras: really, for real
+increíble (adj) /inkɾeˈiβle/	incredible, unbelievable
+tonto (adj) /ˈtonto/	stupid, dumb
+simple (adj) /ˈsimple/	simple, mere, simple-minded
+aire (nm) /ˈaiɾe/	air, wind, appearance
+fuerza (nf) /ˈfweɾθa/	strength, force, power
+carta (nf) /ˈkaɾta/	letter, (playing) card
+plan (nm) /plan/	plan
+hambre (nf) /ˈambɾe/	(el) hunger, starvation
+empezar (verb) /empeˈθaɾ/	to begin, start
+campo (nm) /ˈkampo/	field, country
+acabar (verb) /akaˈβaɾ/	acabar de V: to have just Ved; finish
+barco (nm) /ˈbaɾko/	boat, ship
+hotel (nm) /oˈtel/	hotel
+grupo (nm) /gˈɾupo/	group
+sol (nm) /sol/	sun
+tuyo (pron) /ˈtuʝo/	yours (sg/fam)
+pase (nm) /ˈpase/	pass
+voz (nf) /boθ/	voice
+bañar (verb) /baˈɲaɾ/	to bathe, take a bath
+usar (verb) /uˈsaɾ/	to use
+conseguir (verb) /konseˈɣiɾ/	to get, acquire, obtain
+placer (nm) /plaˈθeɾ/	pleasure
+profesor (nm/f) /pɾofeˈsoɾ/	professor, teacher
+lamentar (verb) /lamenˈtaɾ/	to regret
+blanco (adj) /ˈblaŋko/	white
+pie (nm) /pje/	foot, base
+andar (verb) /anˈdaɾ/	to walk, function
+edad (nf) /eˈðað/	age
+secreto (adj) /seˈkɾeto/	secret
+compañía (nf) /kompaˈɲia/	company
+tren (nm) /tɾen/	train, convoy
+tras (prep) /tɾas/	after, behind
+prisa (nf) /ˈpɾisa/	hurry
+vista (nf) /ˈbista/	view, sight
+hermoso (adj) /eɾˈmoso/	beautiful, lovely
+negocio (nm) /neˈɣoθjo/	business, transaction
+pagar (verb) /paˈɣaɾ/	to pay
+futuro (nm) /fuˈtuɾo/	future
+silencio (nm) /siˈlenθjo/	silence
+médico (nm/f) /ˈmeðiko/	doctor
+maestro (nm/f) /maˈestɾo/	teacher, master/mistress
+cambiar (verb) /kamˈbjaɾ/	to change
+control (nm) /konˈtɾol/	control
+raro (adj) /ˈraɾo/	strange, rare, scarce
+novio (nm/f) /ˈnoβjo/	boy/girlfriend, groom/bride
+diferente (adj) /difeˈɾente/	different, separate
+imposible (adj) /impoˈsiβle/	impossible
+enseguida (adv) /enseˈɣiða/	immediately, at once
+avión (nm) /aˈβjon/	plane, airplane, aircraft
+pelar (verb) /peˈlaɾ/	to peel
+error (nm) /eˈroɾ/	error, mistake
+propio (adj) /ˈpɾopjo/	own, proper, typical
+siguiente (adj) /siˈɣjente/	following, next
+ganar (verb) /gaˈnaɾ/	to win, earn
+ley (nf) /ˈlei/	law, bill, rule
+dolor (nm) /doˈloɾ/	pain, ache, sorrow
+oro (nm) /ˈoɾo/	gold
+maldición (nf) /maldiˈθjon/	damnation, curse
+oficial (adj) /ofiˈθjal/	official, authorized
+situación (nf) /sitwaˈθjon/	situation
+daño (nm) /ˈdaɲo/	harm, injury, damage
+deseo (nm) /deˈseo/	desire, wish
+mente (nf) /ˈmente/	mind
+ejército (nm) /eˈxeɾθito/	army
+comprar (verb) /komˈpɾaɾ/	to buy
+estúpido (adj) /esˈtupiðo/	stupid, idiotic
+sonar (verb) /soˈnaɾ/	to sound, ring
+mitad (nf) /miˈtað/	half, middle
+caballo (nm) /kaˈβaʎo/	horse
+asesino (adj; nm/f) /aseˈsino/	killer, assassin
+permiso (nm) /peɾˈmiso/	permission, permit
+maravilloso (adj) /maɾaβiˈʎoso/	wonderful, marvellous
+mesa (nf) /ˈmesa/	table, board
+divertido (adj) /diβeɾˈtiðo/	funny, amusing
+próximo (adj) /ˈpɾoksimo/	next
+mar (nm) /maɾ/	sea
+siete (num) /ˈsjete/	seven
+sexo (nm) /ˈsekso/	sex
+encantar (verb) /eŋkanˈtaɾ/	to love, be very pleasing to
+amable (adj) /aˈmaβle/	kind, nice, friendly
+mensaje (nm) /menˈsaxe/	message
+información (nf) /imfoɾmaˈθjon/	information
+traer (verb) /tɾaˈeɾ/	to bring, carry
+alma (nf) /ˈalma/	(el) soul
+coronel (nm) /koɾoˈnel/	colonel
+dale (interj) /ˈdale/	go ahead
+san (adj) /san/	saint
+cena (nf) /ˈθena/	dinner
+culo (nm) /ˈkulo/	ass
+adentro (adv) /aˈðentɾo/	inside
+canción (nf) /kanˈθjon/	song
+gobierno (nm) /goˈβjeɾno/	government
+temer (verb) /teˈmeɾ/	to fear
+abrir (verb) /aβˈɾiɾ/	to open
+vosotros (pron) /boˈsotɾos/	you (subj-pl/fam)
+frío (adj) /ˈfɾio/	cold
+foto (nf) /ˈfoto/	photo, picture
+accidente (nm) /akθiˈðente/	accident, irregularity
+funcionar (verb) /funθjoˈnaɾ/	to work, function
+centro (nm) /ˈθentɾo/	center, middle, downtown
+necesario (adj) /neθeˈsaɾjo/	necessary
+ante (prep) /ˈante/	before, in the presence of
+terrible (adj) /teˈriβle/	terrible
+teniente (nm) /teˈnjente/	lieutenant, deputy mayor
+luna (nf) /ˈluna/	moon
+izquierdo (adj) /iθˈkjeɾðo/	left (opposite of right)
+servicio (nm) /seɾˈβiθjo/	service, helpfulness
+llama (nf) /ˈʎama/	flame, llama
+normal (adj) /noɾˈmal/	normal, usual, regular
+tender (verb) /tenˈdeɾ/	to tend to, lay out
+navidad (nf) /naβiˈðað/	Christmas
+dirección (nf) /diɾekˈθjon/	direction, address
+abuelo (nm/f) /aˈβwelo/	grandfather/grandmother
+alrededor (adv) /alreðeˈðoɾ/	about, around, round
+libertad (nf) /liβeɾˈtað/	freedom, liberty
+salar (nm) /saˈlaɾ/	salt
+línea (nf) /ˈlinea/	line, course
+abogar (verb) /aβoˈɣaɾ/	to plead, advocate
+honor (nm) /oˈnoɾ/	honor, honesty
+regresar (verb) /reɣɾeˈsaɾ/	to return (to a place)
+papel (nm) /paˈpel/	paper, role, part
+terminar (verb) /teɾmiˈnaɾ/	to finish, end
+jurar (verb) /xuˈɾaɾ/	to swear, take an oath
+dulce (adj) /ˈdulθe/	sweet
+sentir (verb) /senˈtiɾ/	to feel, regret
+principio (nm) /pɾinˈθipjo/	beginning, principle
+interesante (adj) /inteɾeˈsante/	interesting
+caja (nf) /ˈkaxa/	bank, box, safe
+ocho (num) /ˈoʧo/	eight
+horrible (adj) /oˈriβle/	horrible
+respuesta (nf) /resˈpwesta/	answer, reply
+perra (nf) /ˈpera/	female dog, bitch, slut
+gracioso (adj) /gɾaˈθjoso/	funny, charming, amusing
+personal (adj) /peɾsoˈnal/	personal
+completo (adj) /komˈpleto/	complete
+linda (adj) /ˈlinda/	cute
+cárcel (nf) /ˈkaɾθel/	jail, prison
+sistema (nm) /sisˈtema/	system
+director (nm/f) /diɾekˈtoɾ/	director, manager, principal
+don (nm) /don/	courtesy title (m), Mr., gift
+salud (nf) /saˈluð/	health
+citar (verb) /θiˈtaɾ/	to cite, quote
+cámara (nf) /ˈkamaɾa/	camera, chamber
+agente (nmf) /aˈxente/	agent
+infierno (nm) /imˈfjeɾno/	hell, inferno
+regalo (nm) /reˈɣalo/	gift, present
+río (nm) /ˈrio/	river
+través (adv) /tɾaˈβes/	a través: across, over, through
+carne (nf) /ˈkaɾne/	meat, flesh
+total (adj) /toˈtal/	total, fully
+piso (nm) /ˈpiso/	floor, story
+sargento (nm) /saɾˈxento/	sergeant
+beber (verb) /beˈβeɾ/	to drink
+calma (nf) /ˈkalma/	calm, lull
+vestir (verb) /besˈtiɾ/	to wear, dress
+(a) salvo (prep; conj; (adj); (adv)) /ˈsalβo (a ˈsalβo)/	except, save, but; except for ; (safe); (safe)
+verdadero (adj) /beɾðaˈðeɾo/	true, real
+basura (nf) /baˈsuɾa/	garbage, rubbish
+suelo (nm) /ˈswelo/	ground, floor
+carrera (nf) /kaˈreɾa/	career, course, race
+cumpleaños (nm) /kumpleˈaɲos/	birthday
+rato (nm) /ˈrato/	moment, while, time
+universidad (nf) /uniβeɾsiˈðað/	university, college
+bailar (verb) /baiˈlaɾ/	to dance
+triste (adj) /ˈtɾiste/	sad, unhappy
+iglesia (nf) /iˈɣlesja/	church
+delante (adv) /deˈlante/	(in) front (of), ahead
+nene (nmf) /ˈnene/	baby
+banco (nm) /ˈbaŋko/	(financial) bank, bench
+existir (verb) /eksisˈtiɾ/	to exist
+programa (nm) /pɾoˈɣɾama/	program, plan
+alegrar (verb) /aleˈɣɾaɾ/	to be/make happy
+santo (adj; nm/f) /ˈsanto/	holy; saint
+porque (conj) /ˈpoɾke/	because
+broma (nf) /ˈbɾoma/	joke
+prometer (verb) /pɾomeˈteɾ/	to promise
+partido (nm) /paɾˈtiðo/	party, group, (sports) match
+preguntar (verb) /pɾeɣunˈtaɾ/	to ask (a question)
+radio (nm; nf) /ˈraðjo/	radio; set (m), communication (f)
+cenar (verb) /θeˈnaɾ/	to dine
+correr (verb) /koˈreɾ/	to run
+disculpa (nf) /disˈkulpa/	apology, excuse
+cerveza (nf) /θeɾˈβeθa/	beer, ale
+destino (nm) /desˈtino/	destination, destiny
+norte (nm) /ˈnoɾte/	north
+sala (nf) /ˈsala/	room, hall
+según (prep) /seˈɣun/	according to, by
+ataque (nm) /aˈtake/	attack, raid
+parir (verb) /paˈɾiɾ/	to give birth
+ejemplo (nm) /eˈxemplo/	example
+sorpresa (nf) /soɾˈpɾesa/	surprise
+té (nm) /ˈte/	tea
+club (nm) /kluβ/	club, society
+temprano (adj) /temˈpɾano/	early
+público (adj) /ˈpuβliko/	public
+ventana (nf) /benˈtana/	window
+duda (nf) /ˈduða/	doubt
+boda (nf) /ˈboða/	marriage, wedding
+peligro (nm) /peˈliɣɾo/	danger, menace
+caliente (adj) /kaˈljente/	hot, warm, spirited
+escribir (verb) /eskɾiˈβiɾ/	to write
+reina (nf) /ˈreina/	queen
+embargo (nm) /emˈbaɾɣo/	however; sin embargo: nevertheless
+sur (nm) /suɾ/	south
+enfermo (adj) /emˈfeɾmo/	ill, sick
+excelente (adj) /eksθeˈlente/	excellent
+escena (nf) /esˈθena/	scene, stage, setting
+encuentro (nm) /eŋˈkwentɾo/	encounter, meeting, game, skirmish
+asesinato (nm) /asesiˈnato/	murder, assassination
+obra (nf) /ˈoβɾa/	work, book, deed
+aquel (adj) /aˈkel/	that (over there)
+gana (nf) /ˈgana/	desire, demand, urge
+prueba (nf) /ˈpɾweβa/	proof, trial, test
+vos (pron) /bos/	you (subj-sg/fam)
+escuchar (verb) /eskuˈʧaɾ/	to listen to
+aun (adv) /ˈaun/	even (though), still
+apenar (verb) /apeˈnaɾ/	to distress
+llave (nf) /ˈʎaβe/	key, faucet, wrench
+regreso (nm) /reˈɣɾeso/	return
+trasero (adj) /tɾaˈseɾo/	behind, back
+ojalá (adv) /oxaˈla/	I hope that
+apostar (verb) /aposˈtaɾ/	to wager, bet
+leer (verb) /leˈeɾ/	to read
+imbécil (nmf) /imˈbeθil/	moron
+opinión (nf) /opiˈnjon/	opinion, view
+joder (verb) /xoˈðeɾ/	to f**k, screw (around/up)
+señal (nf) /seˈɲal/	sign, mark, token
+agradable (adj) /aɣɾaˈðaβle/	nice, pleasant
+cocinar (verb) /koθiˈnaɾ/	to cook
+relación (nf) /relaˈθjon/	relationship, relation
+cortar (verb) /koɾˈtaɾ/	to cut
+cerebro (nm) /θeˈɾeβɾo/	brain
+locura (nf) /loˈkuɾa/	madness, insanity
+peligroso (adj) /peliˈɣɾoso/	dangerous
+cine (nm) /ˈθine/	cinema, US movie theater
+reunión (nf) /reuˈnjon/	meeting, reunion
+costo (nf) /ˈkosto/	cost
+tocar (verb) /toˈkaɾ/	to touch, play (instrument)
+causa (nf) /ˈkausa/	cause
+pelear (verb) /peleˈaɾ/	to fight, struggle
+prisión (nf) /pɾiˈsjon/	prison, imprisonment
+mayoría (nf) /maʝoˈɾia/	majority
+fondo (nm) /ˈfondo/	bottom, end
+acaso (adv) /aˈkaso/	by chance, maybe
+montón (nm) /monˈton/	lot of, heap, pile
+comandante (nm) /komanˈdante/	commander, commanding
+éxito (nm) /ˈeksito/	success
+misión (nf) /miˈsjon/	mission, task
+decisión (nf) /deθiˈsjon/	decision
+hogar (nm) /oˈɣaɾ/	home, hearth
+rico (adj) /ˈriko/	rich, tasty
+tragar (verb) /tɾaˈɣaɾ/	to swallow
+capaz (adj) /kaˈpaθ/	capable, able
+cargo (nm) /ˈkaɾɣo/	position, charge, fee
+uña (nf) /ˈuɲa/	nail, claw
+llenar (verb) /ʎeˈnaɾ/	to fill
+bar (nm) /baɾ/	(snack) bar, café
+estrella (nf) /esˈtɾeʎa/	star
+posición (nf) /posiˈθjon/	position
+estación (nf) /estaˈθjon/	station, season
+interesar (verb) /inteɾeˈsaɾ/	to interest
+edificio (nm) /eðiˈfiθjo/	building
+consejo (nm) /konˈsexo/	advice, council, counsel
+pistola (nf) /pisˈtola/	gun, pistol
+humano (adj; nm) /uˈmano/	human; human
+fantástico (adj) /fanˈtastiko/	fantastic, unreal
+zapato (nm) /θaˈpato/	shoe
+flor (nf) /floɾ/	flower
+ocupar (verb) /okuˈpaɾ/	to occupy, use
+bienvenido (adj) /bjembeˈniðo/	welcome
+zona (nf) /ˈθona/	area, zone
+contacto (nm) /konˈtakto/	contact
+sacar (verb) /saˈkaɾ/	to take out
+tema (nm) /ˈtema/	theme, subject, topic
+soldar (verb) /solˈdaɾ/	to weld
+pedir (verb) /peˈðiɾ/	to ask for, request
+cerrar (verb) /θeˈraɾ/	to close
+intento (nm) /inˈtento/	attempt, try
+calor (nm) /kaˈloɾ/	heat, warmth
+equivocar (verb) /ekiβoˈkaɾ/	to be wrong
+animal (adj; nm) /aniˈmal/	animal; animal
+departamento (nm) /depaɾtaˈmento/	department, apartment
+enemigo (adj; nm) /eneˈmiɣo/	hostile, enemy; enemy
+color (nm) /koˈloɾ/	color
+valor (nm) /baˈloɾ/	value, worth
+azul (adj) /aˈθul/	blue
+espacio (nm) /esˈpaθjo/	space, room
+mantener (verb) /manteˈneɾ/	to keep, maintain
+aprender (verb) /apɾenˈdeɾ/	to learn
+inteligente (adj) /inteliˈxente/	intelligent
+arte (nm) /ˈaɾte/	art, skill
+respetar (verb) /respeˈtaɾ/	to respect
+juez (nmf) /xweθ/	judge
+inglés (adj) /iŋgˈles/	English
+precio (nm) /ˈpɾeθjo/	price, cost, value
+rojo (adj) /ˈroxo/	red
+verano (nm) /beˈɾano/	summer
+pierna (nf) /ˈpjeɾna/	leg
+isla (nf) /ˈizla/	island
+dama (nf) /ˈdama/	lady, dame
+guardia (nmf) /ˈgwaɾðja/	guard, watch, lookout
+espalda (nf) /esˈpalda/	back (body)
+parar (verb) /paˈɾaɾ/	to stop (moving)
+banda (nf) /ˈbanda/	(musical) band, sash
+marcha (nf) /ˈmaɾʧa/	march, progress
+crimen (nm) /ˈkɾimen/	crime, murder
+diferencia (nf) /difeˈɾenθja/	difference
+ama (nmf) /ˈama/	owner, housekeeper, housewife
+debajo (adv) /deˈβaxo/	underneath, below
+compañero (nm) /kompaˈɲeɾo/	companion, classmate
+molesto (adj) /moˈlesto/	annoyed, bothered, upset
+contar (verb) /konˈtaɾ/	to tell, count
+cansar (verb) /kanˈsaɾ/	to tire, annoy
+juicio (nm) /ˈxwiθjo/	judgment
+estilo (nm) /esˈtilo/	style
+salida (nf) /saˈliða/	exit, escape, outcome
+despierto (adj) /desˈpjeɾto/	awake
+estupendo (adj) /estuˈpendo/	marvellous, stupendous
+nota (nf) /ˈnota/	note, grade
+nave (nf) /ˈnaβe/	spacecraft, ship
+base (nf) /ˈbase/	base, basis
+subir (verb) /suˈβiɾ/	to go up
+vuelo (nm) /ˈbwelo/	flight
+excepto (prep; (conj)) /eksˈθepto/	except (for), unless
+golpe (nm) /ˈgolpe/	hit, strike, punch
+viento (nm) /ˈbjento/	wind, scent
+acción (nf) /akˈθjon/	action, act, deed
+tontería (nf) /tonteˈɾia/	stupidity, stupid thing
+respecto (nm) /resˈpekto/	respect, con respecto a: with regards
+desear (verb) /deseˈaɾ/	to want, desire, wish for
+beso (nm) /ˈbeso/	kiss
+cuestión (nf) /kwesˈtjon/	question, matter
+regla (nf) /ˈreɣla/	rule, ruler, regulation
+ruido (nm) /ˈrwiðo/	noise
+olvidar (verb) /olβiˈðaɾ/	to forget
+mentira (nf) /menˈtiɾa/	lie
+brazo (nm) /ˈbɾaθo/	arm
+calmar (verb) /kalˈmaɾ/	to calm, soothe, relieve
+experiencia (nf) /ekspeˈɾjenθja/	experience
+esperanzar (verb) /espeɾanˈθaɾ/	to (give) hope (to)
+casar (verb) /kaˈsaɾ/	to marry
+drogar (verb) /dɾoˈɣaɾ/	to drug
+espíritu (nm) /esˈpiɾitu/	spirit, ghost
+vacación (nf) /bakaˈθjon/	holiday
+copa (nf) /ˈkopa/	cup, glass, top (tree)
+investigación (nf) /imbestiɣaˈθjon/	investigation
+preferir (verb) /pɾefeˈɾiɾ/	to prefer
+soler (verb) /soˈleɾ/	to be accustomed to
+menudo (adv) /meˈnuðo/	a menudo: often
+partir (verb) /paɾˈtiɾ/	to divide, leave; a partir de: starting, from
+visita (nf) /biˈsita/	visit, visitor, guest
+nueve (num) /ˈnweβe/	nine
+bomba (nf) /ˈbomba/	bomb, explosion, pump
+energía (nf) /eneɾˈxia/	energy, power
+bolsa (nf) /ˈbolsa/	bag, purse, stock exchange
+pan (nm) /pan/	bread
+piel (nf) /pjel/	skin, hide, fur
+metro (nm) /ˈmetɾo/	meter, subway
+perdonar (verb) /peɾðoˈnaɾ/	to forgive, excuse
+cuello (nm) /ˈkweʎo/	neck, collar
+escapar (verb) /eskaˈpaɾ/	to escape
+salvar (verb) /salˈβaɾ/	to save, rescue
+servir (verb) /seɾˈβiɾ/	to serve
+especie (nf) /esˈpeθje/	kind, sort, species
+lleno (adj) /ˈʎeno/	full, filled
+fe (nf) /fe/	faith
+doble (adj) /ˈdoβle/	double
+inmediatamente (adv) /immeðjataˈmente/	immediately
+culpable (adj) /kulˈpaβle/	guilty
+bosque (nm) /ˈboske/	forest, woods
+taxi (nm) /ˈtaksi/	taxi, cab
+volar (verb) /boˈlaɾ/	to fly
+repente (adv) /reˈpente/	de + repente: suddenly
+bromear (verb) /bɾomeˈaɾ/	to joke
+planeta (nm) /plaˈneta/	planet
+cabrón (nm) /kaβˈɾon/	dumbass
+depender (verb) /depenˈdeɾ/	to depend on
+común (adj) /koˈmun/	common
+informe (nm) /imˈfoɾme/	report
+máquina (nf) /ˈmakina/	machine
+principal (adj) /pɾinθiˈpal/	main, principal
+ridículo (adj) /riˈðikulo/	ridiculous, absurd
+entrada (nf) /enˈtɾaða/	entrance, admission ticket
+príncipe (nm) /ˈpɾinθipe/	prince
+preparar (verb) /pɾepaˈɾaɾ/	to prepare
+propósito (nm) /pɾoˈposito/	intention, purpose
+cliente (nmf) /ˈkljente/	client, customer
+árbol (nm) /ˈaɾβol/	tree
+absoluto (adj) /aβsoˈluto/	absolute
+belleza (nf) /beˈʎeθa/	beauty
+intentar (verb) /intenˈtaɾ/	to try, attempt
+vuestro (adj) /ˈbwestɾo/	your (pl/fam)
+oeste (nm) /oˈeste/	West
+francia (nf) /ˈfɾanθja/	France
+deprisa (adv) /deˈpɾisa/	quickly
+tirar (verb) /tiˈɾaɾ/	to throw, pull
+cerdo (nm) /ˈθeɾðo/	pig, sow, slob, pork
+gato (nm) /ˈgato/	cat
+vistazo (nm) /bisˈtaθo/	glance
+defensa (nf) /deˈfensa/	defense, plea
+reloj (nm) /reˈlox/	clock, watch
+batalla (nf) /baˈtaʎa/	battle
+caminar (verb) /kamiˈnaɾ/	to walk
+interior (adj; adv; nm) /inteˈɾjoɾ/	inside, inner, interior; inside; inside, interior
+bello (adj) /ˈbeʎo/	beautiful, fine
+apartamento (nm) /apaɾtaˈmento/	apartment
+teatro (nm) /teˈatɾo/	theater, drama
+papi (nm) /ˈpapi/	Daddy
+confiar (verb) /komˈfjaɾ/	to trust, confide
+hielo (nm) /ˈjelo/	ice
+cantar (verb) /kanˈtaɾ/	to sing
+bajar (verb) /baˈxaɾ/	to come down, let down
+lucha (nf) /ˈluʧa/	fight, struggle, wrestle
+forzar (verb) /foɾˈθaɾ/	to force
+borracho (adj) /boˈraʧo/	drunk
+héroe (nm) /ˈeɾoe/	hero
+camión (nm) /kaˈmjon/	truck, van, tanker
+cabo (nm) /ˈkaβo/	end, bit; llevar a c.: to carry out
+diente (nm) /ˈdjente/	tooth, cog
+verde (adj) /ˈbeɾðe/	green
+despacio (adj) /desˈpaθjo/	slow, slowly
+decidir (verb) /deθiˈðiɾ/	to decide
+sociedad (nf) /soθjeˈðað/	society
+pareja (nf) /paˈɾexa/	couple, pair
+nariz (nf) /naˈɾiθ/	nose
+vergüenza (nf) /beɾˈɣwenθa/	embarrassment
+caer (verb) /kaˈeɾ/	to fall
+herir (verb) /eˈɾiɾ/	to wound, hurt
+pista (nf) /ˈpista/	clue, track, trace
+sonido (nm) /soˈniðo/	sound
+sombrero (nm) /somˈbɾeɾo/	hat, sombrero
+evitar (verb) /eβiˈtaɾ/	to avoid, prevent
+memoria (nf) /meˈmoɾja/	memory
+llorar (verb) /ʎoˈɾaɾ/	to cry
+nervioso (adj) /neɾˈβjoso/	nervous, uptight
+lástima (nf) /ˈlastima/	shame, pity
+época (nf) /ˈepoka/	time, age, period
+naturaleza (nf) /natuɾaˈleθa/	nature, character
+vender (verb) /benˈdeɾ/	to sell
+política (nf) /poˈlitika/	politics, policy
+levantar (verb) /leβanˈtaɾ/	to raise, lift
+estudio (nm) /esˈtuðjo/	study, learning, studio
+brillante (adj) /bɾiˈʎante/	brilliant, shiny, sparkling
+nivel (nm) /niˈβel/	level
+permitir (verb) /peɾmiˈtiɾ/	to allow, permit
+justicia (nf) /xusˈtiθja/	justice, fairness
+millón (num) /miˈʎon/	million, fortune
+enorme (adj) /eˈnoɾme/	enormous, vast
+charlar (verb) /ʧaɾˈlaɾ/	to chat, talk
+inocente (adj) /inoˈθente/	innocent, naïve
+pantalón (nm) /pantaˈlon/	pants, trousers
+ministro (nm/f) /miˈnistɾo/	(government) secretary, minister
+mando (nm) /ˈmando/	command, authority
+precioso (adj) /pɾeˈθjoso/	beautiful, precious
+pesar (nm) /peˈsaɾ/	sorrow; a pesar de: in spite of
+extrañar (verb) /ekstɾaˈɲaɾ/	to miss, long for
+enamorar (verb) /enamoˈɾaɾ/	to fall in love
+autobús (nm) /autoˈβus/	bus
+recordar (verb) /rekoɾˈðaɾ/	to remember, remind
+luchar (verb) /luˈʧaɾ/	to fight, wrestle
+datar (verb) /daˈtaɾ/	to date
+contrario (adj) /konˈtɾaɾjo/	contrary, opposite
+movimiento (nm) /moβiˈmjento/	movement
+motivo (nm) /moˈtiβo/	motive, cause
+puente (nm) /ˈpwente/	bridge
+comprender (verb) /kompɾenˈdeɾ/	to understand
+huevo (nm) /ˈweβo/	egg
+botella (nf) /boˈteʎa/	bottle, flask
+cuesta (nf) /ˈkwesta/	cost
+detentar (verb) /detenˈtaɾ/	to wield
+confianza (nf) /komˈfjanθa/	confidence, trust
+felicidad (nf) /feliθiˈðað/	happiness
+espada (verb) /esˈpaða/	sword
+silla (nf) /ˈsiʎa/	chair, seat
+televisión (nf) /teleβiˈsjon/	TV, television
+acordar (verb) /akoɾˈðaɾ/	to agree
+pared (nf) /paˈɾeð/	(interior) wall
+prensa (nf) /ˈpɾensa/	press
+trampa (nf) /ˈtɾampa/	trick, trap; hacer trampa: to cheat
+presente (nm) /pɾeˈsente/	present
+jardín (nm) /xaɾˈðin/	garden
+cabello (nm) /kaˈβeʎo/	hair
+espectáculo (nm) /espekˈtakulo/	spectacle, show
+grave (adj) /gˈɾaβe/	serious, solemn
+periódico (nm) /peˈɾjoðiko/	newspaper, periodical
+coño (nm) /ˈkoɲo/	cone, pussy (coll)
+anillo (nm) /aˈniʎo/	(finger) ring
+monstruo (nm) /ˈmonstɾwo/	monster, monstrosity
+piedra (nf) /ˈpjeðɾa/	stone, rock
+contentar (verb) /kontenˈtaɾ/	to please, content, satisfy
+contrato (nm) /konˈtɾato/	contract, agreement
+playa (nf) /ˈplaʝa/	beach, seaside
+costa (nf) /ˈkosta/	coast
+asentar (verb) /asenˈtaɾ/	to settle, lay down
+tarjeta (nf) /taɾˈxeta/	card
+restaurante (nm) /restauˈɾante/	restaurant
+paseo (nm) /paˈseo/	walk, ride
+inspector (nm) /inspekˈtoɾ/	inspector
+domingo (nm) /doˈmiŋgo/	Sunday
+velocidad (nf) /beloθiˈðað/	speed, velocity
+proyecto (nm) /pɾoˈʝekto/	project, plan
+victoria (nf) /bikˈtoɾja/	victory, triumph
+operación (nf) /opeɾaˈθjon/	operation
+imagen (nf) /iˈmaxen/	image, picture
+responsable (adj) /responˈsaβle/	responsible
+aspecto (nm) /asˈpekto/	aspect, appearance
+sentimiento (nm) /sentiˈmjento/	feeling, sentiment
+objetivo (nm) /oβxeˈtiβo/	objective
+red (nf) /reð/	network, net, system
+dormido (adj) /doɾˈmiðo/	asleep, sleeping
+historiar (verb) /istoˈɾjaɾ/	to chronicle
+arreglar (verb) /areˈɣlaɾ/	to fix, arrange
+turno (nm) /ˈtuɾno/	turn, shift; en turno a: around
+montaña (nf) /monˈtaɲa/	mountain
+enfermedad (nf) /emfeɾmeˈðað/	illness, sickness
+dedo (nm) /ˈdeðo/	finger, toe, digit
+guapo (adj) /ˈgwapo/	handsome, beautiful
+pocos (adj) /ˈpokos/	few
+referir (verb) /refeˈɾiɾ/	to refer (to)
+viernes (nm) /ˈbjeɾnes/	Friday
+preocupado (adj) /pɾeokuˈpaðo/	worried, concerned
+rayo (nm) /ˈraʝo/	ray, beam, lightning
+inútil (adj) /iˈnutil/	useless
+abierto (adj) /aˈβjeɾto/	open, unlocked
+oscuridad (nf) /oskuɾiˈðað/	darkness
+americano (adj) /ameɾiˈkano/	American
+primo (nm) /ˈpɾimo/	cousin
+nacional (adj) /naθjoˈnal/	national
+colegio (nm) /koˈlexjo/	(high) school, college
+cuchillo (nm) /kuˈʧiʎo/	knife
+diario (adj; adv; nm) /ˈdjaɾjo/	daily; daily; daily, journal, newspaper
+francés (adj) /fɾanˈθes/	French
+orgulloso (adj) /oɾɣuˈʎoso/	proud, arrogant
+ladrón (nm) /laðˈɾon/	thief (f= ladrona)
+central (adj) /θenˈtɾal/	central
+voluntad (nf) /bolunˈtað/	will, willpower, intention
+militar (adj) /miliˈtaɾ/	military
+agradecer (verb) /aɣɾaðeˈθeɾ/	to thank for
+mami (nf) /ˈmami/	Mommy
+lluvia (nf) /ˈʎuβja/	rain
+natural (adj) /natuˈɾal/	natural
+ciento (num) /ˈθjento/	hundred
+lengua (nf) /ˈleŋgwa/	language, tongue, strip (of land)
+chino (adj) /ˈʧino/	Chinese
+testigo (nm/f) /tesˈtiɣo/	witness
+alemán (adj) /aleˈman/	German
+pago (nm) /ˈpaɣo/	payment
+mirada (nf) /miˈɾaða/	gaze, look
+quieto (adj) /ˈkjeto/	still, motionless, calm
+descansar (verb) /deskanˈsaɾ/	to rest
+mercado (nm) /meɾˈkaðo/	market
+humor (nm) /uˈmoɾ/	mood, humor
+entero (adj) /enˈteɾo/	entire, whole, complete
+dueño (nm/f) /ˈdweɲo/	owner, landlord (m)
+echar (verb) /eˈʧaɾ/	to throw, cast
+emergencia (nf) /emeɾˈxenθja/	emergency
+romper (verb) /romˈpeɾ/	to break
+actuar (verb) /akˈtwaɾ/	to act
+inmediato (adj) /immeˈðjato/	immediate
+paciente (nmf) /paˈθjente/	patient
+varios (adj) /ˈbaɾjos/	several, various
+polvo (nm) /ˈpolβo/	dust, powder
+coger (verb) /koˈxeɾ/	to hold, take, catch
+distancia (nf) /disˈtanθja/	distance
+bravo (adj) /ˈbɾaβo/	fierce, angry
+europa (nf) /euˈɾopa/	Europe
+toque (nm) /ˈtoke/	touch, ringing, warning
+ángel (nm) /ˈaŋxel/	angel
+amante (nf) /aˈmante/	lover, mistress
+nosotras (pron) /noˈsotɾas/	we
+carga (nf) /ˈkaɾɣa/	load, charge, cargo, burden
+acto (nm) /ˈakto/	act, action, event
+robar (verb) /roˈβaɾ/	to rob, steal
+desastre (nm) /deˈsastɾe/	disaster
+bote (nm) /ˈbote/	boat, container
+oler (verb) /oˈleɾ/	to smell
+embarazar (verb) /embaɾaˈθaɾ/	to make pregnant
+mostrar (verb) /mosˈtɾaɾ/	to show
+gordo (adj; nm) /ˈgoɾðo/	fat, thick; fatso
+valiente (adj) /baˈljente/	brave, courageous, bold
+aceptar (verb) /aθepˈtaɾ/	to accept
+oscuro (adj) /osˈkuɾo/	dark, obscure
+cuidar (verb) /kwiˈðaɾ/	to take care of
+rogar (verb) /roˈɣaɾ/	to implore, pray, ask
+tumba (nf) /ˈtumba/	tomb, grave
+resultar (verb) /resulˈtaɾ/	to result, turn out
+comenzar (verb) /komenˈθaɾ/	to begin, start
+área (nf) /ˈaɾea/	(el) area, zone
+limpio (adj) /ˈlimpjo/	clean
+descanso (nm) /desˈkanso/	rest, interval, break
+posibilidad (nf) /posiβiliˈðað/	possibility
+uso (nm) /ˈuso/	use
+talento (nm) /taˈlento/	talent, skill
+continuar (verb) /kontiˈnwaɾ/	to continue
+código (nm) /ˈkoðiɣo/	code
+definitivo (adj) /definiˈtiβo/	definitive, conclusive
+directo (adj) /diˈɾekto/	direct, straight
+parque (nm) /ˈpaɾke/	park
+cinta (nf) /ˈθinta/	tape, ribbon, film, strip
+famoso (adj) /faˈmoso/	famous, well-known
+mover (verb) /moˈβeɾ/	to move, incite
+disparar (verb) /dispaˈɾaɾ/	to shoot (at)
+empresa (nf) /emˈpɾesa/	firm, company, venture
+intención (nf) /intenˈθjon/	intention
+recibir (verb) /reθiˈβiɾ/	to receive
+abrigo (nm) /aβˈɾiɣo/	overcoat, shelter
+cerrado (adj) /θeˈraðo/	closed
+imaginar (verb) /imaxiˈnaɾ/	to imagine
+genio (nm) /ˈxenjo/	genius, disposition
+profesional (adj) /pɾofesjoˈnal/	professional
+opción (nf) /opˈθjon/	option, choice
+tribunal (nm) /tɾiβuˈnal/	court
+lago (nm) /ˈlaɣo/	lake
+unidad (nf) /uniˈðað/	unit, unity
+efecto (nm) /eˈfekto/	effect
+presión (nf) /pɾeˈsjon/	pressure
+robo (nm) /ˈroβo/	theft, robbery
+alcalde (nm) /alˈkalde/	mayor
+empleo (nm) /emˈpleo/	work, job, occupation
+pollo (nm) /ˈpoʎo/	chicken
+whisky (nm) /wisˈki/	whisky
+carretera (nf) /kareˈteɾa/	highway, road
+sábado (nm) /ˈsaβaðo/	Saturday
+aeropuerto (nm) /aeɾoˈpweɾto/	airport
+jodido (adj) /xoˈðiðo/	fucking
+medicina (nf) /meðiˈθina/	medicine
+gratis (adj) /gˈɾatis/	free
+fortuna (nf) /foɾˈtuna/	fortune, fate
+casto (adj) /ˈkasto/	chaste
+nieve (nf) /ˈnjeβe/	snow
+riesgo (nm) /ˈrjezɣo/	risk
+sucio (adj) /ˈsuθjo/	dirty, filthy, underhanded
+conversación (nf) /kombeɾsaˈθjon/	conversation
+comienzo (nm) /koˈmjenθo/	start, beginning
+elección (nf) /elekˈθjon/	election, choice
+carro (nm) /ˈkaro/	car, cart
+rostro (nm) /ˈrostɾo/	face, countenance
+propiedad (nf) /pɾopjeˈðað/	property
+mundial (adj) /munˈdjal/	worldwide
+familiar (adj) /famiˈljaɾ/	familiar, of the family
+libra (nf) /ˈliβɾa/	pound (money/weight)
+pedazo (nm) /peˈðaθo/	piece, bit
+cola (nf) /ˈkola/	line, queue, tail
+marcar (verb) /maɾˈkaɾ/	to mark, note, dial
+líder (nmf) /ˈliðeɾ/	leader
+socorro (nm) /soˈkoro/	relief, help
+futbol (nf) /futˈβol/	football
+detalle (nm) /deˈtaʎe/	detail
+tesoro (nm) /teˈsoɾo/	treasure, thesaurus
+camisa (nf) /kaˈmisa/	shirt
+conducir (verb) /konduˈθiɾ/	to lead, drive
+alegría (nf) /aleˈɣɾia/	joy, happiness
+enviar (verb) /emˈbjaɾ/	to send
+interés (nm) /inteˈɾes/	interest
+parecido (adj) /paɾeˈθiðo/	similar
+pertenecer (verb) /peɾteneˈθeɾ/	to belong
+presentar (verb) /pɾesenˈtaɾ/	to introduce, present
+desayuno (nm) /desaˈʝuno/	breakfast
+merecer (verb) /meɾeˈθeɾ/	to deserve, be worthy (of)
+víctima (nf) /ˈbiktima/	victim, casualty
+barrio (nm) /ˈbarjo/	neighborhood, district
+desgraciado (adj) /dezɣɾaˈθjaðo/	unfortunate
+resultado (nm) /resulˈtaðo/	result, outcome
+local (adj) /loˈkal/	local
+responsabilidad (nf) /responsaβiliˈðað/	responsibility
+combate (nm) /komˈbate/	combat, battle, fight
+tormenta (nf) /toɾˈmenta/	storm
+olor (nm) /oˈloɾ/	smell, odor, fragrance
+cantidad (nf) /kantiˈðað/	quantity, amount
+balar (verb) /baˈlaɾ/	to bleat
+kilómetro (nm) /kiˈlometɾo/	kilometer
+grandioso (adj) /gɾanˈdjoso/	magnificent, grandiose
+débil (adj) /ˈdeβil/	weak
+laboratorio (nm) /laβoɾaˈtoɾjo/	laboratory
+fumar (verb) /fuˈmaɾ/	to smoke
+entrenador (nm/f) /entɾenaˈðoɾ/	coach
+premio (nm) /ˈpɾemjo/	prize, reward
+bordo (nm) /ˈboɾðo/	a bordo: on board
+agujero (nm) /aɣuˈxeɾo/	hole, opening
+asustado (adj) /asusˈtaðo/	scared, frightened
+invitado (nm) /imbiˈtaðo/	guest
+mapa (nm) /ˈmapa/	map
+granja (nf) /gˈɾaŋxa/	farm
+jurado (nm) /xuˈɾaðo/	jury
+profundo (adj) /pɾoˈfundo/	deep, profound
+pastel (adj; nm) /pasˈtel/	adj; cake
+privado (adj) /pɾiˈβaðo/	private
+lunes (adj; nm) /ˈlunes/	lunar; Monday
+socio (nm/f) /ˈsoθjo/	member, partner
+explicar (verb) /ekspliˈkaɾ/	to explain
+necesidad (nf) /neθesiˈðað/	necessity, need
+importancia (nf) /impoɾˈtanθja/	importance
+corriente (adj; nf) /koˈrjente/	running; current, flow
+desierto (adj; nm) /deˈsjeɾto/	desert, deserted; desert
+modelo (nm) /moˈðelo/	model, pattern
+invierno (nm) /imˈbjeɾno/	winter
+plata (nf) /ˈplata/	silver, money
+apoyo (nm) /aˈpoʝo/	support, backing
+tercero (adj) /teɾˈθeɾo/	third
+obvio (adj) /ˈoββjo/	obvious
+recién (adv) /reˈθjen/	recently, just
+techo (nm) /ˈteʧo/	roof, ceiling
+campeón (nm) /kampeˈon/	champion (f=campeona)
+salón (nm) /saˈlon/	hall, room
+gas (nm) /gas/	gas
+cura (nm; nf) /ˈkuɾa/	priest; cure
+escenario (nm) /esθeˈnaɾjo/	stage, setting, scene
+cobarde (adj; nmf) /koˈβaɾðe/	coward
+asegurar (verb) /aseɣuˈɾaɾ/	to assure, secure, insure
+ex (mf) /eks/	former
+obtener (verb) /oβteˈneɾ/	to obtain
+pecho (nm) /ˈpeʧo/	chest, breast
+esquina (nf) /esˈkina/	corner
+sensación (nf) /sensaˈθjon/	sensation, feeling
+ciego (adj) /ˈθjeɣo/	blind
+fábrica (nf) /ˈfaβɾika/	factory, manufacture
+sabido (adj) /saˈβiðo/	known
+corto (adj) /ˈkoɾto/	short, brief
+artista (nmf) /aɾˈtista/	artist, performer
+pescar (verb) /pesˈkaɾ/	to fish
+desaparecer (verb) /desapaɾeˈθeɾ/	to disappear, vanish
+reino (nm) /ˈreino/	kingdom, reign
+piloto (nm/f) /piˈloto/	pilot, driver
+veinte (num) /ˈbeinte/	twenty
+almuerzo (nm) /alˈmweɾθo/	lunch
+discutir (verb) /diskuˈtiɾ/	to argue, discuss
+correo (nm) /koˈreo/	mail, post (office)
+condición (nf) /kondiˈθjon/	condition
+violencia (nf) /bjoˈlenθja/	violence
+presencia (nf) /pɾeˈsenθja/	presence, appearance
+quitar (verb) /kiˈtaɾ/	to remove, take away
+serie (nf) /ˈseɾje/	series
+labio (nm) /ˈlaβjo/	lip
+caray (interj) /kaˈɾai/	wow
+espera (nf) /esˈpeɾa/	wait
+teoría (nf) /teoˈɾia/	theory
+actor (nm) /akˈtoɾ/	actor
+enfermero (nm/f) /emfeɾˈmeɾo/	nurse
+siglo (nm) /ˈsiɣlo/	century, age
+tamaño (nm) /taˈmaɲo/	size, dimension
+chocolate (nm) /ʧokoˈlate/	chocolate
+virgen (nf) /ˈbiɾxen/	virgin
+manejar (verb) /maneˈxaɾ/	to drive, handle
+disco (nm) /ˈdisko/	disc, disk, record
+milagro (nm) /miˈlaɣɾo/	miracle
+pelota (nf) /peˈlota/	ball
+vaso (nm) /ˈbaso/	(drinking) glass, vase
+universo (nm) /uniˈβeɾso/	universe
+girar (verb) /xiˈɾaɾ/	to rotate, revolve
+salvaje (adj) /salˈβaxe/	wild, savage, uncultivated
+elegir (verb) /eleˈxiɾ/	to choose, elect
+curso (nm) /ˈkuɾso/	course, direction
+firma (nf) /ˈfiɾma/	company, signature, signing
+queso (nm) /ˈkeso/	cheese
+limpiar (verb) /limˈpjaɾ/	to clean
+extra (adj) /ˈekstɾa/	extra
+magia (nf) /ˈmaxja/	magic
+casado (adj) /kaˈsaðo/	married
+campamento (nm) /kampaˈmento/	camp, camping
+mentiroso (nm/f) /mentiˈɾoso/	liar
+disponer (verb) /dispoˈneɾ/	to have means, dispose
+firme (adj) /ˈfiɾme/	firm, steady
+estómago (nm) /esˈtomaɣo/	stomach
+vacío (adj) /baˈθio/	empty, vacant
+torre (nf) /ˈtore/	tower
+destruir (verb) /desˈtɾwiɾ/	to destroy, ruin
+frontera (nf) /fɾonˈteɾa/	border, frontier
+huella (nf) /ˈweʎa/	trace, track, footstep
+antiguo (adj) /anˈtiɣwo/	old, ancient, former
+material (nm) /mateˈɾjal/	material, element
+relajar (verb) /relaˈxaɾ/	to relax
+judío (adj) /xuˈðio/	Jewish
+cadáver (nm) /kaˈðaβeɾ/	corpse, body
+milla (nf) /ˈmiʎa/	mile
+emperador (nm) /empeɾaˈðoɾ/	emperor
+cigarro (nm) /θiˈɣaro/	cigar
+helado (adj) /eˈlaðo/	iced, freezing, icy
+miembro (nm) /ˈmjembɾo/	member, limb
+social (adj) /soˈθjal/	social
+paciencia (nf) /paˈθjenθja/	patience
+apurar (verb) /apuˈɾaɾ/	to speed up, hurry up
+superior (adj) /supeˈɾjoɾ/	superior, upper
+dudar (verb) /duˈðaɾ/	to (have) doubt
+invitar (verb) /imbiˈtaɾ/	to invite
+estudiar (verb) /estuˈðjaɾ/	to study
+encantador (adj) /eŋkantaˈðoɾ/	charming
+felicitación (nf) /feliθitaˈθjon/	congratulation
+motor (nm) /moˈtoɾ/	engine, motor
+sobrevivir (verb) /soβɾeβiˈβiɾ/	to survive, outlive
+mentira (nf) /menˈtiɾa/	lie
+lío (nm) /ˈlio/	mess, problem, bad situation
+primavera (nf) /pɾimaˈβeɾa/	spring, spring-like
+proceso (nm) /pɾoˈθeso/	process, procedure
+sujeto (nm) /suˈxeto/	subject, individual
+respirar (verb) /respiˈɾaɾ/	to breathe
+gobernador (nm/f) /goβeɾnaˈðoɾ/	governor
+proteger (verb) /pɾoteˈxeɾ/	to protect
+ciencia (nf) /ˈθjenθja/	science, knowledge
+puro (adj) /ˈpuɾo/	pure, clean
+viajar (verb) /bjaˈxaɾ/	to travel
+alcohol (nm) /alkoˈol/	alcohol
+funeral (nf) /funeˈɾal/	funeral
+sospechoso (adj) /sospeˈʧoso/	suspicious
+sopa (nf) /ˈsopa/	soup
+adonde (adv) /aˈðonde/	to where
+orgullo (nm) /oɾˈɣuʎo/	pride
+discurso (nm) /disˈkuɾso/	lecture, discourse, talk
+pecar (verb) /peˈkaɾ/	to sin
+tarea (nf) /taˈɾea/	task, job
+compra (nf) /ˈkompɾa/	shopping, buy, purchase
+cheque (nf) /ˈʧeke/	check
+huir (verb) /wiɾ/	to flee, run away
+recoger (verb) /rekoˈxeɾ/	to pick up
+desgracia (nf) /dezˈɣɾaθja/	misfortune, bad luck, unfortunate
+asesinar (verb) /asesiˈnaɾ/	to murder, assassinate
+reverendo (nm) /reβeˈɾendo/	reverend
+averiguar (verb) /aβeɾiˈɣwaɾ/	to investigate, find out
+palacio (nm) /paˈlaθjo/	palace
+amistad (nf) /amisˈtað/	friendship
+bola (nf) /ˈbola/	ball, sphere
+sexual (adj) /sekˈswal/	sexual
+educación (nf) /eðukaˈθjon/	education
+centavo (nm) /θenˈtaβo/	cent
+taza (nf) /ˈtaθa/	cup, bowl
+efectivo (adj; nm) /efekˈtiβo/	effective; cash
+construir (verb) /konsˈtɾwiɾ/	to construct, build
+madera (nf) /maˈðeɾa/	wood
+amenaza (nf) /ameˈnaθa/	threat
+mono (nm) /ˈmono/	monkey
+falso (adj) /ˈfalso/	false
+detener (verb) /deteˈneɾ/	to stop, detain
+ocasión (nf) /okaˈsjon/	opportunity, occasion
+criminal (adj; nmf) /kɾimiˈnal/	criminal; criminal
+bebida (nf) /beˈβiða/	drink, beverage
+fuente (nf) /ˈfwente/	source; fountain
+estudiante (nmf) /estuˈðjante/	student
+marinar (verb) /maɾiˈnaɾ/	to marinate
+consigo (pron) /konˈsiɣo/	with himself
+pájaro (nm) /ˈpaxaɾo/	bird
+sencillo (adj) /senˈθiʎo/	simple, plain, easy
+lección (nf) /lekˈθjon/	lesson
+examen (nm) /ekˈsamen/	examination, exam
+evidenciar (verb) /eβiðenˈθjaɾ/	to show
+indio (nm) /ˈindjo/	Indian
+sonrisa (nf) /sonˈrisa/	smile
+uniforme (nm) /uniˈfoɾme/	uniform
+solución (nf) /soluˈθjon/	solution, answer
+conciencia (nf) /konˈθjenθja/	conscience, consciousness
+bolsillo (nm) /bolˈsiʎo/	pocket
+suave (adj) /ˈswaβe/	soft, gentle, mild
+cero (num) /ˈθeɾo/	zero, naught, nil
+bala (nf) /ˈbala/	bullet, shot
+tropa (nf) /ˈtɾopa/	troops, forces
+protección (nf) /pɾotekˈθjon/	protection
+aparte (adv) /aˈpaɾte/	apart, aside, separately
+venganza (nf) /beŋˈganθa/	revenge, vengeance
+original (adj) /oɾixiˈnal/	original
+comisario (nm) /komiˈsaɾjo/	commissioner, delegate
+saco (nm) /ˈsako/	sack, bag, plunder
+ritmo (nm) /ˈritmo/	rhythm
+cruz (nf) /kɾuθ/	cross, burden
+lobo (nm) /ˈloβo/	wolf
+amar (verb) /aˈmaɾ/	to love
+mentir (verb) /menˈtiɾ/	to (tell a) lie
+pintura (nf) /pinˈtuɾa/	painting, paint
+esfuerzo (nm) /esˈfweɾθo/	effort, endeavor
+espejo (nm) /esˈpexo/	mirror, reflection
+bestia (nf) /ˈbestja/	beast, brute
+camarada (nmf) /kamaˈɾaða/	comrade
+inteligencia (nf) /inteliˈxenθja/	intelligence
+curioso (adj) /kuˈɾjoso/	curious, strange
+declaración (nf) /deklaɾaˈθjon/	declaration, statement
+aburrir (verb) /aβuˈriɾ/	to bore, tire
+artículo (nm) /aɾˈtikulo/	article, product, item
+cruel (adj) /kɾwel/	cruel, harsh
+criatura (nf) /kɾjaˈtuɾa/	creature, child
+gritar (verb) /gɾiˈtaɾ/	to shout, cry (out)
+diversión (nf) /diβeɾˈsjon/	fun, entertainment
+llamada (nf) /ʎaˈmaða/	call, knock
+aparecer (verb) /apaɾeˈθeɾ/	to appear
+chaqueta (nf) /ʧaˈketa/	jacket
+excelencia (nf) /eksθeˈlenθja/	excellence
+vecino (nm/f) /beˈθino/	neighbor
+camioneta (nf) /kamjoˈneta/	van
+azúcar (nm) /aˈθukaɾ/	sugar
+colega (nmf) /koˈleɣa/	colleague
+harto (adj) /ˈaɾto/	fed up with
+feo (adj) /ˈfeo/	ugly, nasty, rude
+cadena (nf) /kaˈðena/	chain
+cuerda (nf) /ˈkweɾða/	cord, rope
+pez (nm) /peθ/	(alive) fish
+pérdida (nf) /ˈpeɾðiða/	loss
+guardar (verb) /gwaɾˈðaɾ/	to keep, save
+recuperar (verb) /rekupeˈɾaɾ/	to recuperate, recover
+promesa (nf) /pɾoˈmesa/	promise
+apuesto (adj) /aˈpwesto/	dapper
+temporada (nf) /tempoˈɾaða/	season, period, time
+convertir (verb) /kombeɾˈtiɾ/	to convert, change, become
+humanidad (nf) /umaniˈðað/	humanity, mankind
+dato (nm) /ˈdato/	data, fact
+maravilla (nf) /maɾaˈβiʎa/	wonder, marvel
+maleta (nf) /maˈleta/	suitcase, case
+descubrir (verb) /deskuβˈɾiɾ/	to discover
+arena (nf) /aˈɾena/	sand
+legal (adj) /leˈɣal/	legal
+doce (num) /ˈdoθe/	twelve
+fiscal (adj) /fisˈkal/	fiscal, treasury
+mina (nf) /ˈmina/	mine
+honesto (adj) /oˈnesto/	honest
+oso (nm) /ˈoso/	bear
+miel (nf) /mjel/	honey
+pesadilla (nf) /pesaˈðiʎa/	nightmare
+hueso (nm) /ˈweso/	bone
+enojar (verb) /enoˈxaɾ/	to anger, annoy
+sombra (nf) /ˈsombɾa/	shade, shadow
+muñeca (nf) /muˈɲeka/	doll, wrist
+canal (nm) /kaˈnal/	channel, canal
+planta (nf) /ˈplanta/	plant, floor
+visión (nf) /biˈsjon/	vision
+asqueroso (adj) /askeˈɾoso/	disgusting
+cumplir (verb) /kumˈpliɾ/	to fulfill
+personaje (nm) /peɾsoˈnaxe/	character (e.g. movie)
+preciso (adj) /pɾeˈθiso/	precise, necessary
+moda (nf) /ˈmoða/	fashion, form
+útil (adj) /ˈutil/	useful
+revolución (nf) /reβoluˈθjon/	revolution
+impresión (nf) /impɾeˈsjon/	impression, printing
+compartir (verb) /kompaɾˈtiɾ/	to share
+paquete (nm) /paˈkete/	package, packet
+resolver (verb) /resolˈβeɾ/	to resolve, settle, work out
+comunidad (nf) /komuniˈðað/	community
+nacer (verb) /naˈθeɾ/	to be born
+nadar (verb) /naˈðaɾ/	to swim
+senador (nm/f) /senaˈðoɾ/	senator
+favorito (adj) /faβoˈɾito/	favorite
+humo (nm) /ˈumo/	smoke
+sótano (nm) /ˈsotano/	basement
+julio (nm) /ˈxuljo/	July
+venta (nf) /ˈbenta/	sale
+sorprender (verb) /soɾpɾenˈdeɾ/	to surprise
+fresco (adj) /ˈfɾesko/	cool, healthy, fresh
+bolso (nm) /ˈbolso/	handbag
+meter (verb) /meˈteɾ/	to put (into)
+búsqueda (nf) /ˈbuskeða/	search
+rodilla (nf) /roˈðiʎa/	knee
+licencia (nf) /liˈθenθja/	license, permission
+magnífico (adj) /maɣˈnifiko/	magnificent, splendid
+nación (nf) /naˈθjon/	nation
+cazar (verb) /kaˈθaɾ/	to hunt
+plato (nm) /ˈplato/	plate, dish
+fecha (nf) /ˈfeʧa/	date, day
+escalera (nf) /eskaˈleɾa/	stairs, ladder
+crédito (nm) /ˈkɾeðito/	credit, reputation
+aguantar (verb) /aɣwanˈtaɾ/	to endure, put up with
+responder (verb) /responˈdeɾ/	to answer, respond
+soportar (verb) /sopoɾˈtaɾ/	to endure, stand (something)
+ira (nf) /ˈiɾa/	rage, wrath
+brujo (nm/f) /ˈbɾuxo/	sorcerer/witch
+complicado (adj) /kompliˈkaðo/	complicated, complex
+casualidad (nf) /kaswaliˈðað/	chance, coincidence
+castigo (nm) /kasˈtiɣo/	punishment, penalty
+amanecer (nm) /amaneˈθeɾ/	daybreak, dawn
+mandar (verb) /manˈdaɾ/	to send, order
+computadora (nf) /komputaˈðoɾa/	computer
+tele (nf) /ˈtele/	TV
+controlar (verb) /kontɾoˈlaɾ/	to control
+suelto (adj) /ˈswelto/	loose
+comité (verb) /komiˈte/	committee
+título (nm) /ˈtitulo/	title, heading
+jueves (nm) /ˈxweβes/	Thursday
+entrevistar (verb) /entɾeβisˈtaɾ/	to interview
+piano (nm) /ˈpjano/	piano
+despacho (nm) /desˈpaʧo/	office, study
+distinto (adj) /disˈtinto/	distinct, different
+saltar (verb) /salˈtaɾ/	to jump, leap, hop
+concertar (verb) /konθeɾˈtaɾ/	to arrangee
+prisionero (nm/f) /pɾisjoˈneɾo/	prisoner
+pieza (nf) /ˈpjeθa/	piece, part
+visitar (verb) /bisiˈtaɾ/	to visit
+fila (nf) /ˈfila/	line, row, file
+medianoche (nf) /meðjaˈnoʧe/	midnight
+parada (nf) /paˈɾaða/	(transportation) stop
+sección (nf) /sekˈθjon/	section, cut
+altura (nf) /alˈtuɾa/	height, altitude
+documento (nm) /dokuˈmento/	document
+compromiso (nm) /kompɾoˈmiso/	compromise, engagement
+martes (nm) /ˈmaɾtes/	Tuesday
+menta (nf) /ˈmenta/	mint, peppermint
+caro (adj) /ˈkaɾo/	expensive, dear
+templo (nm) /ˈtemplo/	temple, church
+meta (nf) /ˈmeta/	goal, aim, purpose
+pasta (nf) /ˈpasta/	pasta, dough
+liso (adj) /ˈliso/	smooth, flat, straight
+guión (nm) /ˈgjon/	script
+pensamiento (nm) /pensaˈmjento/	thought, thinking
+treinta (num) /ˈtɾeinta/	thirty
+hierba (nf) /ˈjeɾβa/	herb, grass, weed
+impresionante (adj) /impɾesjoˈnante/	impressive, astonishing
+teta (nf) /ˈteta/	tit
+pasión (nf) /paˈsjon/	passion, desire
+actitud (nf) /aktiˈtuð/	attitude
+clave (nf) /ˈklaβe/	key
+acusar (verb) /akuˈsaɾ/	to accuse
+lágrima (nf) /ˈlaɣɾima/	tear, teardrop
+agenciar (verb) /axenˈθjaɾ/	to negotioate
+suicidio (nm) /swiˈθiðjo/	suicide
+gasolina (nm) /gasoˈlina/	(el) petrol, gasoline
+jugador (nm/f) /xuɣaˈðoɾ/	player, gambler
+encargo (nm) /eŋˈkaɾɣo/	job, order, errand
+puerto (nm) /ˈpweɾto/	port, harbor
+urgente (adj) /uɾˈxente/	urgent
+rusia (nf) /ˈrusja/	Russia
+elegante (adj) /eleˈɣante/	elegant, smart, stylish
+copiar (verb) /koˈpjaɾ/	to copy
+aventurar (verb) /aβentuˈɾaɾ/	to venture, risk
+entrenamiento (nm) /entɾenaˈmjento/	training
+océano (nm) /oˈθeano/	ocean
+ruta (nf) /ˈruta/	route
+abandonar (verb) /aβandoˈnaɾ/	to abandon, leave (a place)
+paraíso (nm) /paɾaˈiso/	paradise
+guía (nmf) /ˈgia/	guide, leader
+curiosidad (nf) /kuɾjosiˈðað/	curiosity, quaintness
+apetecer (verb) /apeteˈθeɾ/	to crave
+particular (adj) /paɾtikuˈlaɾ/	particular, peculiar
+fotografía (nf) /fotoɣɾaˈfia/	photograph
+poderoso (adj) /poðeˈɾoso/	powerful
+sed (nf) /seð/	thirst
+perdido (adj) /peɾˈðiðo/	lost
+alertar (verb) /aleɾˈtaɾ/	to alert, warn
+noble (adj) /ˈnoβle/	noble
+extranjero (adj) /ekstɾaŋˈxeɾo/	foreign, alien
+rata (nf) /ˈrata/	rat
+instituto (nm) /instiˈtuto/	institute
+asco (nm) /ˈasko/	disgust
+sal (nf) /sal/	salt
+popular (adj) /popuˈlaɾ/	popular
+adorar (verb) /aðoˈɾaɾ/	to worship, adore
+imponer (verb) /impoˈneɾ/	to impose, enforce
+piscina (nf) /pisˈθina/	swimming pool
+sufrir (verb) /suˈfɾiɾ/	to suffer, undergo
+cómodo (adj) /ˈkomoðo/	comfortable, convenient
+aviso (nm) /aˈβiso/	warning
+mate (nm) /ˈmate/	mate (beverage)
+ruso (adj) /ˈruso/	Russian
+ambulancia (nf) /ambuˈlanθja/	ambulance
+bendecir (verb) /bendeˈθiɾ/	to bless
+grado (nm) /gˈɾaðo/	degree, grade
+vaca (nf) /ˈbaka/	cow
+territorio (nm) /teriˈtoɾjo/	territory
+conocimiento (nm) /konoθiˈmjento/	knowledge
+reputación (nf) /reputaˈθjon/	reputation
+imaginación (nf) /imaxinaˈθjon/	imagination, fantasy
+excusa (nf) /eksˈkusa/	excuse
+campaña (nf) /kamˈpaɲa/	campaign
+enseñar (verb) /enseˈɲaɾ/	to teach, show
+escritor (nm/f) /eskɾiˈtoɾ/	writer
+página (nf) /ˈpaxina/	page
+atrapar (verb) /atɾaˈpaɾ/	to trap, catch
+autoridad (nf) /autoɾiˈðað/	authority
+firmar (verb) /fiɾˈmaɾ/	to sign
+paliza (nf) /paˈliθa/	beating
+armario (nm) /aɾˈmaɾjo/	closet
+instante (nm) /insˈtante/	instant, moment
+arroz (nm) /aˈroθ/	rice
+crisis (nf) /ˈkɾisis/	crisis
+cruzar (verb) /kɾuˈθaɾ/	to cross
+piedad (nf) /pjeˈðað/	pity, mercy
+kilo (nm) /ˈkilo/	kilogram
+divorcio (nm) /diˈβoɾθjo/	divorce
+anterior (adj) /anteˈɾjoɾ/	previous, preceding
+fiebre (nf) /ˈfjeβɾe/	fever, excitement
+registro (nm) /reˈxistɾo/	register, record
+esposar (verb) /espoˈsaɾ/	to handcuff
+moral (adj) /moˈɾal/	moral
+acceso (nm) /akˈθeso/	access, entry
+pasillo (nm) /paˈsiʎo/	hall, corridor
+asistente (nmf) /asisˈtente/	assistant
+tráfico (nm) /ˈtɾafiko/	traffic, trade
+faltar (verb) /falˈtaɾ/	to be lacking
+secundario (adj) /sekunˈdaɾjo/	secondary
+garganta (nf) /gaɾˈɣanta/	throat, gorge
+asustar (verb) /asusˈtaɾ/	to frighten, scare
+enfrente (adv) /emˈfɾente/	in front (of)
+museo (nm) /muˈseo/	museum
+valle (nm) /ˈbaʎe/	valley
+misterio (nm) /misˈteɾjo/	mystery
+alarma (nf) /aˈlaɾma/	alarm
+contestar (verb) /kontesˈtaɾ/	to answer, reply
+joya (nf) /ˈxoʝa/	jewel, treasure
+coma (nm; nf) /ˈkoma/	coma; comma
+auxilio (nm) /aukˈsiljo/	help, aid, assistance
+zorro (nm/f) /ˈθoro/	fox
+franco (adj) /ˈfɾaŋko/	open, frank, outspoken
+entregar (verb) /entɾeˈɣaɾ/	to deliver
+celda (nf) /ˈθelda/	cell
+roca (nf) /ˈroka/	rock
+ganador (adj; nm) /ganaˈðoɾ/	winning; winner
+cubrir (verb) /kuβˈɾiɾ/	to cover
+serpiente (nf) /seɾˈpjente/	snake
+biblia (nf) /ˈbiβlja/	Bible
+terreno (nm) /teˈreno/	ground, earth, terrain
+fantasma (nm) /fanˈtazma/	ghost, phantom
+alegre (adj) /aˈleɣɾe/	happy, lively, cheerful
+explosión (nf) /eksploˈsjon/	explosion
+cuán (conj) /ˈkwan/	how
+circunstancia (nf) /θiɾkunsˈtanθja/	circumstance
+cable (nm) /ˈkaβle/	cable, wiring
+prohibir (verb) /pɾoiˈβiɾ/	to prohibit, forbid
+celular (nm) /θeluˈlaɾ/	cell phone
+ambiente (nm) /amˈbjente/	environment, atmosphere
+lograr (verb) /loˈɣɾaɾ/	to achieve, get, manage
+privar (verb) /pɾiˈβaɾ/	to deprive (of)
+bota (nf) /ˈbota/	boot, wineskin
+pene (nm) /ˈpene/	penis
+costumbre (nf) /kosˈtumbɾe/	habit, custom, usage
+cuadro (nm) /ˈkwaðɾo/	painting, picture
+experto (adj; nm/f) /eksˈpeɾto/	expert, skilled; expert
+veneno (nm) /beˈneno/	poison, venom
+partida (nf) /paɾˈtiða/	game, match, departure
+bandera (nf) /banˈdeɾa/	flag
+combustible (adj; nf) /kombusˈtiβle/	combustible; fuel
+recompensa (nf) /rekomˈpensa/	reward, recompense
+organización (nf) /oɾɣaniθaˈθjon/	organization
+cáncer (nm) /ˈkanθeɾ/	cancer
+deuda (nf) /ˈdeuða/	debt
+raza (nf) /ˈraθa/	race, lineage
+juventud (nf) /xuβenˈtuð/	youth
+crecer (verb) /kɾeˈθeɾ/	to grow, increase
+comportamiento (nm) /kompoɾtaˈmjento/	behavior, conduct
+reír (verb) /reˈiɾ/	to laugh (at)
+rescatar (verb) /reskaˈtaɾ/	to rescue, save
+repetir (verb) /repeˈtiɾ/	to repeat
+montar (verb) /monˈtaɾ/	to ride, mount, assemble
+plaza (nf) /ˈplaθa/	square, marketplace
+rumbo (nm) /ˈrumbo/	direction, course, bearing
+pata (nf) /ˈpata/	leg, paw
+decente (adj) /deˈθente/	respectable, decent
+producción (nf) /pɾoðukˈθjon/	production
+nacimiento (nm) /naθiˈmjento/	birth, origin
+aldea (nf) /alˈdea/	small village
+letra (nf) /ˈletɾa/	letter, handwriting, lyrics
+biblioteca (nf) /biβljoˈteka/	library
+marco (nm) /ˈmaɾko/	frame, mark, setting
+explicación (nf) /eksplikaˈθjon/	explanation
+exterior (adj; nm) /eksteˈɾjoɾ/	exterior, outside; exterior, outside
+incendio (nm) /inˈθendjo/	fire, conflagration
+atacar (verb) /ataˈkaɾ/	to attack
+unión (nf) /uˈnjon/	union
+desagradable (adj) /desaɣɾaˈðaβle/	unpleasant
+distrito (nm) /disˈtɾito/	district
+apellido (nm) /apeˈʎiðo/	last name
+patio (nm) /ˈpatjo/	courtyard, playground, yard
+comercial (adj) /komeɾˈθjal/	commercial, shopping
+lento (adj) /ˈlento/	slow
+diamante (adj; nm) /djaˈmante/	diamond
+duchar (verb) /duˈʧaɾ/	to shower
+fijar (verb) /fiˈxaɾ/	to set, fix, (se) notice
+mayo (nm) /ˈmaʝo/	May
+ayudante (nmf) /aʝuˈðante/	helper, assistant
+italiano (adj) /itaˈljano/	Italian
+saludo (nm) /saˈluðo/	greeting
+pantalla (nf) /panˈtaʎa/	screen, monitor
+ilegal (adj) /ileˈɣal/	illegal
+colina (nf) /koˈlina/	hill, slope
+porquería (nf) /poɾkeˈɾia/	filth, junk
+civil (adj) /θiˈβil/	civil
+cementerio (nm) /θemenˈteɾjo/	cemetery, graveyard
+ala (nf) /ˈala/	(el) wing, flank
+as (nmf) /as/	ace
+conductor (nm/f) /kondukˈtoɾ/	driver, conductor
+periodista (nmf) /peɾjoˈðista/	journalist
+emocionante (adj) /emoθjoˈnante/	exciting
+tripulación (nf) /tɾipulaˈθjon/	crew
+afortunado (adj) /afoɾtuˈnaðo/	fortunate
+estupidez (nf) /estupiˈðeθ/	stupidity, stupid thing
+circo (nm) /ˈθiɾko/	circus
+trabajador (nm/f) /tɾaβaxaˈðoɾ/	worker, laborer
+quince (num) /ˈkinθe/	fifteen
+demostrar (verb) /demosˈtɾaɾ/	to show, demonstrate
+león (nm) /leˈon/	lion
+aliento (nm) /aˈljento/	breath, courage, spirit
+patrón (nm/f) /paˈtɾon/	employer, landlord, patron saint; patroness
+ron (nf) /ron/	rum
+adivinar (verb) /aðiβiˈnaɾ/	to guess, solve
+equipaje (nm) /ekiˈpaxe/	baggage
+salsa (nf) /ˈsalsa/	sauce
+escritorio (nm) /eskɾiˈtoɾjo/	desk, bureau
+ciudadano (adj; nm/f) /θjuðaˈðano/	civic; citizen
+traidor (adj; nm/f) /tɾaiˈðoɾ/	treacherous; traitor
+alquiler (nm; verb) /alkiˈleɾ/	rent, rental; to let, charter
+instrucción (nf) /instɾukˈθjon/	instruction
+atrever (verb) /atɾeˈβeɾ/	to dare
+práctica (nf) /ˈpɾaktika/	practice, skill
+españa (nf) /esˈpaɲa/	Spain
+celebrar (verb) /θeleβˈɾaɾ/	to celebrate
+límite (nm) /ˈlimite/	limit
+arresto (nm) /aˈresto/	arrest
+permanecer (verb) /peɾmaneˈθeɾ/	to stay, remain
+superficie (nf) /supeɾˈfiθje/	surface, area
+tono (nm) /ˈtono/	tone
+aparente (adj) /apaˈɾente/	apparent
+condado (nm) /konˈdaðo/	county
+religión (nf) /reliˈxjon/	religion
+absurdo (adj) /aβˈsuɾðo/	absurd
+miserable (adj) /miseˈɾaβle/	wretched, miserable
+homicidio (nm) /omiˈθiðjo/	homicide
+ceremonia (nf) /θeɾeˈmonja/	ceremony
+punta (nf) /ˈpunta/	tip, point
+gilipollas (nmf) /xiliˈpoʎas/	douchebag
+anuncio (nm) /aˈnunθjo/	advertisement, announcement
+nube (nf) /ˈnuβe/	cloud
+gigante (adj) /xiˈɣante/	gigantic
+sacerdote (nm/f) /saθeɾˈðote/	priest/priestess
+dirigir (verb) /diɾiˈxiɾ/	to direct, manage
+coincidencia (nf) /koinθiˈðenθja/	coincidence
+mental (adj) /menˈtal/	mental
+carácter (nm) /kaˈɾakteɾ/	personality, nature
+celoso (adj) /θeˈloso/	jealous
+sesión (nf) /seˈsjon/	session, meeting
+medir (verb) /meˈðiɾ/	to measure
+vendar (verb) /benˈdaɾ/	to bandage
+sofá (nf) /soˈfa/	sofa
+tratamiento (nm) /tɾataˈmjento/	treatment, processing
+despertar (verb) /despeɾˈtaɾ/	to wake (up), arouse
+conexión (nf) /konekˈsjon/	connection, relationship
+sincero (adj) /sinˈθeɾo/	sincere
+leyenda (nf) /leˈʝenda/	legend
+sugerir (verb) /suxeˈɾiɾ/	to suggest, hint at
+lenguaje (nm) /leŋˈgwaxe/	language, speech
+despedir (verb) /despeˈðiɾ/	to say goodbye (to), dismiss
+clima (nm) /ˈklima/	climate
+enfadar (verb) /emfaˈðaɾ/	anger, irritate, annoy
+barato (adj) /baˈɾato/	inexpensive, cheap
+español (adj) /espaˈɲol/	Spanish
+esconder (verb) /eskonˈdeɾ/	to hide, conceal
+condenar (verb) /kondeˈnaɾ/	to convict, condemn
+reservar (verb) /reseɾˈβaɾ/	to reserve, book
+asombroso (adj) /asomˈbɾoso/	amazing
+pánico (adj; nm) /ˈpaniko/	panic; panic
+acero (nm) /aˈθeɾo/	steel
+pinta (nf) /ˈpinta/	appearance, look, aspect
+bicicleta (nf) /biθiˈkleta/	bicycle
+cincuenta (num) /θiŋˈkwenta/	fifty
+objeto (nm) /oβˈxeto/	object, thing
+coraje (nm) /koˈɾaxe/	courage, toughness
+aceitar (verb) /aθeiˈtaɾ/	to oil
+billete (nm) /biˈʎete/	ticket, bill, note
+publicidad (nf) /puβliθiˈðað/	advertising, publicity
+mortal (adj) /moɾˈtal/	mortal, lethal, deadly
+botón (nm) /boˈton/	button
+cristal (nm) /kɾisˈtal/	glass, crystal, window
+moneda (nf) /moˈneða/	coins, currency
+apestar (verb) /apesˈtaɾ/	toreek
+metal (nm) /meˈtal/	metal
+vaciar (verb) /baˈθjaɾ/	to empty
+opinar (verb) /opiˈnaɾ/	to think, be of the opinion
+japonés (adj) /xapoˈnes/	Japanese
+septiembre (nm) /sepˈtjembɾe/	September
+petróleo (nm) /peˈtɾoleo/	oil, petroleum
+archivo (nm) /aɾˈʧiβo/	archive, file, filing cabinet
+versión (nf) /beɾˈsjon/	version, account
+pozo (nm) /ˈpoθo/	well, shaft
+ventaja (nf) /benˈtaxa/	advantage, benefit
+dormitorio (nm) /doɾmiˈtoɾjo/	bedroom, dormitory
+cartera (nf) /kaɾˈteɾa/	wallet, satchel
+murar (verb) /muˈɾaɾ/	to wall
+mediodía (nm) /meðjoˈðia/	noon, midday
+romántico (adj) /roˈmantiko/	romantic
+alcance (nm) /alˈkanθe/	reach, scope
+internacional (adj) /inteɾnaθjoˈnal/	international
+competencia (nf) /kompeˈtenθja/	competition, contest
+esclavo (nm/f) /esˈklaβo/	slave
+escándalo (nm) /esˈkandalo/	scandal
+tecnología (nf) /teknoloˈxia/	technology
+sobrino (nm/f) /soβˈɾino/	nephew/niece
+rueda (nf) /ˈrweða/	wheel
+división (nf) /diβiˈsjon/	division
+desconocer (verb) /deskonoˈθeɾ/	to not know, not recognize
+ascensor (nm) /asθenˈsoɾ/	elevator
+crema (nf) /ˈkɾema/	cream
+pastor (nm/f) /pasˈtoɾ/	shepherd, pastor
+razonable (adj) /raθoˈnaβle/	reasonable
+miércoles (nm) /ˈmjeɾkoles/	Wednesday
+hombro (nm) /ˈombɾo/	shoulder
+comisión (nf) /komiˈsjon/	commission, committee
+calidad (nf) /kaliˈðað/	quality
+identidad (nf) /iðentiˈðað/	identity
+apagar (verb) /apaˈɣaɾ/	to turn off, extinguish
+palo (nm) /ˈpalo/	stick, pole
+manzana (nf) /manˈθana/	apple, (city) block
+tocado (adj; nm) /toˈkaðo/	touched; headdress
+capital (nm; nf) /kapiˈtal/	capital; city (f), money (m)
+conejo (nm) /koˈnexo/	rabbit
+agarrar (verb) /aɣaˈraɾ/	to grab, grasp, catch
+actuación (nf) /aktwaˈθjon/	performance, acting
+sentado (adj) /senˈtaðo/	seated
+nervio (nm) /ˈneɾβjo/	nerve
+conferencia (nf) /komfeˈɾenθja/	conference, lecture
+junio (nm) /ˈxunjo/	June
+grano (nm) /gˈɾano/	grain, kernel
+espía (nmf) /esˈpia/	spy
+atractivo (adj) /atɾakˈtiβo/	attractive
+recibo (nm) /reˈθiβo/	receipt
+resistencia (nf) /resisˈtenθja/	resistance, opposition
+transporte (nm) /tɾansˈpoɾte/	transportation, transport
+frase (nf) /ˈfɾase/	phrase
+delicioso (adj) /deliˈθjoso/	delicious, delightful, charming
+infeliz (adj) /imfeˈliθ/	unhappy, unfortunate
+cinturón (nm) /θintuˈɾon/	belt
+peor (adv) /peˈoɾ/	worse
+científico (adj) /θjenˈtifiko/	scientific
+cantante (nmf) /kanˈtante/	singer
+esperanza (nf) /espeˈɾanθa/	hope
+rosa (nf) /ˈrosa/	rose
+pasajero (nm/f) /pasaˈxeɾo/	passenger
+almorzar (verb) /almoɾˈθaɾ/	to have lunch
+adecuar (verb) /aðeˈkwaɾ/	to adapt, adjust to
+vía (nf) /ˈbia/	por vía: by means; road, way
+cometido (nm) /komeˈtiðo/	task
+función (nf) /funˈθjon/	function, meeting
+industria (nf) /inˈdustɾja/	industry, factory
+oído (nm) /oˈiðo/	hearing, ear
+corona (nf) /koˈɾona/	crown
+asaltar (verb) /asalˈtaɾ/	to assault
+flota (nf) /ˈflota/	fleet
+político (adj) /poˈlitiko/	political
+revisar (verb) /reβiˈsaɾ/	to check, revise, inspect
+imperio (nm) /imˈpeɾjo/	empire, fortune
+llegada (nf) /ʎeˈɣaða/	arrival
+solitario (adj) /soliˈtaɾjo/	solitary, lonely
+refugio (nm) /reˈfuxjo/	shelter, refuge
+ideal (adj; nm) /iðeˈal/	ideal, goal
+rubio (adj) /ˈruβjo/	blonde, fair
+cabaña (nf) /kaˈβaɲa/	cabin
+sufrimiento (nm) /sufɾiˈmjento/	suffering
+expresión (nf) /ekspɾeˈsjon/	expression
+fiel (adj) /fjel/	faithful, loyal
+secretario (nm/f) /sekɾeˈtaɾjo/	secretary
+cuartel (nm) /kwaɾˈtel/	(head)quarters, barracks
+soñar (verb) /soˈɲaɾ/	to dream
+ejercicio (nm) /exeɾˈθiθjo/	exercise, practice
+fabuloso (adj) /faβuˈloso/	fabulous, fantastic
+básico (adj) /ˈbasiko/	basic, essential
+grito (nm) /gˈɾito/	cry, shout, scream
+picar (verb) /piˈkaɾ/	to bite, sting, itch
+túnel (nm) /ˈtunel/	tunnel
+arrestar (verb) /aresˈtaɾ/	to arrest
+identificación (nf) /iðentifikaˈθjon/	identification
+rastro (nm) /ˈrastɾo/	track, sign, flea market, trace
+invitación (nf) /imbitaˈθjon/	invitation
+cañón (nm) /kaˈɲon/	canyon, cannon
+alguacil (nm) /algwaˈθil/	sheriff
+risa (nf) /ˈrisa/	laugh, chuckle
+desnudo (adj) /dezˈnuðo/	nude, naked
+gasto (nm) /ˈgasto/	expense, expenditure
+once (num) /ˈonθe/	eleven
+monte (nm) /ˈmonte/	mountain
+lanza (nf) /ˈlanθa/	spear, lance
+breve (adj) /ˈbɾeβe/	brief, short
+terror (nm) /teˈroɾ/	terror, horror
+práctico (adj) /ˈpɾaktiko/	practical, skillful
+hallar (verb) /aˈʎaɾ/	to find (out)
+disfrutar (verb) /disfɾuˈtaɾ/	to enjoy
+tanque (nm) /ˈtaŋke/	tank, large container
+vehículo (nm) /beˈikulo/	vehicle, car
+capacidad (nf) /kapaθiˈðað/	capacity
+alcanzar (verb) /alkanˈθaɾ/	to reach, catch up with
+viuda (nf) /ˈbjuða/	widow
+audencia (nf) /auˈðenθja/	hearing
+oreja (nf) /oˈɾexa/	ear
+concursar (verb) /koŋkuɾˈsaɾ/	to participate in a contest
+alternativa (nf) /alteɾnaˈtiβa/	alternative
+planear (verb) /planeˈaɾ/	to plan
+gallina (nf) /gaˈʎina/	hen, coward
+extraordinario (adj) /ekstɾaoɾðiˈnaɾjo/	extraordinary, exceptional
+depósito (nm) /deˈposito/	deposit, sediment
+maricón (nm) /maɾiˈkon/	faggot
+egoísta (adj) /eɣoˈista/	selfish
+desnudar (verb) /deznuˈðaɾ/	to strip
+vestido (adj) /besˈtiðo/	dressed
+tragedia (nf) /tɾaˈxeðja/	tragedy
+círculo (nm) /ˈθiɾkulo/	circle, club
+golpear (verb) /golpeˈaɾ/	to hit, strike
+gafas (nf) /ˈgafas/	glasses
+abril (nm) /aβˈɾil/	April
+payaso (nm/f) /paˈʝaso/	clown
+emoción (nf) /emoˈθjon/	emotion, excitement
+borde (nm) /ˈboɾðe/	edge
+tirado (adj) /tiˈɾaðo/	lying
+sensible (adj) /senˈsiβle/	sensitive, sentient
+existencia (nf) /eksisˈtenθja/	existence, life
+clínica (nf) /ˈklinika/	clinic
+incidente (nm) /inθiˈðente/	incident
+actual (adj) /akˈtwal/	current
+mejorar (verb) /mexoˈɾaɾ/	to improve, get better
+significado (adj; nm) /siɣnifiˈkaðo/	implied; meaning
+cima (nf) /ˈθima/	summit, peak, top
+temperatura (nf) /tempeɾaˈtuɾa/	temperature
+lucir (verb) /luˈθiɾ/	to show (off), shine
+terrorista (nmf) /teroˈɾista/	terrorist
+sagrado (adj) /saˈɣɾaðo/	sacred
+físico (adj) /ˈfisiko/	physical; physicist, physique
+reacción (nf) /reakˈθjon/	reaction
+revés (nm) /reˈβes/	al revés: backwards, upside down
+emplear (verb) /empleˈaɾ/	to use, employ
+tigre (nm) /ˈtiɣɾe/	tiger
+aprecio (nm) /aˈpɾeθjo/	appreciation
+destrucción (nf) /destɾukˈθjon/	destruction
+patrullar (verb) /patɾuˈʎaɾ/	to patrol
+marca (nf) /ˈmaɾka/	mark, brand, trademark
+sabor (nm) /saˈβoɾ/	taste, flavor, sensation
+perdedor (nm/f) /peɾðeˈðoɾ/	loser
+ensayo (nm) /enˈsaʝo/	essay, rehearsal
+sueldo (nm) /ˈsweldo/	salary, pay
+construcción (nf) /konstɾukˈθjon/	construction
+delito (nm) /deˈlito/	crime, offense
+ofrecer (verb) /ofɾeˈθeɾ/	to offer, present
+máscara (nf) /ˈmaskaɾa/	mask
+guitarra (nf) /giˈtara/	guitar
+figura (nf) /fiˈɣuɾa/	figure
+tranquilizar (verb) /tɾaŋkiliˈθaɾ/	to calm down
+análisis (nm) /aˈnalisis/	analysis
+vendedor (nm/f) /bendeˈðoɾ/	salesperson
+admitir (verb) /aðmiˈtiɾ/	to admit
+consecuencia (nf) /konseˈkwenθja/	consequence
+personalidad (nf) /peɾsonaliˈðað/	personality, celebrity
+disparo (nm) /disˈpaɾo/	shot, discharge
+traducción (nf) /tɾaðukˈθjon/	translation
+profesión (nf) /pɾofeˈsjon/	profession, occupation
+pastilla (nf) /pasˈtiʎa/	pill, capsule
+espacial (adj) /espaˈθjal/	spatial, space
+disponible (adj) /dispoˈniβle/	available
+voto (nm) /ˈboto/	vote
+habilidad (nf) /aβiliˈðað/	ability, skill, talent
+galleta (nf) /gaˈʎeta/	cookie
+costado (nm) /kosˈtaðo/	side, flank
+remedio (nm) /reˈmeðjo/	alternative, cure, solution
+aniversario (nm) /aniβeɾˈsaɾjo/	anniversary
+generación (nf) /xeneɾaˈθjon/	generation
+caída (nf) /kaˈiða/	fall, drop, falling
+adulto (adj; nm/f) /aˈðulto/	adult, grown-up; adult
+encerrar (verb) /enθeˈraɾ/	to shut (in)
+caos (nm) /ˈkaos/	chaos
+súper (adj) /ˈsupeɾ/	super
+prostituta (nf) /pɾostiˈtuta/	prostitute
+producto (nm) /pɾoˈðukto/	product
+auténtico (adj) /auˈtentiko/	authentic
+estadounidense (adj) /estaðouniˈðense/	American
+octubre (nm) /okˈtuβɾe/	October
+poesía (nf) /poeˈsia/	poetry, poem
+electricidad (nf) /elektɾiθiˈðað/	electricity
+sonreír (verb) /sonreˈiɾ/	to smile
+puesta (nf) /ˈpwesta/	setting
+molestar (verb) /molesˈtaɾ/	to bother, disturb, upset
+consciente (adj) /konsˈθjente/	conscious, aware
+pasear (verb) /paseˈaɾ/	to go for a walk, ride
+revertir (verb) /reβeɾˈtiɾ/	to revert, reverse
+sacrificio (nm) /sakɾiˈfiθjo/	sacrifice
+propuesta (nf) /pɾoˈpwesta/	proposal, proposition
+amarillo (adj) /amaˈɾiʎo/	yellow
+experimento (nm) /ekspeɾiˈmento/	experiment
+costar (verb) /kosˈtaɾ/	to cost, be hard
+hoja (nf) /ˈoxa/	sheet, leaf
+comisaría (nf) /komisaˈɾia/	(police) station
+reconocer (verb) /rekonoˈθeɾ/	to recognize, admit
+barba (nf) /ˈbaɾβa/	beard
+sorprendente (adj) /soɾpɾenˈdente/	surprising, astonishing
+toro (nm) /ˈtoɾo/	bull
+comunicación (nf) /komunikaˈθjon/	communication
+vigilancia (nf) /bixiˈlanθja/	surveillance, vigilance
+arreglo (nm) /aˈreɣlo/	arrangement
+renunciar (verb) /renunˈθjaɾ/	to give up, renounce
+discusión (nf) /diskuˈsjon/	discussion, argument
+encargar (verb) /eŋkaɾˈɣaɾ/	to entrust, (se) take charge of
+lealtad (nf) /lealˈtað/	loyalty, faithfulness
+ánimo (nm) /ˈanimo/	zest, spirit, heart
+musical (adj) /musiˈkal/	musical
+algún (adj; prep) /alˈgun/	some; any (form of alguno before nm sg)
+convencer (verb) /kombenˈθeɾ/	to convince, persuade
+hartar (verb) /aɾˈtaɾ/	to satiate
+fatal (adj) /faˈtal/	fateful, deadly, awful
+salto (nm) /ˈsalto/	jump, hop, skip
+cabina (nf) /kaˈβina/	cabin, cockpit
+cercano (adj) /θeɾˈkano/	nearby, close, near
+telegrama (nf) /teleˈɣɾama/	telegram
+requerir (verb) /rekeˈɾiɾ/	to require
+fracaso (nm) /fɾaˈkaso/	failure, collapse
+fallar (verb) /faˈʎaɾ/	to fail, miss
+anciano (adj) /anˈθjano/	elderly, aged
+agradar (verb) /aɣɾaˈðaɾ/	to please
+corbata (nf) /koɾˈβata/	tie, sash
+canto (nm) /ˈkanto/	singing, chant
+poema (nm) /poˈema/	poem
+sano (adj) /ˈsano/	healthy, wholesome
+truco (nm) /ˈtɾuko/	trick, ruse
+fantasía (nf) /fantaˈsia/	fantasy, fancy
+velar (verb) /beˈlaɾ/	watch
+tradición (nf) /tɾaðiˈθjon/	tradition
+apropiado (adj) /apɾoˈpjaðo/	appropriate
+rezar (verb) /reˈθaɾ/	to pray, recite
+móvil (adj) /ˈmoβil/	mobile
+compasión (nf) /kompaˈsjon/	compassion, pity
+placa (nf) /ˈplaka/	plaque, plate, badge
+prestado (adj) /pɾesˈtaðo/	borrowed, lent
+camarero (nf) /kamaˈɾeɾo/	waiter
+collar (nm) /koˈʎaɾ/	collar, necklace
+defender (verb) /defenˈdeɾ/	to defend, protect
+plano (nm) /ˈplano/	plane, map, level
+lanzamiento (nm) /lanθaˈmjento/	launch, release
+maquillaje (nm) /makiˈʎaxe/	makeup
+semejante (adj) /semeˈxante/	similar, such, alike
+huelga (nf) /ˈwelga/	strike, protest
+caridad (nf) /kaɾiˈðað/	charity
+productor (adj; nm) /pɾoðukˈtoɾ/	producing; producer
+investigar (verb) /imbestiˈɣaɾ/	to investigate
+colección (nf) /kolekˈθjon/	collection
+fama (nf) /ˈfama/	reputation, fame
+maíz (nm) /maˈiθ/	corn, maize
+cumplido (nm) /kumˈpliðo/	compliment
+gris (adj) /gɾis/	gray, gloomy
+onda (nf) /ˈonda/	wave, ripple
+molestia (nf) /moˈlestja/	bother, nuisance, trouble
+advertir (verb) /aðβeɾˈtiɾ/	to notice, warn
+seco (adj) /ˈseko/	dry, arid
+congreso (nm) /koŋgˈɾeso/	congress
+cuarenta (num) /kwaˈɾenta/	forty
+negativo (adj) /neɣaˈtiβo/	negative, pessimistic
+traición (nf) /tɾaiˈθjon/	treason, betrayal
+multitud (nf) /multiˈtuð/	multitude, crowd
+macho (adj; nm) /ˈmaʧo/	male; male, manliness
+frecuencia (nf) /fɾeˈkwenθja/	frequency
+mago (nm) /ˈmaɣo/	magician
+pariente (nmf) /paˈɾjente/	relative
+limpieza (nf) /limˈpjeθa/	cleanliness, purity
+influencia (nf) /imˈflwenθja/	influence
+lista (nf) /ˈlista/	list, roster, roll
+enhorabuena (nf) /enoɾaˈβwena/	congratulations
+satisfacer (verb) /satisfaˈθeɾ/	to satisfy
+representar (verb) /repɾesenˈtaɾ/	to represent
+papa (nm; nf) /ˈpapa/	Pope; potato
+besar (verb) /beˈsaɾ/	to kiss
+conducta (nf) /konˈdukta/	conduct, behavior
+convertirse (verb) /kombeɾˈtiɾse/	to become
+idioma (nm) /iˈðjoma/	(specific) language
+cueva (nf) /ˈkweβa/	cave
+batería (nf) /bateˈɾia/	battery, gun deck
+técnico (adj) /ˈtekniko/	technical
+explotar (verb) /eksploˈtaɾ/	to explode, exploit
+barra (nf) /ˈbara/	bar, rod, rail
+engañar (verb) /eŋgaˈɲaɾ/	to trick, deceive
+marchar (verb) /maɾˈʧaɾ/	to go, leave, march
+cargar (verb) /kaɾˈɣaɾ/	to load (up), carry
+cuento (nm) /ˈkwento/	story, tale
+mueble (nm) /ˈmweβle/	(piece of) furniture
+villa (nf) /ˈbiʎa/	village, town
+horror (nm) /oˈroɾ/	horror, atrocity
+aéreo (adj) /aˈeɾeo/	aerial, air
+embajador (nm/f) /embaxaˈðoɾ/	ambassador
+ministerio (nm) /minisˈteɾjo/	ministry
+comunista (adj) /komuˈnista/	Communist
+diciembre (nm) /diˈθjembɾe/	December
+actividad (nf) /aktiβiˈðað/	activity, action
+fotografiar (verb) /fotoɣɾaˈfjaɾ/	to photograph
+lavar (verb) /laˈβaɾ/	to wash
+vela (nf) /ˈbela/	candle, sail, vigil
+notar (verb) /noˈtaɾ/	to notice
+mentar (verb) /menˈtaɾ/	to mention, cite
+trono (nm) /ˈtɾono/	throne
+pato (nm) /ˈpato/	duck
+jugo (nm) /ˈxuɣo/	juice
+rutina (nf) /ruˈtina/	routine
+patria (nf) /ˈpatɾja/	native land, fatherland
+taller (nm) /taˈʎeɾ/	workshop, shop
+muestra (nf) /ˈmwestɾa/	proof, sample, sign
+devolver (verb) /deβolˈβeɾ/	to return, give back
+desayunar (verb) /desaʝuˈnaɾ/	to have breakfast
+gerente (adj; nmf) /xeˈɾente/	managing; manager
+practicar (verb) /pɾaktiˈkaɾ/	to practice
+celo (nm) /ˈθelo/	jealousy, zeal
+alumno (nm) /aˈlumno/	student, pupil
+diseño (nm) /diˈseɲo/	design
+vigilar (verb) /bixiˈlaɾ/	to watch over, guard
+reporte (nf) /reˈpoɾte/	report
+masa (nf) /ˈmasa/	mass, dough, bulk, crowd
+guerrero (adj) /geˈreɾo/	warrior, warlike
+unir (verb) /uˈniɾ/	to unite, join (together)
+niebla (nf) /ˈnjeβla/	fog
+rondar (verb) /ronˈdaɾ/	to haunt
+noviembre (nm) /noˈβjembɾe/	November
+logro (nm) /ˈloɣɾo/	success, achievement
+naranja (nf) /naˈɾaŋxa/	orange (fruit)
+considerar (verb) /konsiðeˈɾaɾ/	to consider
+garaje (nf) /gaˈɾaxe/	garage
+ingeniero (nm/f) /iŋxeˈnjeɾo/	engineer
+generoso (adj) /xeneˈɾoso/	generous
+academia (nf) /akaˈðemja/	academy
+recurso (nm) /reˈkuɾso/	resource, recourse, means
+poeta (nmf) /poˈeta/	poet
+dignidad (nf) /diɣniˈðað/	dignity
+testamento (nm) /testaˈmento/	will, testament
+infancia (nf) /imˈfanθja/	infancy, childhood
+población (nf) /poβlaˈθjon/	population
+almacén (nm) /almaˈθen/	warehouse, store
+soledad (nf) /soleˈðað/	loneliness, solitude
+medalla (nf) /meˈðaʎa/	medal, medallion
+soltero (adj) /solˈteɾo/	single, not married
+suma (nf) /ˈsuma/	sum, amount, summary
+abrazar (verb) /aβɾaˈθaɾ/	to hug, embrace
+enterar (verb) /enteˈɾaɾ/	to find out (se)
+modal (adj) /moˈðal/	modal
+colgar (verb) /kolˈgaɾ/	to hang (up)
+típico (adj) /ˈtipiko/	typical
+confundir (verb) /komfunˈdiɾ/	to confuse
+utilizar (verb) /utiliˈθaɾ/	to use, utilize
+tristeza (nf) /tɾisˈteθa/	sadness
+deporte (nm) /deˈpoɾte/	sport
+recepción (nf) /reθepˈθjon/	reception, waiting-room
+festival (nf) /festiˈβal/	festival
+progreso (nm) /pɾoˈɣɾeso/	progress
+brindis (nm) /ˈbɾindis/	toast
+fascinante (adj) /fasθiˈnante/	fascinating
+región (nf) /reˈxjon/	region
+arruinar (verb) /arwiˈnaɾ/	to ruin
+terapia (nf) /teˈɾapja/	therapy
+hoyo (nm) /ˈoʝo/	hole
+arco (nm) /ˈaɾko/	arch, arc, bow
+pesca (nf) /ˈpeska/	fishing
+acostumbrar (verb) /akostumˈbɾaɾ/	to be accustomed to, be used to
+ola (nf) /ˈola/	wave, billow
+eterno (adj) /eˈteɾno/	eternal
+obligar (verb) /oβliˈɣaɾ/	to obligate, force
+formar (verb) /foɾˈmaɾ/	to form
+ordenar (verb) /oɾðeˈnaɾ/	to put in order, organize
+tabaco (nm) /taˈβako/	tobacco, cigarette, cigar
+capítulo (nm) /kaˈpitulo/	chapter
+selva (nf) /ˈselβa/	forest, jungle
+columna (nf) /koˈlumna/	column, spine
+enterrar (verb) /enteˈraɾ/	to bury
+cortado (adj) /koɾˈtaðo/	chopped up, cut
+impacto (nm) /imˈpakto/	impact
+herramienta (nf) /eraˈmjenta/	tool
+balón (nm) /baˈlon/	ball
+fingir (verb) /fiŋˈxiɾ/	to feign, pretend
+confesión (nf) /komfeˈsjon/	confession, admission
+símbolo (nm) /ˈsimbolo/	symbol
+expediente (nm) /ekspeˈðjente/	dossier, proceedings, file
+petición (nf) /petiˈθjon/	request, petition
+participar (verb) /paɾtiθiˈpaɾ/	to participate
+casco (nm) /ˈkasko/	helmet
+patata (nf) /paˈtata/	potato
+pandilla (nf) /panˈdiʎa/	gang, crew
+preocupación (nf) /pɾeokupaˈθjon/	worry, concern
+advertencia (nf) /aðβeɾˈtenθja/	warning, notice
+preso (nm) /ˈpɾeso/	prisoner
+otoño (nm) /oˈtoɲo/	autumn
+estatua (nf) /esˈtatwa/	statue
+perrito (nm/f) /peˈrito/	puppy
+violación (nf) /bjolaˈθjon/	violation, rape
+corredor (nm/f) /koreˈðoɾ/	broker, corridor, runner
+guante (nm) /ˈgwante/	glove
+vaquero (nm) /baˈkeɾo/	cowboy
+cita (nf) /ˈθita/	appointment, date, quotation
+pegar (verb) /peˈɣaɾ/	to hit, stick (on)
+simpático (adj) /simˈpatiko/	nice, likeable, friendly
+jaula (nf) /ˈxaula/	cage, crate, playpen
+incluir (verb) /inˈklwiɾ/	to include
+ratón (nm) /raˈton/	mouse, rat
+período (nm) /peˈɾioðo/	period, time
+capa (nf) /ˈkapa/	layer, coat
+gota (nf) /ˈgota/	drop
+docena (nf) /doˈθena/	dozen
+traje (nm) /ˈtɾaxe/	suit, dress, costume
+vomitar (verb) /bomiˈtaɾ/	to vomit, throw up
+testimonio (nm) /testiˈmonjo/	testimony, witness
+jugada (nf) /xuˈɣaða/	move, play
+evento (nm) /eˈβento/	event
+suplicar (verb) /supliˈkaɾ/	to supplicate, pray, appeal
+administración (nf) /aðministɾaˈθjon/	administration
+vecindario (nm) /beθinˈdaɾjo/	neighborhood
+presentación (nf) /pɾesentaˈθjon/	presentation, introduction
+reciente (adj) /reˈθjente/	recent
+retraso (nm) /reˈtɾaso/	delay
+pintar (verb) /pinˈtaɾ/	to paint
+plástico (adj; nm) /ˈplastiko/	plastic; plastic
+marzo (nm) /ˈmaɾθo/	March
+escoger (verb) /eskoˈxeɾ/	to choose
+sector (nm) /sekˈtoɾ/	sector, area, section
+sindicato (nm) /sindiˈkato/	trade union
+cometer (verb) /komeˈteɾ/	to commit
+bondad (nf) /bonˈdað/	goodness, kindness
+temor (nm) /teˈmoɾ/	fear
+cuyo (adj) /ˈkuʝo/	whose
+retrato (nm) /reˈtɾato/	portrait, photograph
+ópera (nf) /ˈopeɾa/	opera
+mencionar (verb) /menθjoˈnaɾ/	to mention, cite
+nieto (nm/f) /ˈnjeto/	grandson/granddaughter
+retiro (nm) /reˈtiɾo/	withdrawal, retreat
+sordo (adj) /ˈsoɾðo/	deaf, dull
+convenir (verb) /kombeˈniɾ/	to be agreeable, be convenient
+representante (nmf) /repɾesenˈtante/	representative
+boleto (nm) /boˈleto/	ticket
+negar (verb) /neˈɣaɾ/	to deny, refuse
+oxígeno (nm) /okˈsixeno/	oxygen
+liga (nf) /ˈliɣa/	league
+ceniza (nf) /θeˈniθa/	ash
+ave (nm) /ˈaβe/	bird
+furioso (adj) /fuˈɾjoso/	furious
+bendición (nf) /bendiˈθjon/	blessing
+pesado (adj) /peˈsaðo/	heavy, boring, tiresome
+británico (adj) /bɾiˈtaniko/	British
+economía (nf) /ekonoˈmia/	economy, economics, thriftiness
+lanzar (verb) /lanˈθaɾ/	to throw, launch
+ensalada (nf) /ensaˈlaða/	salad
+susto (nm) /ˈsusto/	fright, scare
+pluma (nf) /ˈpluma/	pen, feather
+demanda (nf) /deˈmanda/	petition, request, demand
+comando (nm) /koˈmando/	command, order
+embajada (nf) /embaˈxaða/	embassy
+fruta (nf) /ˈfɾuta/	fruit
+quinto (adj) /ˈkinto/	fifth
+atender (verb) /atenˈdeɾ/	to serve, attend to
+préstamo (nm) /ˈpɾestamo/	loan, borrowing
+pañuelo (nm) /paˈɲwelo/	handkerchief, shawl
+ataúd (nf) /ataˈuð/	coffin
+saludar (verb) /saluˈðaɾ/	to greet, say hello
+sobrar (verb) /soβˈɾaɾ/	to be too much, left over
+tensión (nf) /tenˈsjon/	tension, stress, strain
+aumento (nm) /auˈmento/	increase, rise
+extremo (adj; nm) /eksˈtɾemo/	edge, extreme; end, extreme
+pulso (nm) /ˈpulso/	pulse, pulsation
+pensión (nf) /penˈsjon/	pension, boarding house
+juguete (nm) /xuˈɣete/	toy
+invisible (adj) /imbiˈsiβle/	invisible
+cirugía (nf) /θiɾuˈxia/	surgery
+eternidad (nf) /eteɾniˈðað/	eternity
+bailarín (nm/f) /bailaˈɾin/	dancer
+avenida (verb) /aβeˈniða/	avenue, boulevard
+cobrar (verb) /koβˈɾaɾ/	to charge (money)
+realizar (verb) /realiˈθaɾ/	to fulfill, carry out
+infantil (adj) /imfanˈtil/	of children, childlike, infantile
+pavo (nm) /ˈpaβo/	Turkey
+custodiar (verb) /kustoˈðjaɾ/	to guard
+justo (adv) /ˈxusto/	just
+ultimar (verb) /ultiˈmaɾ/	to finalize
+encender (verb) /enθenˈdeɾ/	to turn on
+civilización (nf) /θiβiliθaˈθjon/	civilization
+burro (nm) /ˈburo/	donkey
+democracia (nf) /demoˈkɾaθja/	democracy
+gimnasio (nm) /ximˈnasjo/	fitness center
+patético (adj) /paˈtetiko/	pathetic
+observar (verb) /oβseɾˈβaɾ/	to observe
+fase (nf) /ˈfase/	phase, stage
+ilusión (nf) /iluˈsjon/	illusion, hope, dream
+debilidad (nf) /deβiliˈðað/	weakness
+psiquiatra (nmf) /psiˈkjatɾa/	psychiatrist
+autor (nm/f) /auˈtoɾ/	writer, author
+condena (nf) /konˈdena/	sentence (in prison), penalty
+muelle (nm) /ˈmweʎe/	wharf, dock
+estatal (adj) /estaˈtal/	state, government-owned
+repugnante (adj) /repuɣˈnante/	disgusting
+asiento (nm) /aˈsjento/	seat, chair
+aterrizar (verb) /ateriˈθaɾ/	to land
+vencer (verb) /benˈθeɾ/	to overcome, conquer
+dibujo (nm) /diˈβuxo/	drawing, sketch
+causar (verb) /kauˈsaɾ/	to cause, bring about
+mantequilla (nf) /manteˈkiʎa/	butter
+aparato (nm) /apaˈɾato/	apparatus, device
+pleno (adj) /ˈpleno/	complete, full
+sospechar (verb) /sospeˈʧaɾ/	to suspect, suppose
+cazador (nm/f) /kaθaˈðoɾ/	hunter
+autopista (nf) /autoˈpista/	freeway, motorway
+informar (verb) /imfoɾˈmaɾ/	to inform
+despejar (verb) /despeˈxaɾ/	to clear (up)
+postre (nm) /ˈpostɾe/	dessert; a la postre: in the end
+concepto (nm) /konˈθepto/	concept
+desarrollo (nm) /desaˈroʎo/	development
+digno (adj) /ˈdiɣno/	worthy
+combinación (nf) /kombinaˈθjon/	combination
+término (nm) /ˈteɾmino/	term (language), end
+cartel (nm) /kaɾˈtel/	poster
+sangrar (verb) /saŋgˈɾaɾ/	to bleed
+toalla (nf) /toˈaʎa/	towel
+autorización (nf) /autoɾiθaˈθjon/	authorization
+gravedad (nf) /gɾaβeˈðað/	seriousness, gravity
+marinero (nm/f) /maɾiˈneɾo/	sailor
+tortura (nf) /toɾˈtuɾa/	torture
+rehén (nm/f) /reˈen/	hostage
+chaval (nm) /ʧaˈβal/	kid, guy
+oveja (nf) /oˈβexa/	sheep, ewe
+violento (adj) /bjoˈlento/	violent
+Feria (nf) /ˈfeɾja/	fair, festival
+desafío (nm) /desaˈfio/	challenge, provocation
+origen (nm) /oˈɾixen/	origin, cause
+constante (adj) /konsˈtante/	constant
+humilde (adj) /uˈmilde/	humble, modest
+patada (nf) /paˈtaða/	kick, punt
+ocultar (verb) /okulˈtaɾ/	to hide
+desafortunado (adj) /desafoɾtuˈnaðo/	unlucky, unfortunate
+refuerzo (nm) /reˈfweɾθo/	reinforcement
+jabón (nf) /xaˈβon/	soap
+método (nm) /ˈmetoðo/	method
+mercancía (nf) /meɾkanˈθia/	goods, merchandise
+acento (nm) /aˈθento/	accent, stress
+escala (nf) /esˈkala/	scale, ladder, rank
+tenis (nm) /ˈtenis/	tennis
+comentario (nm) /komenˈtaɾjo/	remark, comment
+miseria (nf) /miˈseɾja/	misery, wretchedness
+estructura (nf) /estɾukˈtuɾa/	structure
+gastar (verb) /gasˈtaɾ/	to spend (money)
+desfile (nm) /desˈfile/	parade, line, formation
+importe (nm) /imˈpoɾte/	amount
+lápiz (nm) /ˈlapiθ/	pencil
+editor (nm/f) /eðiˈtoɾ/	editor, publisher
+fortaleza (nf) /foɾtaˈleθa/	fortress, strength
+pesa (nf) /ˈpesa/	weight
+respiración (nf) /respiɾaˈθjon/	respiration, breath
+cuero (nm) /ˈkweɾo/	leather, skin
+vano (adj) /ˈbano/	vain, useless
+fuga (nf) /ˈfuɣa/	flight, escape
+inconsciente (adj) /iŋkonsˈθjente/	unconscious, thoughtless
+grabación (nf) /gɾaβaˈθjon/	recording
+pacífico (adj) /paˈθifiko/	peaceful
+horario (nm) /oˈɾaɾjo/	schedule, timetable
+complejo (adj) /komˈplexo/	complex, complicated
+maletín (nm) /maleˈtin/	briefcase
+materia (nf) /maˈteɾja/	matter, subject
+positivo (adj) /posiˈtiβo/	positive
+chofer (nm) /ʧoˈfeɾ/	driver, chauffeur
+eléctrico (adj) /eˈlektɾiko/	electric
+cabra (nf) /ˈkaβɾa/	goat
+enero (nm) /eˈneɾo/	January
+comedor (nm) /komeˈðoɾ/	dining room
+sabio (adj) /ˈsaβjo/	wise, learned
+apariencia (nf) /apaˈɾjenθja/	appearance, aspect
+agalla (nf) /aˈɣaʎa/	gill, guts
+mezcla (nf) /ˈmeθkla/	mixture, blend
+ejecución (nf) /exekuˈθjon/	performance, execution
+licor (nm) /liˈkoɾ/	liqueur
+mágico (adj) /ˈmaxiko/	magic, magical
+reconocimiento (nm) /rekonoθiˈmjento/	recognition, acknowledgment
+involucrar (verb) /imboluˈkɾaɾ/	to involve
+desesperado (adj) /desespeˈɾaðo/	desperate, hopeless
+elefante (nm) /eleˈfante/	elephant
+desorden (nm) /deˈsoɾðen/	disorder, mess
+apetito (nm) /apeˈtito/	appetite
+orilla (nf) /oˈɾiʎa/	shore, edge
+fenómeno (nm) /feˈnomeno/	phenomenon
+alimento (nm) /aliˈmento/	food, nourishment
+mancha (nf) /ˈmaɲʧa/	stain, spot
+giro (nm) /ˈxiɾo/	turn, draft, expression
+sabiduría (nf) /saβiðuˈɾia/	wisdom, knowledge
+policial (adj) /poliˈθjal/	police
+campana (nf) /kamˈpana/	bell
+criar (verb) /kɾjaɾ/	to bring up, rear
+gesto (nm) /ˈxesto/	gesture
+comercio (nm) /koˈmeɾθjo/	commerce, trade
+interrumpir (verb) /interumˈpiɾ/	to interrupt
+creación (nf) /kɾeaˈθjon/	creation
+camiseta (nf) /kamiˈseta/	T-shirt
+gusano (nm) /guˈsano/	worm, caterpillar
+lógica (nf) /ˈloxika/	logic
+excepción (nf) /eksθepˈθjon/	exception
+lectura (nf) /lekˈtuɾa/	reading
+seda (nf) /ˈseða/	silk
+atmósfera (nf) /atˈmosfeɾa/	atmosphere, environment
+resuelto (adj) /reˈswelto/	resolved, determined
+quemar (verb) /keˈmaɾ/	to burn
+tarta (nf) /ˈtaɾta/	cake
+ganancia (nf) /gaˈnanθja/	gain, profit
+timar (verb) /tiˈmaɾ/	to cheat
+cosechar (verb) /koseˈʧaɾ/	to harvest
+disciplina (nf) /disθiˈplina/	discipline, subject
+oficio (nm) /oˈfiθjo/	job, occupation, function
+bahía (nf) /baˈia/	bay
+norma (nf) /ˈnoɾma/	standard, pattern, norm
+salario (nm) /saˈlaɾjo/	salary, wages
+cuerdo (adj) /ˈkweɾðo/	sane
+conversar (verb) /kombeɾˈsaɾ/	to converse, talk
+pasaje (nm) /paˈsaxe/	fare, passage, lane
+fianza (nf) /ˈfjanθa/	bail, bond, deposit
+misa (nf) /ˈmisa/	(religious) mass
+carbón (nm) /kaɾˈβon/	coal, charcoal
+grosero (adj) /gɾoˈseɾo/	crude, rude, crass
+quejar (verb) /keˈxaɾ/	to complain
+marcharse (verb) /maɾˈʧaɾse/	to leave
+cristiano (adj) /kɾisˈtjano/	Christian
+misterioso (adj) /misteˈɾjoso/	mysterious
+instinto (nm) /insˈtinto/	instinct
+negociar (verb) /neɣoˈθjaɾ/	to negotiate, deal (with/in)
+plazo (nm) /ˈplaθo/	term, time limit, installment
+confusión (nf) /komfuˈsjon/	confusion
+orquestar (verb) /oɾkesˈtaɾ/	to orchestrate
+afectar (verb) /afekˈtaɾ/	to affect
+tribu (nf) /ˈtɾiβu/	tribe
+horno (nm) /ˈoɾno/	oven, furnace
+rabia (nf) /ˈraβja/	rage
+espantoso (adj) /espanˈtoso/	frightening, dreadful
+aguardar (verb) /aɣwaɾˈðaɾ/	to wait for, await
+cocaína (nf) /kokaˈina/	cocaine
+estacionamiento (nm) /estaθjonaˈmjento/	parking, parking lot
+aproximado (adj) /apɾoksiˈmaðo/	approximate
+alivio (nm) /aˈliβjo/	relief, unburdening
+tubo (nm) /ˈtuβo/	tube, pipe
+aterrizaje (nf) /ateriˈθaxe/	landing
+revolver (verb) /reβolˈβeɾ/	to stir, mix, scramble
+profundidad (nf) /pɾofundiˈðað/	depth, profundity
+araña (nf) /aˈɾaɲa/	spider
+contener (verb) /konteˈneɾ/	to contain
+certeza (nf) /θeɾˈteθa/	certainty
+afecto (nm) /aˈfekto/	affection, fondness
+consuelo (nm) /konˈswelo/	comfort, consolation
+micrófono (nm) /miˈkɾofono/	microphone
+formación (nf) /foɾmaˈθjon/	formation, education
+evidente (adj) /eβiˈðente/	evident, obvious
+retrasar (verb) /retɾaˈsaɾ/	to delay, fall behind
+rumor (nm) /ruˈmoɾ/	rumor, murmur
+estrategia (nf) /estɾaˈtexja/	strategy
+rango (nm) /ˈraŋgo/	rank, range
+procedimiento (nm) /pɾoθeðiˈmjento/	procedure, proceedings
+comprobar (verb) /kompɾoˈβaɾ/	to, check, verify, prove
+exposición (nf) /eksposiˈθjon/	exhibition, display
+espiritual (adj) /espiɾiˈtwal/	spiritual
+potencial (adj) /potenˈθjal/	potential
+raíz (nf) /raˈiθ/	root
+contento (adj) /konˈtento/	happy, content
+nido (nm) /ˈniðo/	nest
+temporal (adj) /tempoˈɾal/	temporary
+leal (adj) /leˈal/	loyal, faithful
+asociación (nf) /asoθjaˈθjon/	association
+tiro (nm) /ˈtiɾo/	throw, shot
+doña (nf) /ˈdoɲa/	courtesy title (f), Mrs.
+moderno (adj) /moˈðeɾno/	modern
+nocturno (adj) /nokˈtuɾno/	nocturnal, evening
+resistir (verb) /resisˈtiɾ/	to resist, endure
+regimiento (nm) /rexiˈmjento/	regiment
+coro (nm) /ˈkoɾo/	choir, chorus
+duelo (nm) /ˈdwelo/	grief, affliction
+dificultad (nf) /difikulˈtað/	difficulty, obstacle
+ausencia (nf) /auˈsenθja/	absence
+eliminar (verb) /elimiˈnaɾ/	to eliminate, exclude
+graduación (nf) /gɾaðwaˈθjon/	graduation
+texto (nm) /ˈteksto/	text
+transmisión (nf) /tɾanzmiˈsjon/	broadcast, transmission
+separar (verb) /sepaˈɾaɾ/	to separate
+padrino (nm) /paðˈɾino/	godparent, sponsor
+fraude (nm) /ˈfɾauðe/	fraud
+astuto (nm) /asˈtuto/	cunning, clever, crafty
+solar (adj) /soˈlaɾ/	solar
+edición (nf) /eðiˈθjon/	edition, publication
+suizo (adj) /ˈswiθo/	Swiss
+rodear (verb) /roðeˈaɾ/	to surround
+concentración (nf) /konθentɾaˈθjon/	concentration, gathering
+conspiración (nf) /konspiɾaˈθjon/	conspiracy
+alejar (verb) /aleˈxaɾ/	to move away
+habitual (adj) /aβiˈtwal/	usual, habitual, customary
+acompañar (verb) /akompaˈɲaɾ/	to accompany
+filosofía (nf) /filosoˈfia/	philosophy
+enfrentar (verb) /emfɾenˈtaɾ/	to confront, face
+delicado (adj) /deliˈkaðo/	delicate
+potencia (nf) /poˈtenθja/	power, potential
+pervertir (verb) /peɾβeɾˈtiɾ/	to pervert
+bendito (adj) /benˈdito/	blessed
+dosis (nf) /ˈdosis/	dose
+incapaz (adj) /iŋkaˈpaθ/	incapable
+unido (adj) /uˈniðo/	united
+oración (nf) /oɾaˈθjon/	prayer
+tímido (adj) /ˈtimiðo/	timid, shy, half-hearted
+menor (adj) /meˈnoɾ/	younger, youngest
+danza (nf) /ˈdanθa/	dance
+juzgar (verb) /xuθˈɣaɾ/	to judge
+aclarar (verb) /aklaˈɾaɾ/	to clarify, clear up
+conclusión (nf) /konkluˈsjon/	conclusion, end
+secuencia (nf) /seˈkwenθja/	sequence
+brillar (verb) /bɾiˈʎaɾ/	to shine, twinkle, be outstanding
+mensajero (nm/f) /mensaˈxeɾo/	messenger
+vidrio (nm) /ˈbiðɾjo/	glass, pane
+acostado (adj) /akosˈtaðo/	lying
+beneficio (nm) /beneˈfiθjo/	benefit, profit
+empujar (verb) /empuˈxaɾ/	to push, shove
+extremado (adj) /ekstɾeˈmaðo/	extreme
+hambriento (adj) /amˈbɾjento/	hungry
+tabla (nf) /ˈtaβla/	chart, board, table, plank
+maldad (nf) /malˈdað/	evil, wickedness
+condicional (adj) /kondiθjoˈnal/	conditional
+adecuado (adj) /aðeˈkwaðo/	adequate, suitable
+dorado (adj) /doˈɾaðo/	golden, gold-plated
+cuba (nf) /ˈkuβa/	Cuba
+literal (adj) /liteˈɾal/	literal
+filmar (verb) /filˈmaɾ/	to film
+antecedente (adj; nm) /anteθeˈðente/	antecedent; antecedent, background
+divertir (verb) /diβeɾˈtiɾ/	have fun
+acusación (nf) /akusaˈθjon/	accusation, charge
+prestar (verb) /pɾesˈtaɾ/	to lend
+secuestro (adj; nm) /seˈkwestɾo/	kidnapping; kidnapping
+vulgar (adj) /bulˈgaɾ/	vulgar, common, banal
+algodón (nm) /algoˈðon/	cotton
+colonia (nf) /koˈlonja/	colony, cologne
+disposición (nf) /disposiˈθjon/	disposal, disposition
+avisar (verb) /aβiˈsaɾ/	to inform, announce
+continuo (adj) /konˈtinwo/	continuous
+liberar (verb) /liβeˈɾaɾ/	to free, liberate, release
+saludable (adj) /saluˈðaβle/	healthy, wholesome
+rodar (verb) /roˈðaɾ/	to roll, run, scatter
+pantano (nm) /panˈtano/	swamp
+envío (nm) /emˈbio/	shipping, sending, shipment
+bigote (nm) /biˈɣote/	mustache
+instrumento (nm) /instɾuˈmento/	instrument
+tiburón (nm) /tiβuˈɾon/	shark
+matemático (adj) /mateˈmatiko/	mathematical
+honrar (verb) /onˈraɾ/	to honor
+dieta (nf) /ˈdjeta/	diet
+salvación (nf) /salβaˈθjon/	salvation, rescue
+munición (nf) /muniˈθjon/	ammunition
+enano (adj; nm/f) /eˈnano/	dwarfish; dwarf
+orientar (verb) /oɾjenˈtaɾ/	guide, show the way
+clásico (adj) /ˈklasiko/	classic
+lámpara (nf) /ˈlampaɾa/	lamp
+estadio (nm) /esˈtaðjo/	stadium
+alimentar (verb) /alimenˈtaɾ/	to feed, support
+torpe (adj) /ˈtoɾpe/	clumsy, awkward, slow
+ordenador (nm) /oɾðenaˈðoɾ/	computer
+presuponer (verb) /pɾesupoˈneɾ/	to presuppose, imply
+alianza (nf) /aˈljanθa/	alliance
+dedicar (verb) /deðiˈkaɾ/	to dedicate, devote
+ida (nf) /ˈiða/	departure, first half of a trip
+globo (nm) /gˈloβo/	balloon, globe
+global (adj) /gloˈβal/	global, overall
+manual (nm) /maˈnwal/	manual, handbook
+rebelde (adj) /reˈβelde/	rebel
+superar (verb) /supeˈɾaɾ/	to overcome, surpass
+cajón (nm) /kaˈxon/	drawer
+lindo (adj) /ˈlindo/	pretty, nice, lovely
+divino (adj) /diˈβino/	divine
+objeción (nf) /oβxeˈθjon/	objection
+riqueza (nf) /riˈkeθa/	riches, wealth
+receta (nf) /reˈθeta/	recipe, prescription
+granjero (nm/f) /gɾaŋˈxeɾo/	farmer
+martillo (nm) /maɾˈtiʎo/	hammer
+(a) continuación ((adv); nf) /kontinwaˈθjon/	then; continuation, follow-up
+pintor (nm/f) /pinˈtoɾ/	painter
+elemento (nm) /eleˈmento/	element
+lente (nm) /ˈlente/	lens, (pl) glasses
+vapor (nm) /baˈpoɾ/	vapor, steam
+independiente (adj) /indepenˈdjente/	independent, self-sufficient
+honorable (adj) /onoˈɾaβle/	honorable
+arrancar (verb) /araŋˈkaɾ/	to start (machine), uproot
+hígado (nm) /ˈiɣaðo/	liver
+barro (nm) /ˈbaro/	clay, mud
+gentil (adj) /xenˈtil/	gentile
+griego (adj; nm/f) /gˈɾjeɣo/	Greek; Greek
+tejado (nm) /teˈxaðo/	roof, housetop
+drama (nm) /ˈdɾama/	drama
+dentista (nmf) /denˈtista/	dentist
+chimenea (nf) /ʧimeˈnea/	chimney, fireplace
+calcetín (nf) /kalθeˈtin/	sock
+tranquilidad (nf) /tɾaŋkiliˈðað/	tranquility, peace
+baño (nm) /ˈbaɲo/	bathroom, bath, swim
+galería (nf) /galeˈɾia/	gallery, balcony
+cocinero (nm/f) /koθiˈneɾo/	cook
+pito (nm) /ˈpito/	whistle
+campesino (adj) /kampeˈsino/	rural
+liberación (nf) /liβeɾaˈθjon/	liberation
+doloroso (adj) /doloˈɾoso/	painful
+permanente (adj) /peɾmaˈnente/	permanent
+lastimar (verb) /lastiˈmaɾ/	to hurt
+escolar (adj) /eskoˈlaɾ/	school, scholastic
+impedir (verb) /impeˈðiɾ/	to prevent, hinder
+vagabundo (nm/f) /baɣaˈβundo/	vagabond
+retirada (nf) /retiˈɾaða/	retreat, withdrawal
+episodio (nm) /epiˈsoðjo/	episode, incident
+durar (verb) /duˈɾaɾ/	to last
+organizar (verb) /oɾɣaniˈθaɾ/	to organize
+ligero (adj) /liˈxeɾo/	light (in weight), slight
+músculo (nm) /ˈmuskulo/	muscle
+herencia (nf) /eˈɾenθja/	inheritance, legacy
+monje (nm/f) /ˈmoŋxe/	monk/nun
+atravesar (verb) /atɾaβeˈsaɾ/	to cross
+valioso (adj) /baˈljoso/	valuable, precious
+tiroteo (nm) /tiɾoˈteo/	gunfire
+cordero (nm) /koɾˈðeɾo/	lamb
+sellar (verb) /seˈʎaɾ/	to seal
+aplauso (nm) /aˈplauso/	applause, praise, acclaim

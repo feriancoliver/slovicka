@@ -1,0 +1,2502 @@
+# Francúzsko-slovenský frekvenčný slovník (poradie podľa frekvencie)
+de, du, de la, de l', des (det, prep) /də, dy, də la, də ɛl', de/	z, od; nejaký, trochu
+je, j' (pron) /ʒə, ʒi'/	ja
+être (nm, verb) /ɛtʁ/	byť; bytosť
+pas (adv, nm[pl]) /pa/	nie; krok
+le, la, les, l' (det, pron) /lə, la, le, ɛl'/	ten, tá, to; ho, ju, ich
+vous (pron) /vu/	vy, Vy
+là (adv, int) /la/	tam, tu
+tu (pron) /ty/	ty
+que, qu' (adv, conj, pron) /kə, k'/	že, ktorý, čo, ako
+un, une, des (adj, det, nm, pron, num) /œ̃, yn, de/	nejaký, jeden
+il (pron) /il/	on, ono
+et (conj) /e/	a
+à, au, aux (det, prep) /a, o, o/	do, na, v, k
+avoir (nm, verb) /avwaʁ/	mať; majetok
+ne, n' (adv) /nə, ɛn'/	nie
+ce, cet, cette, ces (det, pron) /sə, sɛt, sɛt, se/	tento, táto, toto, tieto
+en (adv, prep, pron) /ɑ̃/	v, do; ním, z toho
+on (pron) /ɔ̃/	človek, my
+cela (pron) /səla/	to
+pour (prep) /puʁ/	pre, na, aby
+moi (nm, pron) /mwa/	ja, mňa, mne
+qui (pron) /ki/	kto, ktorý
+nous (pron) /nu/	my, nás
+mais (adv, conj, int) /mɛ/	ale
+y (adv, ni, pron) /i/	tam
+me, m' (pron) /mə, ɛm'/	ma, mi, sa
+dans (prep) /dɑ̃/	v, do, z
+bien (adj(i), adv, nm) /bjɛ̃/	dobre; majetok
+elle (pron) /ɛl/	ona, ju
+si (adv, conj, ni) /si/	ak, či; áno, tak
+tout (adv, det, nm, adj, pron) /tu/	všetko, celý; veľmi
+plus (adv) /ply/	viac, už nie
+non (adv) /nɔ̃/	nie
+mon, ma, mes (det) /mɔ, ma, me/	môj, moja, moje
+suivre (verb) /sɥivʁ/	nasledovať, sledovať
+te, t' (pron) /tə, te'/	ťa, ti
+avec (prep) /avɛk/	s
+oui (adv, ni) /wi/	áno
+aller (nm, verb) /ale/	ísť
+toi (nm, pron) /twa/	ty, teba
+faire (nm, verb) /fɛʁ/	robiť, urobiť
+se, s' (pron) /sə, ɛs'/	sa, si
+comme (adv, conj) /kɔm/	ako
+sur (adj, prep) /syʁ/	na, o
+quoi (pron) /kwa/	čo
+ici (adv) /isi/	tu, sem
+savoir (nm, verb) /savwaʁ/	vedieť; vedomosti
+lui (pron) /lɥi/	on, jemu, jej
+vouloir (nm, verb) /vulwaʁ/	chcieť
+là (adv, int) /la/	tam, tu
+rien (adv, nm, pron) /ʁjɛ̃/	nič
+dire (nm, verb) /diʁ/	povedať, hovoriť
+où (adv, pron) /u/	kde, kam
+votre (det) /vɔtʁ/	váš, Váš
+pourquoi (adv, conj, ni) /puʁkwa/	prečo
+quand (adv, conj) /kɑ̃/	keď, kedy
+par (prep) /paʁ/	cez, od, po
+son, sa, ses (det, nm) /sɔ, sa, se/	jeho, jej, svoj; zvuk; otruby
+ton, ta, tes (det, nm) /tɔ, ta, te/	tvoj, tvoja, tvoje; tón
+pouvoir (nm, verb) /puvwaʁ/	môcť, vedieť; moc
+alors (adv) /alɔʁ/	potom, tak, teda
+comment (adv, conj, int, ni) /kɔmɑ̃/	ako
+bon (adj, adv, int, nm) /bɔ̃/	dobrý
+ou (adv, pron) /u/	alebo
+très (adv) /tʁɛ/	veľmi
+même (adj(f), adv, pron) /mɛm/	ten istý, rovnaký; dokonca; sám
+merci (int, nm, nf) /mɛʁsi/	ďakujem; milosť
+jamais (adv) /ʒamɛ/	nikdy
+aussi (adv, conj) /osi/	tiež, aj, taký
+chose (adj(f), nf) /ʃoz/	vec
+voir (verb) /vwaʁ/	vidieť
+deux (det, num) /dø/	dva
+falloir (verb) /falwaʁ/	treba, musieť
+autre (adj(f), pron) /otʁ/	iný, druhý
+maintenant (adv) /mɛ̃tnɑ̃/	teraz
+encore (adv) /ɑ̃kɔʁ/	ešte, znova
+peu (adv) /pø/	málo, trochu
+vraiment (adv) /vʁɛmɑ̃/	naozaj, skutočne
+temps (nm[pl]) /tɑ̃/	čas, počasie
+toujours (adv) /tuʒuʁ/	vždy, stále
+notre (det) /nɔtʁ/	náš
+vie (nf) /vi/	život
+oh (int) /o/	och
+juste (adv, nm, adj(f)) /ʒyst/	práve, len; spravodlivý, správny
+sans (prep) /sɑ̃/	bez
+quelque (adv, adj, det) /kɛlk/	nejaký, niekoľko
+monde (nm) /mɔ̃d/	svet, ľudia
+accord (nm) /akɔʁ/	súhlas, dohoda
+fois (nf[pl]) /fwa/	raz, krát
+trop (adv) /tʁo/	príliš, priveľa
+venir (verb) /vəniʁ/	prísť
+croire (verb) /kʁwaʁ/	veriť, myslieť si
+devoir (nm, verb) /dəvwaʁ/	musieť, dlhovať; povinnosť
+père (nm) /pɛʁ/	otec
+dieu (int, nm) /djø/	boh
+homme (nm) /ɔm/	muž, človek
+sûr (adj, prep) /syʁ/	istý, bezpečný
+leur (det, adj(f), pron) /lœʁ/	ich, im, svoj
+avant (adj(i), adv, nm, prep) /avɑ̃/	pred, predtým
+besoin (nm) /bəzwɛ̃/	potreba
+femme (nf) /fam/	žena, manželka
+personne (nf, pron) /pɛʁsɔn/	osoba, človek; nikto, niekto
+aimer (verb) /eme/	milovať, mať rád, páčiť sa
+chez (prep) /ʃe/	u, k
+vrai (adv, nm, adj) /vʁɛ/	pravdivý, skutočný, pravý
+an (nm) /ɑ̃/	rok
+mal (adj(i), adv, nm) /mal/	zle; zlo, bolesť
+parler (nm, verb) /paʁle/	hovoriť, rozprávať
+après (adv) /apʁɛ/	po, potom
+mort (adj, nf) /mɔʁ/	mŕtvy; smrť
+parce que (conj) /paʁsə kə/	pretože
+mieux (adj(i)[pl], adv, nm) /mjø/	lepšie
+petit (adv, nm, adj) /pəti/	malý
+beaucoup (adv) /boku/	veľa, mnoho, veľmi
+monsieur (nm) /məsjø/	pán
+voilà (prep) /vwala/	hľa, tu je, tak
+depuis (adv, prep) /dəpɥi/	od, odvtedy, už
+devoir (verb) /dəvwaʁ/	musieť, mať povinnosť
+mère (nf) /mɛʁ/	matka
+quel (det, adj, pron) /kɛl/	aký, ktorý
+fille (nf) /fij/	dievča, dcéra
+déjà (adv) /deʒa/	už
+gens (nmpl) /ʒɑ̃/	ľudia
+donc (conj) /dɔ̃k/	teda, tak, preto
+jour (nm) /ʒuʁ/	deň
+soir (nm) /swaʁ/	večer
+ouais (int) /wɛ/	jo, hej
+argent (nm) /aʁʒɑ̃/	peniaze, striebro
+maison (nf) /mɛzɔ̃/	dom
+nom (nm) /nɔ̃/	meno, názov
+bonjour (nm) /bɔ̃ʒuʁ/	dobrý deň, ahoj
+penser (nm, verb) /pɑ̃se/	myslieť
+nuit (nf) /nɥi/	noc
+merde (int, nf) /mɛʁd/	do riti, hovno
+papa (nm) /papa/	ocko, tato
+maman (nf) /mamɑ̃/	mama, mamička
+rester (verb) /ʁɛste/	zostať
+peur (nf) /pœʁ/	strach
+désolé (adj) /dezɔle/	ľúto mi je, prepáč
+salut (int, nm) /saly/	ahoj, čau; pozdrav, spása
+seul (adj) /sœl/	sám, jediný
+arriver (verb) /aʁive/	prísť, stať sa
+vite (adv) /vit/	rýchlo
+prendre (verb) /pʁɑ̃dʁ/	vziať, zobrať
+regarder (verb) /ʁəɡaʁde/	pozerať, sledovať
+soit (adv, conj) /swa/	buď... alebo; teda
+air (nm) /ɛʁ/	vzduch, výraz, vzhľad
+passer (verb) /pase/	prejsť, ísť, stráviť
+trois (det, num) /tʁwa/	tri
+plaire (verb) /plɛʁ/	páčiť sa
+chose (adj(f), nf) /ʃoz/	vec
+fil (nm) /fil/	niť, drôt
+ah (int) /a/	ach, á
+bas (adv, nm&f, adj[pl], nm[pl]) /ba/	nízky; spodok; pančucha
+moins (adj(i)[pl], adv, nm[pl], prep) /mwɛ̃/	menej
+entre (prep) /ɑ̃tʁ/	medzi
+passe (nf, adj, prep) /pas/	priesmyk, priepustka; minulý
+demain (adv, nm) /dəmɛ̃/	zajtra
+appeler (verb) /aple/	volať, zavolať
+grand (adv, nm/f, adj) /ɡʁɑ̃/	veľký, vysoký
+tête (nf) /tɛt/	hlava
+arrêter (verb) /aʁete/	zastaviť, zatknúť, prestať
+hein (int) /ɛ̃/	však, čo, hm
+attendre (verb) /atɑ̃dʁ/	čakať
+raison (nf) /ʁɛzɔ̃/	rozum, dôvod
+enfant (nm, nf, adj(f)) /ɑ̃fɑ̃/	dieťa
+assez (adv) /ase/	dosť, dostatočne
+moment (nm) /mɔmɑ̃/	chvíľa, moment
+amour (nm) /amuʁ/	láska
+heure (nf) /œʁ/	hodina
+puis (adv) /pɥi/	potom
+tard (adv) /taʁ/	neskoro
+tuer (verb) /tɥe/	zabiť
+eh (int) /e/	hej, eh
+ami (nm/f, adj) /ami/	priateľ, kamarát
+partir (verb) /paʁtiʁ/	odísť, odcestovať
+connaître (verb) /kɔnɛtʁ/	poznať, vedieť
+aider (verb) /ede/	pomôcť, pomáhať
+gars (nm[pl]) /ɡa/	chlapík, chalan
+chance (nf) /ʃɑ̃s/	šťastie; šanca
+combien (adv, conj) /kɔ̃bjɛ̃/	koľko
+tant (adv) /tɑ̃/	toľko, tak veľmi
+part (nf) /paʁ/	časť, podiel
+voiture (nf) /vwatyʁ/	auto
+problème (nm) /pʁɔblɛm/	problém
+coup (nm) /ku/	úder, rana, ťah
+porte (nf) /pɔʁt/	dvere
+travail (nm) /tʁavaj/	práca
+famille (nf) /famij/	rodina
+sens (nm[pl]) /sɑ̃s/	zmysel, význam, smer
+putain (nf) /pytɛ̃/	kurva; do kelu
+idée (nf) /ide/	nápad, myšlienka
+ni (conj, adv) /ni/	ani
+contre (adv, nm, prep) /kɔ̃tʁ/	proti
+revoir (verb) /ʁəvwaʁ/	znova vidieť, zopakovať si
+entendre (verb) /ɑ̃tɑ̃dʁ/	počuť, rozumieť
+comprendre (verb) /kɔ̃pʁɑ̃dʁ/	rozumieť, pochopiť
+pendre (verb) /pɑ̃dʁ/	visieť, obesiť
+trouver (verb) /tʁuve/	nájsť
+vieux (adj[pl], nm[pl]) /vjø/	starý
+attention (nf) /atɑ̃sjɔ̃/	pozornosť, pozor
+demander (verb) /dəmɑ̃de/	žiadať, pýtať sa
+chercher (verb) /ʃɛʁʃe/	hľadať
+sous (prep) /su/	pod
+voici (prep) /vwasi/	tu je, tu sú, toto je
+sang (nm) /sɑ̃/	krv
+histoire (nf) /istwaʁ/	história, príbeh
+sortir (verb) /sɔʁtiʁ/	vyjsť, odísť, chodiť von
+question (nf) /kɛstjɔ̃/	otázka
+frère (nm) /fʁɛʁ/	brat
+ville (nf) /vil/	mesto
+finir (verb) /finiʁ/	skončiť, dokončiť
+nouveau (adj, nm) /nuvo/	nový
+eux (pron) /ø/	oni, ich
+truc (nm) /tʁyk/	vec, trik
+tenir (verb) /təniʁ/	držať
+œil (nm) /œj/	oko
+moi (nm, pron) /mwa/	ja, mňa, mne
+laisser (verb) /lese/	nechať, opustiť
+mec (nm) /mɛk/	chlap, frajer
+longtemps (adv) /lɔ̃tɑ̃/	dlho
+beau (adj, nm) /bo/	pekný, krásny
+police (nf) /pɔlis/	polícia
+seulement (adv) /sœlmɑ̃/	iba, len
+importer (verb) /ɛ̃pɔʁte/	dovážať; záležať
+eau (nf) /o/	voda
+car (conj, nm) /kaʁ/	pretože, lebo
+super (adj(i), nm) /sypɛʁ/	super, skvelý
+chaque (det, adj) /ʃak/	každý
+cas (nm[pl]) /ka/	prípad
+terre (nf) /tɛʁ/	zem, svet, pôda
+placer (verb) /plase/	umiestniť, položiť
+main (nf) /mɛ̃/	ruka
+ensemble (adv, nm) /ɑ̃sɑ̃bl/	spolu; celok, súbor
+type (nm) /tip/	typ; chlapík
+pardon (nm) /paʁdɔ̃/	prepáčte; odpustenie
+vers (nm[pl], prep) /vɛʁ/	k, smerom k; verš
+aucun (det, adj, pron) /okœ̃/	žiadny, nijaký
+guerre (nf) /ɡɛʁ/	vojna
+suite (nf) /sɥit/	pokračovanie, následok, zvyšok
+prier (verb) /pʁije/	modliť sa, prosiť
+devant (adv, nm, prep) /dəvɑ̃/	pred, vpredu
+arrivé (adj) /aʁive/	prišiel, príchod
+mettre (verb) /mɛtʁ/	dať, položiť, obliecť si
+matin (nm) /matɛ̃/	ráno
+aide (nm, nf) /ɛd/	pomoc
+dessus (adv, nm[pl], prep) /dəsy/	navrchu, na tom, hore
+genre (nm) /ʒɑ̃ʁ/	druh, typ, žáner
+fin (adj, adv, nf, nm) /fɛ̃/	koniec; jemný, bystrý
+perdre (verb) /pɛʁdʁ/	stratiť, prehrať
+jeune (nmf adj(f)) /ʒœn/	mladý
+chéri (noun, adj) /ʃeʁi/	miláčik, drahý
+premier (det, nm&f, adj) /pʁəmje/	prvý
+donner (verb) /dɔne/	dať, darovať
+droit (adj, adv, nm) /dʁwa/	právo; rovný, pravý
+côté (nf) /kote/	strana, bok
+chambre (nf) /ʃɑ̃bʁ/	izba, spálňa, komora
+loin (adv, nm) /lwɛ̃/	ďaleko
+feu (adj(f), nm) /fø/	oheň
+jouer (verb) /ʒwe/	hrať sa, hrať
+train (nm) /tʁɛ̃/	vlak
+gros (adv, nm, adj[pl]) /ɡʁo/	veľký, hrubý, tučný
+compter (verb) /kɔ̃te/	počítať, rátať
+mourir (verb) /muʁiʁ/	zomrieť
+dernier (nm&f, adj) /dɛʁnje/	posledný
+minute (nf) /minyt/	minúta
+mari (nm) /maʁi/	manžel
+enfin (adv) /ɑ̃fɛ̃/	konečne, napokon
+madame (nf) /madam/	pani, madam
+façon (nf) /fasɔ̃/	spôsob
+film (nm) /film/	film
+fort (adv, adj, nm) /fɔʁ/	silný; veľmi
+écoute (nf) /ekut/	počúvanie
+pays (nm[pl]) /pei/	krajina
+affaire (nf, adj) /afɛʁ/	vec, záležitosť, obchod
+endroit (nm) /ɑ̃dʁwa/	miesto
+corps (nm[pl]) /kɔʁ/	telo
+fou (adj, nm) /fu/	šialený, blázon
+vivre (nm, verb) /vivʁ/	žiť
+prêt (adj, nm) /pʁɛ/	pripravený; pôžička
+dont (pron) /dɔ̃/	ktorého, o ktorom
+espérer (verb) /ɛspeʁe/	dúfať
+cause (nf) /koz/	príčina
+point (adv, nm) /pwɛ̃/	bod, bodka
+dehors (adv, nm[pl], prep) /dəɔʁ/	vonku
+hier (adv) /ijɛʁ/	včera
+boulot (adj, nm) /bulo/	robota, práca
+garçon (nm) /ɡaʁsɔ̃/	chlapec; čašník
+près (adv, prep) /pʁɛ/	blízko
+cinq (det, nm[pl]) /sɛ̃k/	päť
+chef (nm) /ʃɛf/	šéf, vedúci
+ainsi (adv) /ɛ̃si/	tak, takto
+haut (adv, adj) /o/	vysoký; vrch, hore
+celui (pron) /səlɥi/	ten, tento
+bébé (nmf, adj(f)) /bebe/	bábätko
+possible (adj(f)) /pɔsibl/	možný
+école (nf) /ekɔl/	škola
+plein (adv, nm, adj, prep) /plɛ̃/	plný
+année (nf) /ane/	rok
+manger (nm, verb) /mɑ̃ʒe/	jesť
+docteur (nm) /dɔktœʁ/	lekár, doktor
+tour (nm, nf) /tuʁ/	veža; kolo, obrat; okružná cesta
+quatre (det, num) /katʁ/	štyri
+plutôt (adv) /plyto/	skôr, radšej
+marcher (verb) /maʁʃe/	kráčať, chodiť; fungovať
+semaine (nf) /səmɛn/	týždeň
+vérité (nf) /veʁite/	pravda
+envier (verb) /ɑ̃vje/	závidieť
+capitaine (nm) /kapitɛn/	kapitán
+affaire (nf) /afɛʁ/	obchod, záležitosť
+bientôt (adv) /bjɛ̃to/	čoskoro
+instant (adj, nm) /ɛ̃stɑ̃/	okamih, chvíľa
+essayer (verb) /eseje/	skúsiť, vyskúšať
+tellement (adv) /tɛlmɑ̃/	tak veľmi
+derrière (adv, nm, prep) /dɛʁjɛʁ/	vzadu, za; zadok
+tomber (verb) /tɔ̃be/	padnúť, spadnúť
+presque (adv) /pʁɛsk/	takmer, skoro
+meilleur (nmf, adj, adv) /mɛjœʁ/	lepší, najlepší
+numéro (nm) /nymeʁo/	číslo
+journée (nf) /ʒuʁne/	deň
+dollar (nm) /dɔlaʁ/	dolár
+confiance (nf) /kɔ̃fjɑ̃s/	dôvera
+garde (nm, nf) /ɡaʁd/	stráž, ochrana
+souvenir (nm, verb) /suvəniʁ/	spomienka; spomenúť si
+dur (adv, nm&f, adj) /dyʁ/	tvrdý, ťažký
+bureau (nm) /byʁo/	kancelária, stôl
+abord (nm) /abɔʁ/	prístup, okolie
+important (nm, adj) /ɛ̃pɔʁtɑ̃/	dôležitý
+ben (adv) /bɛ̃/	no, nuž
+peiner (verb) /pene/	namáhať sa, trápiť
+cours (nfpl, nm[pl]) /kuʁ/	kurz, hodina, priebeh
+seigneur (nm) /sɛɲœʁ/	pán, Pán
+suffire (verb) /syfiʁ/	stačiť
+route (nf) /ʁut/	cesta
+cul (nm) /ky/	zadok, riť
+minute (nf) /minyt/	minúta
+bonsoir (nm) /bɔ̃swaʁ/	dobrý večer
+jeu (nm) /ʒø/	hra
+ferme (adj) /fɛʁm/	pevný, zatvorený; farma
+plaisir (nm) /pleziʁ/	potešenie, radosť
+heureux (adj[pl]) /øʁø/	šťastný
+mot (nm) /mo/	slovo
+musique (nf) /myzik/	hudba
+chien (nm) /ʃjɛ̃/	pes
+messieurs (nmpl) /mesjø/	páni
+calme (nm, adj(f)) /kalm/	pokoj, kľud; pokojný
+parent (nm&f, adj) /paʁɑ̃/	rodič, príbuzný
+dedans (adv, nm[pl], prep) /dədɑ̃/	vnútri, dnu
+mariage (nm) /maʁjaʒ/	manželstvo, svadba
+entrer (verb) /ɑ̃tʁe/	vstúpiť, vojsť
+rentrer (verb) /ʁɑ̃tʁe/	vrátiť sa, vojsť
+lit (nm) /li/	posteľ
+autant (adv) /otɑ̃/	toľko, rovnako
+revenir (verb) /ʁəvəniʁ/	vrátiť sa
+parfait (nm, adj, int) /paʁfɛ/	dokonalý
+cœur (nm) /kœʁ/	srdce
+ceci (pron) /səsi/	toto
+service (nm) /sɛʁvis/	služba, láskavosť
+téléphoner (verb) /telefɔne/	telefonovať, zavolať
+pauvre (nmf, adj(f)) /povʁ/	chudobný, úbohý
+mademoiselle (nf) /madmwazɛl/	slečna
+drôle (adj(f), nm) /dʁol/	vtipný, zvláštny
+parfois (adv) /paʁfwa/	niekedy
+retour (nm) /ʁətuʁ/	návrat
+verre (nm) /vɛʁ/	pohár, sklo
+six (det, num) /sis/	šesť
+ci (adv, pron) /si/	tento, tu
+impossible (nm, adj(f)) /ɛ̃pɔsibl/	nemožný
+payer (verb) /peje/	platiť, zaplatiť
+facile (adj(f)) /fasil/	ľahký, jednoduchý
+maître (nm) /mɛtʁ/	majster, pán, učiteľ
+mauvais (adv, nm, adj[pl]) /movɛ/	zlý, nesprávny
+général (nm, adj) /ʒeneʁal/	generál; všeobecný
+doute (nm) /dut/	pochybnosť
+prison (nf) /pʁizɔ̃/	väzenie
+adorer (verb) /adɔʁe/	zbožňovať, uctievať
+faute (nf) /fot/	chyba, vina
+oublier (verb) /ublije/	zabudnúť
+bras (nm[pl]) /bʁa/	rameno, ruka
+exactement (adv) /ɛɡzaktəmɑ̃/	presne
+fêter (verb) /fete/	oslavovať
+café (nm) /kafe/	káva, kaviareň
+gentil (adj) /ʒɑ̃ti/	milý, láskavý
+valoir (verb) /valwaʁ/	mať hodnotu, stáť
+lieu (nm) /ljø/	miesto
+malade (nmf, adj(f)) /malad/	chorý; pacient
+changer (verb) /ʃɑ̃ʒe/	zmeniť
+roi (nm) /ʁwa/	kráľ
+commencer (verb) /kɔmɑ̃se/	začať
+président (nm) /pʁezidɑ̃/	prezident
+travailler (verb) /tʁavaje/	pracovať
+partout (adv) /paʁtu/	všade
+cher (adj, adv) /ʃɛʁ/	drahý, milý
+rendre (verb) /ʁɑ̃dʁ/	vrátiť, urobiť (akým), odovzdať
+écrire (verb) /ekʁiʁ/	písať
+équipe (nf) /ekip/	tím, družstvo
+sinon (conj) /sinɔ̃/	inak, ináč
+esprit (nm) /ɛspʁi/	duch, myseľ
+plan (adj, nm) /plɑ̃/	plán, rovina
+montrer (verb) /mɔ̃tʁe/	ukázať
+boire (nm, verb) /bwaʁ/	piť
+propre (nm, adj(f)) /pʁɔpʁ/	vlastný; čistý
+état (nm) /eta/	stav, štát
+bois (nm[pl]) /bwa/	drevo, les
+essayer (verb) /eseje/	skúsiť
+dès (prep) /dɛ/	od, hneď ako
+sembler (verb) /sɑ̃ble/	zdať sa
+dix (det, num) /dis/	desať
+génial (adj) /ʒenjal/	geniálny, skvelý
+sécurité (nf) /sekyʁite/	bezpečnosť
+tôt (adj(i), adv) /to/	skoro, zavčasu
+rêver (verb) /ʁeve/	snívať
+armer (verb) /aʁme/	ozbrojiť
+avis (nm[pl]) /avi/	názor, oznámenie
+surtout (adv, nm) /syʁtu/	hlavne, najmä
+difficile (adj(f)) /difisil/	ťažký, náročný
+dormir (verb) /dɔʁmiʁ/	spať
+ensuite (adv) /ɑ̃sɥit/	potom, ďalej
+pire (adj(f), nm) /piʁ/	horší, najhorší
+simple (adj(f)) /sɛ̃pl/	jednoduchý
+paix (nf[pl]) /pɛ/	mier, pokoj
+sujet (nm) /syʒɛ/	téma, predmet
+retard (nm) /ʁətaʁ/	meškanie, oneskorenie
+livre (nm, nf) /livʁ/	kniha; libra
+apprendre (verb) /apʁɑ̃dʁ/	učiť sa, dozvedieť sa
+sale (adj(f)) /sal/	špinavý
+souvent (adv) /suvɑ̃/	často
+sauf (adj, prep) /sof/	okrem; v bezpečí
+choix (nm[pl]) /ʃwa/	výber, voľba
+sûrement (adv) /syʁmɑ̃/	určite, iste
+or (conj, nm) /ɔʁ/	zlato; nuž, avšak
+visage (nm) /vizaʒ/	tvár
+ordre (nm) /ɔʁdʁ/	poriadok, rozkaz, poradie
+noir (nmf adj) /nwaʁ/	čierny; černoch
+dîner (nm, verb) /dine/	večera; večerať
+âge (nm) /aʒ/	vek
+chemin (nm) /ʃəmɛ̃/	cesta, chodník
+bouillir (verb) /bujiʁ/	vrieť, variť
+face (nf) /fas/	tvár, predná strana
+rue (nf) /ʁy/	ulica
+inquiet (adj) /ɛ̃kjɛ/	znepokojený, ustarostený
+photo (nf) /fɔto/	fotka, fotografia
+sérieux (nm, adj[pl]) /seʁjø/	vážny; vážnosť
+ciel (nm) /sjɛl/	nebo, obloha
+honneur (nm) /ɔnœʁ/	česť
+force (adv, nf) /fɔʁs/	sila
+garder (verb) /ɡaʁde/	nechať si, strážiť
+tirer (verb) /tiʁe/	ťahať, strieľať
+million (nm) /miljɔ̃/	milión
+grave (adv, adj(f), nm) /ɡʁav/	vážny, závažný
+voix (nf[pl]) /vwa/	hlas
+courant (adj, nm) /kuʁɑ̃/	prúd; bežný
+propos (nm[pl]) /pʁɔpo/	výrok, poznámka; o (čom)
+bateau (nm) /bato/	loď, čln
+con (adj, nmf) /kɔ̃/	hlupák, sprostý
+gauche (nf, adj(f)) /ɡoʃ/	ľavý, ľavica
+content (adj) /kɔ̃tɑ̃/	spokojný, rád
+prix (nm[pl]) /pʁi/	cena
+rouge (nm, adj(f)) /ʁuʒ/	červený
+faim (nf) /fɛ̃/	hlad
+avion (nm) /avjɔ̃/	lietadlo
+devenir (nm, verb) /dəvəniʁ/	stať sa
+prochain (adj, nm) /pʁɔʃɛ̃/	budúci, ďalší; blížny
+acheter (verb) /aʃte/	kúpiť
+voyage (nm) /vwajaʒ/	cesta, výlet
+sorte (nf) /sɔʁt/	druh
+long (adv, adj, nm) /lɔ̃/	dlhý; dĺžka
+espèce (nf) /ɛspɛs/	druh
+idiot (nmf, adj) /idjo/	idiot, hlupák; hlúpy
+gueule (nf) /ɡœl/	papuľa, huba
+début (nm) /deby/	začiatok
+bouger (verb) /buʒe/	hýbať sa, pohnúť
+continu (adj) /kɔ̃tiny/	nepretržitý, súvislý
+hôpital (nm) /ɔpital/	nemocnica
+grâce (nf) /ɡʁas/	vďaka, milosť
+message (nm) /mesaʒ/	správa, odkaz
+certain (adj, det, nm, pron) /sɛʁtɛ̃/	istý, určitý
+patron (nm) /patʁɔ̃/	šéf, majiteľ
+recevoir (verb) /ʁəsəvwaʁ/	dostať, prijať
+ouvrir (verb) /uvʁiʁ/	otvoriť
+promettre (verb) /pʁɔmɛtʁ/	sľúbiť
+oncle (nm) /ɔ̃kl/	strýko, ujo
+euh (int) /ø/	ehm, hm
+bienvenue (nf, adj) /bjɛ̃vəny/	vitajte
+occuper (verb) /ɔkype/	zaberať, obsadiť; postarať sa
+camp (nm) /kɑ̃/	tábor
+manquer (verb) /mɑ̃ke/	chýbať, zmeškať
+soleil (nm) /sɔlɛj/	slnko
+cheveu (nm) /ʃəvø/	vlas
+arme (adj) /aʁm/	zbraň
+salle (nf) /sal/	sála, miestnosť
+bizarre (adj(f)) /bizaʁ/	zvláštny, čudný
+gagner (verb) /ɡaɲe/	vyhrať, zarobiť
+fondre (verb) /fɔ̃dʁ/	topiť sa, roztopiť
+sauver (verb) /sove/	zachrániť
+pièce (nf) /pjɛs/	kus, časť; izba; divadelná hra
+erreur (nf) /eʁœʁ/	chyba, omyl
+ailleurs (adv) /ajœʁ/	inde
+rapport (nm) /ʁapɔʁ/	vzťah, správa
+froid (nm, adj) /fʁwa/	studený; zima
+scène (nf) /sɛn/	scéna, javisko
+secret (nm, adj) /səkʁɛ/	tajomstvo; tajný
+sac (nm) /sak/	taška, vrece
+second (adj, det, nm) /səɡɔ̃/	druhý
+cru (adj) /kʁy/	surový; víno (ročník)
+allô (conj) /alo/	haló
+battre (verb) /batʁ/	biť, poraziť
+hôtel (nm) /otɛl/	hotel
+soirée (nf) /swaʁe/	večer, večierok
+sœur (nf) /sœʁ/	sestra
+pied (nm) /pje/	noha, chodidlo
+carte (nf) /kaʁt/	karta, mapa
+joli (adj) /ʒɔli/	pekný
+groupe (nm) /ɡʁup/	skupina
+monter (verb) /mɔ̃te/	vystúpiť, ísť hore, zostaviť
+agent (nm, nf) /aʒɑ̃/	agent, úradník
+effet (nm) /efɛ/	účinok, efekt
+libre (adj(f)) /libʁ/	voľný, slobodný
+foutre (verb, nm) /futʁ/	jebať, kašľať na
+bordel (nm) /bɔʁdɛl/	bordel, neporiadok
+neuf (det, adj, ni) /nœf/	deväť; nový
+faux (adv, adj[pl], nm[pl], nf[pl]) /fo/	nepravdivý, falošný; kosa
+situation (nf) /sitɥasjɔ̃/	situácia
+taire (verb) /tɛʁ/	mlčať
+lumière (nf) /lymjɛʁ/	svetlo
+debout (adv) /dəbu/	stojaci, postojačky
+Noël (nm) /nɔɛl/	Vianoce
+cheval (nm) /ʃəval/	kôň
+intérieur (nm adj) /ɛ̃teʁjœʁ/	vnútro, interiér
+écouter (verb) /ekute/	počúvať
+loi (nf) /lwa/	zákon
+incroyable (adj(f)) /ɛ̃kʁwajabl/	neuveriteľný
+lettre (nf) /lɛtʁ/	list, písmeno
+présent (nm, adj) /pʁezɑ̃/	prítomný; súčasnosť
+absolument (adv) /apsɔlymɑ̃/	absolútne, úplne
+dame (int, nf) /dam/	dáma, pani
+professeur (nm, nf) /pʁɔfesœʁ/	profesor, učiteľ
+fric (nm) /fʁik/	prachy, peniaze
+retrouver (verb) /ʁətʁuve/	znovu nájsť, stretnúť sa
+coin (nm) /kwɛ̃/	roh, kút
+table (nf) /tabl/	stôl
+colonel (nm) /kɔlɔnɛl/	plukovník
+âme (nf) /am/	duša
+dos (nm[pl]) /do/	chrbát
+magnifique (adj(f)) /maɲifik/	nádherný
+rencontrer (verb) /ʁɑ̃kɔ̃tʁe/	stretnúť
+réussir (verb) /ʁeysiʁ/	uspieť, podariť sa
+rappeler (verb) /ʁaple/	pripomenúť, zavolať späť
+tranquille (adj(f)) /tʁɑ̃kil/	pokojný, tichý
+chaud (adv, nm, adj) /ʃo/	teplý, horúci
+agir (verb) /aʒiʁ/	konať
+doucement (adv) /dusmɑ̃/	jemne, potichu, pomaly
+pareil (adj, nm) /paʁɛj/	rovnaký, podobný
+accident (nm) /aksidɑ̃/	nehoda
+appel (nm) /apɛl/	hovor, volanie
+anniversaire (nm, adj(f)) /anivɛʁsɛʁ/	narodeniny, výročie
+blanc (adj, nm) /blɑ̃/	biely
+risque (nm) /ʁisk/	riziko
+moyen (adj, nm) /mwajɛ̃/	prostriedok, spôsob; priemerný
+terminer (verb) /tɛʁmine/	ukončiť, dokončiť
+complètement (adv) /kɔ̃plɛtmɑ̃/	úplne
+clair (adv, adj) /klɛʁ/	jasný, svetlý
+meurtre (nm) /mœʁtʁ/	vražda
+toucher (nm, verb) /tuʃe/	dotknúť sa
+dejeuner (nm, verb) /dəʒœne/	obed; obedovať
+envoyer (verb) /ɑ̃vwaje/	poslať
+lire (nf, verb) /liʁ/	čítať; líra
+avance (nf) /avɑ̃s/	náskok, záloha
+detester (verb) /dətɛste/	nenávidieť
+forme (nf) /fɔʁm/	forma, tvar
+bord (nm) /bɔʁ/	okraj, breh
+decider (verb) /dəside/	rozhodnúť
+mer (nf) /mɛʁ/	more
+medecin (nm) /mədsɛ̃/	lekár
+midi (nm) /midi/	poludnie
+porter (nm, verb) /pɔʁte/	nosiť, niesť
+ignorer (verb) /iɲɔʁe/	nevedieť, ignorovať
+silence (nm) /silɑ̃s/	ticho
+diable (int, nm) /djabl/	diabol
+cadeau (nm) /kado/	darček
+supposer (verb) /sypoze/	predpokladať
+flic (nm, nf) /flik/	policajt, poliš
+avocat (nm) /avɔka/	advokát; avokádo
+jurer (verb) /ʒyʁe/	prisahať
+anglais (nm, adj[pl]) /ɑ̃ɡlɛ/	anglický; angličtina
+sept (det, num) /sɛt/	sedem
+moitié (nf) /mwatje/	polovica
+surprendre (verb) /syʁpʁɑ̃dʁ/	prekvapiť
+chacun (pron) /ʃakœ̃/	každý
+exact (adj) /ɛɡzakt/	presný, správny
+commander (verb) /kɔmɑ̃de/	objednať, prikázať
+télé (nf) /tele/	telka
+autour (adv, nm) /otuʁ/	okolo
+disparaître (verb) /dispaʁɛtʁ/	zmiznúť
+ligne (nf) /liɲ/	čiara, riadok, linka
+expliquer (verb) /ɛksplike/	vysvetliť
+arrivée (nf) /aʁive/	príchod
+simplement (adv) /sɛ̃pləmɑ̃/	jednoducho
+mission (nf) /misjɔ̃/	misia, poslanie
+balle (nf) /bal/	lopta, guľka
+quitter (verb) /kite/	opustiť, odísť
+selon (prep) /səlɔ̃/	podľa
+classe (nf) /klas/	trieda
+pari (nm) /paʁi/	stávka
+peuple (nm) /pœpl/	národ, ľud
+habitude (nf) /abityd/	zvyk
+voie (nf) /vwa/	cesta, koľaj, pruh
+dangereux (adj[pl]) /dɑ̃ʒʁø/	nebezpečný
+pote (nm) /pɔt/	kamoš
+contrôle (nm) /kɔ̃tʁol/	kontrola
+honte (nf) /ɔ̃t/	hanba
+impression (nf) /ɛ̃pʁesjɔ̃/	dojem, tlač
+fou (adj, nm) /fu/	šialený, blázon
+suivre (verb) /sɥivʁ/	nasledovať
+retourner (verb) /ʁətuʁne/	vrátiť sa, otočiť
+offrir (verb) /ɔfʁiʁ/	ponúknuť, darovať
+chanson (nf) /ʃɑ̃sɔ̃/	pieseň
+trou (nm) /tʁu/	diera
+arriere (adj(i), adv, nm) /aʁiʁ/	zadný; zadná časť
+poste (nm, nf) /pɔst/	miesto, pozícia; pošta
+huit (det, num) /ɥit/	osem
+radio (adj(i), nm, nf) /ʁadjo/	rádio
+ressembler (verb) /ʁəsɑ̃ble/	podobať sa
+attaque (nf) /atak/	útok
+baiser (nm, verb) /beze/	bozkať; bozk
+pourtant (adv) /puʁtɑ̃/	predsa, napriek tomu
+réponse (nf) /ʁepɔ̃s/	odpoveď
+connard (nm) /kɔnaʁ/	kretén
+pute (nf) /pyt/	kurva, prostitútka
+bande (nf) /bɑ̃d/	banda, páska, pruh
+enfer (nm) /ɑ̃fɛʁ/	peklo
+triste (adj(f)) /tʁist/	smutný
+tel (adj, det, pron) /tɛl/	taký
+bravo (int, nm) /bʁavo/	bravo
+plusieurs (det, adj, pron) /plyzjœʁ/	niekoľko
+exister (verb) /ɛɡziste/	existovať
+rire (nm, verb) /ʁiʁ/	smiať sa; smiech
+compagnie (nf) /kɔ̃paɲi/	spoločnosť
+étrange (adj(f)) /etʁɑ̃ʒ/	zvláštny, čudný
+exemple (nm) /ɛɡzɑ̃pl/	príklad
+combat (nm) /kɔ̃ba/	boj
+secours (nm[pl]) /səkuʁ/	pomoc, záchrana
+connerie (nf) /kɔnʁi/	blbosť, hlúposť
+visiter (verb) /vizite/	navštíviť
+coucher (nm, verb) /kuʃe/	ľahnúť si, spať; západ (slnka)
+imaginer (verb) /imaʒine/	predstaviť si
+merveilleux (adj[pl]) /mɛʁvɛjø/	úžasný, nádherný
+continuer (verb) /kɔ̃tinɥe/	pokračovať
+voler (verb) /vɔle/	kradnúť; lietať
+lune (nf) /lyn/	mesiac (na oblohe)
+bouche (nf) /buʃ/	ústa
+sud (adj(i), nm) /syd/	juh
+danser (verb) /dɑ̃se/	tancovať
+ennui (nm) /ɑ̃nɥi/	nuda, starosť, problém
+but (nm) /by/	cieľ, účel; gól
+hors (adv, prep) /ɔʁ/	mimo, okrem
+sortie (nf) /sɔʁti/	východ, výstup
+boîte (nf) /bwat/	škatuľa, krabica; klub
+vol (nm) /vɔl/	let; krádež
+public (nm, adj) /pyblik/	verejnosť, publikum; verejný
+lieutenant (nm) /ljøtnɑ̃/	poručík
+système (nm) /sistɛm/	systém
+époque (nf) /epɔk/	doba, obdobie
+bête (nf, adj(f)) /bɛt/	zviera; hlúpy
+vendre (verb) /vɑ̃dʁ/	predať
+avenir (nm) /avniʁ/	budúcnosť
+santé (nf) /sɑ̃te/	zdravie
+amoureux (nmf, adj[pl]) /amuʁø/	zamilovaný; milenec
+cuisine (nf) /kɥizin/	kuchyňa, varenie
+normal (adj) /nɔʁmal/	normálny
+danger (nm) /dɑ̃ʒe/	nebezpečenstvo
+gouvernement (nm) /ɡuvɛʁnəmɑ̃/	vláda
+village (nm) /vilaʒ/	dedina
+poser (verb) /poze/	položiť, (otázku) položiť
+ouvrir (verb) /uvʁiʁ/	otvoriť
+journal (nm) /ʒuʁnal/	noviny, denník
+approche (nf) /apʁɔʃ/	prístup, priblíženie
+dommage (nm) /dɔmaʒ/	škoda
+peau (nf) /po/	koža
+nez (nm[pl]) /ne/	nos
+servir (verb) /sɛʁviʁ/	slúžiť, podávať
+sympa (adj) /sɛ̃pa/	milý, sympatický
+mille (det, nm, num) /mil/	tisíc
+héros (nm[pl]) /eʁo/	hrdina
+banque (nf) /bɑ̃k/	banka
+clé (nf) /kle/	kľúč
+seconde (det, nf) /səɡɔ̃d/	sekunda
+nord (adj(i), nm) /nɔʁ/	sever
+inspecteur (nm) /ɛ̃spɛktœʁ/	inšpektor
+liberté (nf) /libɛʁte/	sloboda
+salaud (nm) /salo/	hajzel, sviňa
+cour (nf) /kuʁ/	dvor, súd
+juge (nm, nf) /ʒyʒ/	sudca
+terrible (adj(f)) /teʁibl/	hrozný, strašný
+paraître (verb) /paʁɛtʁ/	zdať sa, objaviť sa
+crime (nm) /kʁim/	zločin
+asseoir (verb) /aswaʁ/	sadnúť si
+thé (nm) /te/	čaj
+bonheur (nm) /bɔnœʁ/	šťastie
+tas (nm[pl]) /ta/	kopa, hromada
+travers (nm[pl]) /tʁavɛʁ/	cez, naprieč; nedostatok
+stupide (adj(f)) /stypid/	hlúpy
+blague (nf) /blaɡ/	vtip
+préférer (verb) /pʁefeʁe/	uprednostniť, mať radšej
+conseil (nm) /kɔ̃sɛj/	rada
+protéger (verb) /pʁɔteʒe/	chrániť
+rêve (nm) /ʁɛv/	sen
+pitié (nf) /pitje/	súcit, ľútosť
+vin (nm) /vɛ̃/	víno
+don (nm) /dɔ̃/	dar
+sol (nm) /sɔl/	zem, podlaha, pôda
+vent (nm) /vɑ̃/	vietor
+club (nm) /klœb/	klub
+gamin (nm) /ɡamɛ̃/	decko, chlapec
+tante (nf) /tɑ̃t/	teta
+bar (nm) /baʁ/	bar
+milieu (nm) /miljø/	stred, prostredie
+reine (nf) /ʁɛn/	kráľovná
+signer (verb) /siɲe/	podpísať
+centre (nm) /sɑ̃tʁ/	stred, centrum
+probablement (adv) /pʁɔbabləmɑ̃/	pravdepodobne
+bière (nf) /bjɛʁ/	pivo; rakva
+dingue (adj) /dɛ̃ɡ/	šialený, bláznivý
+inutile (adj(f)) /inytil/	zbytočný
+nul (adj, det, pron) /nyl/	nulový, mizerný; žiadny
+sentir (verb) /sɑ̃tiʁ/	cítiť, voňať
+différent (adj) /difeʁɑ̃/	odlišný, rôzny
+emmener (verb) /ɑ̃mne/	zobrať (so sebou), odviezť
+vêtement (nm) /vɛtmɑ̃/	oblečenie, odev
+liste (nf) /list/	zoznam
+unir (verb) /yniʁ/	zjednotiť, spojiť
+société (nf) /sɔsjete/	spoločnosť
+soin (nm) /swɛ̃/	starostlivosť
+pierre (nf) /pjɛʁ/	kameň
+utiliser (verb) /ytilize/	použiť, používať
+lequel (pron) /ləkɛl/	ktorý
+ficher (verb) /fiʃe/	kašľať na; zakladať do kartotéky
+parole (nf) /paʁɔl/	slovo, reč
+marier (verb) /maʁje/	oženiť sa, vydať sa
+départ (nm) /depaʁ/	odchod
+ennemi (nmf, adj) /ɛnmi/	nepriateľ
+spectacle (nm) /spɛktakl/	predstavenie, divadlo
+recherche (nf) /ʁəʃɛʁʃ/	výskum, hľadanie
+choisir (verb) /ʃwaziʁ/	vybrať si
+intérêt (nm) /ɛ̃teʁɛ/	záujem, úrok
+intéresser (verb) /ɛ̃teʁese/	zaujímať
+rôle (nm) /ʁol/	úloha, rola
+félicitations (nf) /felisitasjɔ̃/	blahoželanie, gratulujem
+descendre (verb) /desɑ̃dʁ/	zísť dole, vystúpiť
+tourner (verb) /tuʁne/	otáčať, točiť
+position (nf) /pozisjɔ̃/	pozícia, poloha
+blessé (adj, nmf) /blese/	zranený; ranený
+humain (nm, adj) /ymɛ̃/	ľudský; človek
+match (nm) /matʃ/	zápas
+coupable (nmf, adj(f)) /kupabl/	vinný
+environ (adv, prep, nm) /ɑ̃viʁɔ̃/	približne, asi; okolie
+art (nm) /aʁ/	umenie
+espoir (nm) /ɛspwaʁ/	nádej
+mur (nm) /myʁ/	stena, múr
+église (nf) /eɡliz/	kostol
+salope (nf) /salɔp/	štetka, mrcha
+beauté (nf) /bote/	krása
+lâche (adj) /laʃ/	zbabelý, uvoľnený; zbabelec
+adresser (verb) /adʁese/	adresovať, osloviť
+sauter (verb) /sote/	skákať, skočiť
+colère (nf) /kɔlɛʁ/	hnev
+directeur (nmf, adj) /diʁɛktœʁ/	riaditeľ
+adieu (int, nm) /adjø/	zbohom
+parier (verb) /paʁje/	staviť sa
+tort (nm) /tɔʁ/	krivda, chyba
+conduire (verb) /kɔ̃dɥiʁ/	viesť, šoférovať
+américain (adj, nm) /ameʁikɛ̃/	americký; Američan
+revenu (nm) /ʁəvəny/	príjem
+justice (nf) /ʒystis/	spravodlivosť
+soldat (nm) /sɔlda/	vojak
+expérience (nf) /ɛkspeʁjɑ̃s/	skúsenosť, pokus
+cerveau (nm) /sɛʁvo/	mozog
+fenêtre (nf) /fənɛtʁ/	okno
+quartier (nm) /kaʁtje/	štvrť
+prince (nm) /pʁɛ̃s/	princ
+riche (adj(f)) /ʁiʃ/	bohatý
+fleur (nf) /flœʁ/	kvet
+présenter (verb) /pʁezɑ̃te/	predstaviť, prezentovať
+presse (nf) /pʁɛs/	tlač
+ridicule (nm, adj(f)) /ʁidikyl/	smiešny
+preuve (nf) /pʁœv/	dôkaz
+épouser (verb) /epuze/	vziať si (za manžela/manželku)
+intéressant (adj) /ɛ̃teʁesɑ̃/	zaujímavý
+gosse (nm, nf) /ɡɔs/	decko
+rose (adj(f), nf) /ʁoz/	ružový; ruža
+nature (nf) /natyʁ/	príroda, povaha
+vide (adj(f), nm) /vid/	prázdny; prázdnota
+responsable (adj(f), nmf) /ʁɛspɔ̃sabl/	zodpovedný
+courage (nm) /kuʁaʒ/	odvaha
+capable (adj(f)) /kapabl/	schopný
+cinéma (nm) /sinema/	kino
+décision (nf) /desizjɔ̃/	rozhodnutie
+taxi (nm) /taksi/	taxík
+chanter (verb) /ʃɑ̃te/	spievať
+excuser (verb) /ɛkskyze/	ospravedlniť
+fier (adj, verb) /fjɛʁ/	hrdý; spoľahnúť sa
+deuxième (det, nm, nf) /døzjɛm/	druhý
+appartement (nm) /apaʁtəmɑ̃/	byt
+contact (nm) /kɔ̃takt/	kontakt
+cacher (verb) /kaʃe/	skryť
+répondre (verb) /ʁepɔ̃dʁ/	odpovedať
+manière (nf) /manjɛʁ/	spôsob
+jambe (nf) /ʒɑ̃b/	noha
+occasion (nf) /ɔkazjɔ̃/	príležitosť
+défense (nf) /defɑ̃s/	obrana; zákaz
+longue (adj) /lɔ̃ɡ/	dlhá
+jeter (verb) /ʒəte/	hodiť, vyhodiť
+formidable (adj(f)) /fɔʁmidabl/	úžasný, skvelý
+base (nf) /baz/	základ, báza
+glace (nf) /ɡlas/	ľad, zmrzlina; zrkadlo
+dent (nf) /dɑ̃/	zub
+parmi (prep) /paʁmi/	medzi
+immediatement (adv) /imdjatmɑ̃/	okamžite
+paie (nf) /pɛ/	výplata
+machine (nf) /maʃin/	stroj
+vacance (nf) /vakɑ̃s/	prázdniny, dovolenka
+monstre (nm adj(f)) /mɔ̃stʁ/	príšera, netvor
+tueur (nm) /tɥœʁ/	vrah
+naitre (verb) /nɛtʁ/	narodiť sa
+francais (nm, adj[pl]) /fʁɑ̃kɛ/	francúzsky; francúzština
+course (nf) /kuʁs/	preteky, beh; nákup
+majeste (nf) /maʒɛst/	veličenstvo
+mien (pron) /mjɛ̃/	môj
+type (nm) /tip/	typ; chlapík
+certainement (adv) /sɛʁtɛnmɑ̃/	určite, iste
+couper (verb) /kupe/	rezať, krájať
+ha (int) /a/	ha, och
+importance (nf) /ɛ̃pɔʁtɑ̃s/	dôležitosť
+ouest (adj(i), nm) /wɛst/	západ
+chat (nm) /ʃa/	mačka; čet
+degager (verb) /dəɡaʒe/	uvoľniť, vypadnúť
+chier (verb) /ʃje/	srať, otravovať
+ravir (verb) /ʁaviʁ/	nadchnúť, potešiť; uniesť
+joie (nf) /ʒwa/	radosť
+lorsque (conj) /lɔʁsk/	keď
+superbe (nf, adj(f)) /sypɛʁb/	nádherný, skvelý; pýcha
+bain (nm) /bɛ̃/	kúpeľ
+horrible (adj(f)) /ɔʁibl/	hrozný, strašný
+court (adj, adv, nm) /kuʁ/	krátky
+deranger (verb) /dəʁɑ̃ʒe/	rušiť, obťažovať
+bombe (nf) /bɔ̃b/	bomba
+ramener (verb) /ʁamne/	priviesť späť, vrátiť
+realite (nf) /ʁilit/	realita, skutočnosť
+enqueter (verb) /ɑ̃kte/	vyšetrovať
+camion (nm) /kamjɔ̃/	nákladné auto
+signifier (verb) /siɲifje/	znamenať
+cent (det, nm) /sɑ̃/	sto; cent
+rencontre (nm) /ʁɑ̃kɔ̃tʁ/	stretnutie
+excellent (adj) /ɛksɛlɑ̃/	vynikajúci
+respect (nm) /ʁɛspɛ/	rešpekt, úcta
+terrain (nm) /teʁɛ̃/	terén, pozemok, ihrisko
+projet (nm) /pʁɔʒɛ/	projekt
+eviter (verb) /əvite/	vyhnúť sa
+poisson (nm) /pwasɔ̃/	ryba
+plupart /plypaʁ/	väčšina
+joyeux (adj[pl]) /ʒwajø/	veselý, radostný
+empecher (verb) /ɑ̃pʃe/	zabrániť
+envers (nm[pl], prep) /ɑ̃vɛʁ/	voči, k; rub
+kilometre (nm) /kilɔmɛtʁ/	kilometer
+ange (nm) /ɑ̃ʒ/	anjel
+copine (nf) /kɔpin/	priateľka, kamarátka
+chaussure (nf) /ʃosyʁ/	topánka
+dossier (nm) /dosje/	zložka, spis; operadlo
+règle (adj) /ʁɛɡl/	pravidelný, usporiadaný; pravidlo
+animal (nm, adj) /animal/	zviera
+langue (nf) /lɑ̃ɡ/	jazyk
+imbécile (adj, nf) /ɛ̃besil/	hlupák, idiot
+princesse (nf) /pʁɛ̃sɛs/	princezná
+zone (nf) /zon/	zóna, oblasť
+droguer (verb) /dʁɔɡe/	drogovať, omámiť
+charge (nf) /ʃaʁʒ/	náklad, poplatok, obvinenie
+enfoiré (nm) /ɑ̃fwaʁe/	hajzel
+nourriture (nf) /nuʁityʁ/	jedlo, potrava
+pont (nm) /pɔ̃/	most
+refuser (verb) /ʁəfyze/	odmietnuť
+contraire (nm, adj(f)) /kɔ̃tʁɛʁ/	opačný; opak
+enchanter (verb) /ɑ̃ʃɑ̃te/	očariť, potešiť
+douleur (nf) /dulœʁ/	bolesť
+politique (nm, nf, adj(f)) /pɔlitik/	politika, politik; politický
+fait (adj, nm) /fɛ/	urobený; fakt
+magasin (nm) /maɡazɛ̃/	obchod
+entier (nm, adj) /ɑ̃tje/	celý
+chapeau (nm) /ʃapo/	klobúk
+raconter (verb) /ʁakɔ̃te/	rozprávať, vyrozprávať
+discuter (verb) /diskyte/	diskutovať, debatovať
+papier (nm) /papje/	papier
+action (nf) /aksjɔ̃/	čin, akcia
+permettre (verb) /pɛʁmɛtʁ/	dovoliť, umožniť
+rapide (adj(f), nm) /ʁapid/	rýchly; rýchlik
+frais (adj[pl], adv, nm[pl]) /fʁɛ/	čerstvý, chladný; náklady
+réunion (nf) /ʁeynjɔ̃/	stretnutie, porada
+île (nf) /il/	ostrov
+toilette (nf) /twalɛt/	toaleta, WC
+coder (verb) /kɔde/	kódovať
+opération (nf) /ɔpeʁasjɔ̃/	operácia
+spécial (adj) /spesjal/	špeciálny, zvláštny
+planète (nf) /planɛt/	planéta
+champ (nm) /ʃɑ̃/	pole
+couleur (nf) /kulœʁ/	farba
+pain (nm) /pɛ̃/	chlieb
+destin (nm) /dɛstɛ̃/	osud
+découvrir (verb) /dekuvʁiʁ/	objaviť, zistiť
+puisque (conj) /pɥisk/	keďže
+tailler (verb) /taje/	strihať, orezať, vyrezať
+vaisseau (nm) /vɛso/	loď, plavidlo; cieva
+sexe (nm) /sɛks/	sex, pohlavie
+sacré (adj) /sakʁe/	posvätný
+repas (nm[pl]) /ʁəpa/	jedlo (chod)
+contrat (nm) /kɔ̃tʁa/	zmluva
+nécessaire (nm, adj(f)) /nesesɛʁ/	potrebný, nutný
+client (nm) /klijɑ̃/	klient, zákazník
+détruire (verb) /detʁɥiʁ/	zničiť
+lait (nm) /lɛ/	mlieko
+mémoire (nm, nf) /memwaʁ/	pamäť
+pleurer (verb) /plœʁe/	plakať
+copain (nm) /kɔpɛ̃/	kamarát, priateľ
+reste (nm) /ʁɛst/	zvyšok
+personnel (noun, adj) /pɛʁsɔnɛl/	osobný; personál
+doubler (verb) /duble/	zdvojnásobiť, predbehnúť; dabovať
+mignon (adj) /miɲɔ̃/	roztomilý
+couteau (nm) /kuto/	nôž
+témoin (nm) /temwɛ̃/	svedok
+foi (nf) /fwa/	viera
+remercier (verb) /ʁəmɛʁsje/	poďakovať
+direction (nf) /diʁɛksjɔ̃/	smer, vedenie
+malin (noun, adj) /malɛ̃/	bystrý, prefíkaný
+niveau (nm) /nivo/	úroveň
+remettre (verb) /ʁəmɛtʁ/	odovzdať, vrátiť späť, odložiť
+habiter (verb) /abite/	bývať
+apporter (verb) /apɔʁte/	priniesť
+procès (nm[pl]) /pʁɔsɛ/	súdny proces
+doux (adv, noun, adj[pl]) /du/	jemný, sladký, mäkký
+solution (nf) /sɔlysjɔ̃/	riešenie
+fermer (verb) /fɛʁme/	zatvoriť
+goût (nm) /ɡu/	chuť
+amuser (verb) /amyze/	zabávať
+différence (nf) /difeʁɑ̃s/	rozdiel
+stop (nm, int) /sto/	stop
+réfléchir (verb) /ʁefleʃiʁ/	premýšľať, rozmýšľať
+enceinte (adjf, nf) /ɑ̃sɛ̃t/	tehotná; reproduktor, ohrada
+université (nf) /ynivɛʁsite/	univerzita
+bleu (adj, nm) /blø/	modrý
+mètre (nm) /mɛtʁ/	meter
+marre (nf) /maʁ/	mať dosť
+mentir (verb) /mɑ̃tiʁ/	klamať
+courir (verb) /kuʁiʁ/	bežať
+arranger (verb) /aʁɑ̃ʒe/	zariadiť, upraviť
+officier (nm, nf, verb) /ɔfisje/	dôstojník; úradovať
+espace (nm, nf) /ɛspas/	priestor, vesmír
+sourire (nm, verb) /suʁiʁ/	úsmev; usmievať sa
+mérite (nm) /meʁit/	zásluha
+lettre (nf) /lɛtʁ/	list, písmeno
+accepter (verb) /aksɛpte/	prijať, akceptovať
+failli (adj) /faji/	skrachovaný; takmer (urobiť)
+angleterre (nf) /ɑ̃ɡlətɛʁ/	Anglicko
+vitesse (nf) /vitɛs/	rýchlosť
+jambe (nf) /ʒɑ̃b/	noha
+camera (nf) /kamʁa/	kamera
+arbre (nm) /aʁbʁ/	strom
+force (adv, nf) /fɔʁs/	sila
+trésor (nm) /tʁezɔʁ/	poklad
+victime (nf) /viktim/	obeť
+énergie (nf) /enɛʁʒi/	energia
+énorme (adj(f)) /enɔʁm/	obrovský
+appartenir (verb) /apaʁtəniʁ/	patriť
+préparer (verb) /pʁepaʁe/	pripraviť
+regretter (verb) /ʁəɡʁete/	ľutovať
+finalement (adv) /finalmɑ̃/	nakoniec, napokon
+inviter (verb) /ɛ̃vite/	pozvať
+moindre (adj(f)) /mwɛ̃dʁ/	menší, najmenší
+censé (adj) /sɑ̃se/	údajný, ktorý by mal
+image (nf) /imaʒ/	obrázok
+justement (adv) /ʒystəmɑ̃/	práve, presne
+enlever (verb) /ɑ̃lve/	odstrániť, vyzliecť
+chasse (nf) /ʃas/	lov, poľovačka; splachovanie
+unique (adj(f)) /ynik/	jedinečný, jediný
+arrêt (nm) /aʁɛ/	zastávka, zastavenie
+filer (verb) /file/	utekať, zdrhnúť; priasť
+balle (nf) /bal/	lopta, guľka
+dimanche (nm) /dimɑ̃ʃ/	nedeľa
+lycée (nm) /lise/	gymnázium, stredná škola
+fil (nm) /fil/	niť, drôt
+morceau (nm) /mɔʁso/	kúsok, kus
+durant (prep) /dyʁɑ̃/	počas
+casser (verb) /kase/	rozbiť, zlomiť
+doigt (nm) /dwa/	prst
+vérifier (verb) /veʁifje/	overiť, skontrolovať
+appareil (nm) /apaʁɛj/	prístroj, zariadenie
+piste (nf) /pist/	stopa, dráha
+troisième (det, nm, nf) /tʁwazjɛm/	tretí
+dépendre (verb) /depɑ̃dʁ/	závisieť
+programme (nm) /pʁɔɡʁam/	program
+honnête (adj(f)) /ɔnɛt/	čestný, poctivý
+voiture (nf) /vwatyʁ/	auto
+régler (verb) /ʁeɡle/	zaplatiť, nastaviť, vyriešiť
+aveugle (noun, adj(f)) /avœɡl/	slepý
+présence (nf) /pʁezɑ̃s/	prítomnosť
+crise (nf) /kʁiz/	kríza
+amener (verb) /amne/	priviesť
+interdire (verb) /ɛ̃tɛʁdiʁ/	zakázať
+lever (verb) /ləve/	zdvihnúť; vstať
+obtenir (verb) /ɔptəniʁ/	získať, dostať
+pluie (nf) /plɥi/	dážď
+récupérer (verb) /ʁekypeʁe/	získať späť, zotaviť sa
+prouver (verb) /pʁuve/	dokázať
+souris (nf[pl]) /suʁi/	myš
+restaurer (verb) /ʁɛstɔʁe/	obnoviť, nasýtiť
+regard (nm) /ʁəɡaʁ/	pohľad
+intention (nf) /ɛ̃tɑ̃sjɔ̃/	úmysel
+cou (nm) /ku/	krk
+proche (adv, noun, adj(f), prep) /pʁɔʃ/	blízky
+urgence (nf) /yʁʒɑ̃s/	naliehavosť, pohotovosť
+folie (nf) /fɔli/	šialenstvo
+ancien (adj, nm) /ɑ̃sjɛ̃/	starý, starodávny; bývalý
+relation (nf) /ʁəlasjɔ̃/	vzťah
+bouteille (nf) /butɛj/	fľaša
+étager (nm) /etaʒe/	poschodie
+rejoindre (verb) /ʁəʒwɛ̃dʁ/	pripojiť sa, dostihnúť
+cassé (adj) /kase/	zlomený, rozbitý
+jardin (nm) /ʒaʁdɛ̃/	záhrada
+malgré (prep) /malɡʁe/	napriek
+oiseau (nm) /wazo/	vták
+frappé (nf) /fʁape/	zasiahnutý, udretý
+nombre (nm) /nɔ̃bʁ/	počet, číslo
+sentiment (nm) /sɑ̃timɑ̃/	pocit, cit
+toit (nm) /twa/	strecha
+lors (adv) /lɔʁ/	počas, pri
+métier (nm) /metje/	povolanie, remeslo
+maladie (nf) /maladi/	choroba
+poche (nf) /pɔʃ/	vrecko
+frapper (verb) /fʁape/	udrieť, klopať
+succès (nm[pl]) /syksɛ/	úspech
+dessous (adv, nm[pl], prep) /dəsu/	spodok; pod
+théâtre (nm) /teatʁ/	divadlo
+chinois (noun, adj[pl]) /ʃinwa/	čínsky; čínština
+craindre (verb) /kʁɛ̃dʁ/	báť sa
+afin /afɛ̃/	aby
+gare (int, nf) /ɡaʁ/	stanica; pozor
+billet (nm) /bijɛ/	lístok, bankovka
+remarquer (verb) /ʁəmaʁke/	všimnúť si, poznamenať
+paradis (nm[pl]) /paʁadi/	raj
+étranger (noun, adj) /etʁɑ̃ʒe/	cudzinec; zahraničný, cudzí
+campagne (nf) /kɑ̃paɲ/	vidiek; kampaň
+alcool (nm) /alkɔl/	alkohol
+samedi (nm) /samdi/	sobota
+produire (verb) /pʁɔdɥiʁ/	vyrábať, produkovať
+répéter (verb) /ʁepete/	opakovať
+souhaiter (verb) /swete/	želať, priať si
+odeur (nf) /ɔdœʁ/	pach, vôňa
+vôtre (det) /votʁ/	váš
+attendant (adv) /atɑ̃dɑ̃/	medzitým
+montagne (nf) /mɔ̃taɲ/	hora
+fantastique (noun, adj(f)) /fɑ̃tastik/	fantastický, úžasný
+victoire (nf) /viktwaʁ/	víťazstvo
+carrière (nf) /kaʁjɛʁ/	kariéra; lom
+fatiguer (verb) /fatiɡe/	unaviť, unaviť sa
+rater (verb) /ʁate/	zlyhať, zmeškať
+règle (adj) /ʁɛɡl/	pravidelný, usporiadaný; pravidlo
+assurer (verb) /asyʁe/	zabezpečiť, uistiť, poistiť
+queue (nf) /kø/	chvost, rad
+viande (nf) /vjɑ̃d/	mäso
+rivière (nf) /ʁivjɛʁ/	rieka
+suivant (noun, adj, prep) /sɥivɑ̃/	nasledujúci
+obliger (verb) /ɔbliʒe/	prinútiť, zaväzovať
+fusil (nm) /fyzi/	puška
+passager (noun, adj) /pasaʒe/	cestujúci; prechodný
+hasard (nm) /azaʁ/	náhoda
+neige (nf) /nɛʒ/	sneh
+parfaitement (adv) /paʁfɛtmɑ̃/	dokonale
+journal (nm) /ʒuʁnal/	noviny, denník
+échapper (verb) /eʃape/	uniknúť
+plage (nf) /plaʒ/	pláž
+signal (nm) /siɲal/	signál
+crétin (nm) /kʁetɛ̃/	kretén, hlupák
+vidéo (adj(i), nf) /video/	video
+coffrer (nm) /kɔfʁe/	zavrieť (do basy); kufor, truhla
+pression (nf) /pʁesjɔ̃/	tlak
+costume (nm) /kɔstym/	oblek, kostým
+information (nf) /ɛ̃fɔʁmasjɔ̃/	informácia
+futur (noun, adj) /fytyʁ/	budúcnosť; budúci
+univers (nm[pl]) /ynivɛʁ/	vesmír
+volonté (nf) /vɔlɔ̃te/	vôľa
+attendu (adj) /atɑ̃dy/	očakávaný
+excuse (nf) /ɛkskyz/	ospravedlnenie, výhovorka
+faible (noun, adj(f)) /fɛbl/	slabý
+attraper (verb) /atʁape/	chytiť
+inquiéter (verb) /ɛ̃kjete/	znepokojovať, robiť si starosti
+cesse (adv) /sɛs/	neustále
+ministre (nm, nf) /ministʁ/	minister
+naissance (nf) /nɛsɑ̃s/	narodenie
+utile (adj(f)) /ytil/	užitočný
+gaz (nm[pl]) /ɡaz/	plyn
+bataille (nf) /bataj/	bitka
+voleur (noun, adj) /vɔlœʁ/	zlodej
+poids (nm[pl]) /pwa/	váha, hmotnosť
+discourir (verb) /diskuʁiʁ/	rečniť
+star (nf) /staʁ/	hviezda (celebrita)
+gâteau (noun, adj) /ɡato/	koláč, torta
+ventre (nm) /vɑ̃tʁ/	brucho
+connaissance (nf) /kɔnɛsɑ̃s/	poznanie, známy
+vif (noun, adj) /vif/	živý
+assassin (noun, adj) /asasɛ̃/	vrah
+vendredi (nm) /vɑ̃dʁədi/	piatok
+couple (nm, nf) /kupl/	pár
+sérieusement (adv) /seʁjøzmɑ̃/	vážne
+militaire (noun, adj(f)) /militɛʁ/	vojenský; vojak
+date (nf) /dat/	dátum
+titre (nm) /titʁ/	titul, názov
+génie (nm) /ʒeni/	génius
+autrement (adv) /otʁəmɑ̃/	inak
+amener (verb) /amne/	priviesť
+os (nm[pl]) /ɔs/	kosť
+valeur (nf) /valœʁ/	hodnota
+puissant (noun, adj) /pɥisɑ̃/	mocný
+style (nm) /stil/	štýl
+vert (noun, adj) /vɛʁ/	zelený
+fortune (nf) /fɔʁtyn/	majetok, šťastie
+poulet (nm) /pulɛ/	kura
+embrasser (verb) /ɑ̃bʁase/	bozkať, objať
+genou (nm) /ʒənu/	koleno
+célèbre (adj(f)) /selɛbʁ/	slávny
+cibler (verb) /sible/	zamerať sa
+cousin (nm) /kuzɛ̃/	bratranec
+conscience (nf) /kɔ̃sjɑ̃s/	svedomie, vedomie
+prévenir (verb) /pʁevəniʁ/	upozorniť, zabrániť
+article (nm) /aʁtikl/	článok
+étoile (nf) /etwal/	hviezda
+millier (nm) /milje/	tisícka
+reprendre (verb) /ʁəpʁɑ̃dʁ/	znovu začať, vziať späť
+mine (nf) /min/	výraz, vzhľad; baňa
+charmant (adj) /ʃaʁmɑ̃/	očarujúci
+reposer (verb) /ʁəpoze/	odpočívať
+noter (verb) /nɔte/	poznamenať, zapísať si
+agréable (noun, adj(f)) /aɡʁeabl/	príjemný
+château (nm) /ʃato/	zámok, hrad
+bal (nm) /bal/	ples
+oreille (nf) /ɔʁɛj/	ucho
+apparemment (adv) /apaʁamɑ̃/	zrejme, zjavne
+zéro (nm) /zeʁo/	nula
+saint (noun, adj) /sɛ̃/	svätý
+marrant (noun, adj) /maʁɑ̃/	zábavný, vtipný
+joue (nf) /ʒu/	líce
+salon (nm) /salɔ̃/	obývačka, salón
+lève (nf) /lɛv/	vymeriavanie, zdvih
+conversation (nf) /kɔ̃vɛʁsasjɔ̃/	rozhovor
+piloter (verb) /pilɔte/	pilotovať, riadiť
+fer (nm) /fɛʁ/	železo
+gorge (nf) /ɡɔʁʒ/	hrdlo
+victime (nf) /viktim/	obeť
+détail (nm) /detaj/	detail, podrobnosť
+priver (verb) /pʁive/	pripraviť (o niečo), zbaviť
+violence (nf) /vjɔlɑ̃s/	násilie
+nerveux (noun, adj[pl]) /nɛʁvø/	nervózny
+aéroport (nm) /aeʁɔpɔʁ/	letisko
+direct (noun, adj) /diʁɛkt/	priamy
+tribunal (nm) /tʁibynal/	súd
+paquet (nm) /pakɛ/	balík
+fumer (verb) /fyme/	fajčiť
+aise (noun, adj(f)) /ɛz/	pohodlie
+emmerder (verb) /ɑ̃mɛʁde/	otravovať
+joindre (verb) /ʒwɛ̃dʁ/	spojiť, pripojiť
+lance (nf) /lɑ̃s/	kopija
+usiner (nf) /yzine/	továreň; obrábať
+défendre (verb) /defɑ̃dʁ/	brániť, zakázať
+forêt (nf) /fɔʁɛ/	les
+champion (noun, adj) /ʃɑ̃pjɔ̃/	šampión
+horreur (nf) /ɔʁœʁ/	hrôza
+test (nm) /tɛst/	test
+désormais (adv) /dezɔʁmɛ/	odteraz
+extérieur (noun, adj) /ɛksteʁjœʁ/	vonkajšok; vonkajší
+désert (adj, nm) /dezɛʁ/	púšť
+intelligent (adj) /ɛ̃teliʒɑ̃/	inteligentný, šikovný
+hum (int) /œm/	hm
+compte (nm) /kɔ̃t/	účet
+mode (nm, nf) /mɔd/	móda, spôsob, režim
+série (nf) /seʁi/	séria, seriál
+pis (adv, nm[pl]) /pi/	horšie
+sage (noun, adj(f)) /saʒ/	múdry, rozumný, poslušný
+concerner (verb) /kɔ̃sɛʁne/	týkať sa
+grandir (verb) /ɡʁɑ̃diʁ/	rásť, vyrásť
+pousser (verb) /puse/	tlačiť, rásť
+vache (adj(f), nf) /vaʃ/	krava
+repos (nm[pl]) /ʁəpo/	odpočinok
+ordinateur (noun, adj) /ɔʁdinatœʁ/	počítač
+rock (nm) /ʁɔk/	rock
+ombre (nm, nf) /ɔ̃bʁ/	tieň
+russe (noun, adj(f)) /ʁys/	ruský; ruština
+minuit (nm) /minɥi/	polnoc
+amusant (noun, adj) /amyzɑ̃/	zábavný
+membre (nm) /mɑ̃bʁ/	člen
+ouvert (adj) /uvɛʁ/	otvorený
+nombreux (adj[pl]) /nɔ̃bʁø/	početný
+également (adv) /eɡalmɑ̃/	tiež, rovnako
+mince (adj(f), int) /mɛ̃s/	tenký, štíhly
+essence (nf) /esɑ̃s/	benzín; podstata
+maire (nm) /mɛʁ/	starosta
+lundi (nm) /lœ̃di/	pondelok
+moteur (noun, adj) /mɔtœʁ/	motor
+réparer (verb) /ʁepaʁe/	opraviť
+franchement (adv) /fʁɑ̃ʃmɑ̃/	úprimne, otvorene
+cigarette (nf) /siɡaʁɛt/	cigareta
+partager (verb) /paʁtaʒe/	zdieľať, rozdeliť sa
+puissance (nf) /pɥisɑ̃s/	moc, sila, výkon
+hiver (nm) /ivɛʁ/	zima (ročné obdobie)
+souffle (nm) /sufl/	dych, závan
+tenter (verb) /tɑ̃te/	pokúsiť sa, lákať
+vingt (det, num) /vɛ̃/	dvadsať
+miracle (nm) /miʁakl/	zázrak
+apprécier (verb) /apʁesje/	oceniť, vážiť si
+artiste (noun, adj(f)) /aʁtist/	umelec
+créer (verb) /kʁee/	vytvoriť
+lac (nm) /lak/	jazero
+sommeil (nm) /sɔmɛj/	spánok
+réveiller (verb) /ʁeveje/	zobudiť
+leçon (nf) /ləsɔ̃/	lekcia
+chemise (nf) /ʃəmiz/	košeľa; obal na spisy
+fantôme (nm) /fɑ̃tom/	duch, prízrak
+acteur (nm) /aktœʁ/	herec
+parc (nm) /paʁk/	park
+chair (nf) /ʃɛʁ/	mäso, telo
+rue (nf) /ʁy/	ulica
+reculer (verb) /ʁəkyle/	cúvnuť, ustúpiť
+japonais (noun, adj[pl]) /ʒapɔnɛ/	japonský; japončina
+coûter (verb) /kute/	stáť (o cene)
+semblant (nm) /sɑ̃blɑ̃/	zdanie, pretvárka
+annoncer (verb) /anɔ̃se/	oznámiť
+échange (nm) /eʃɑ̃ʒ/	výmena
+payer (verb) /peje/	platiť, zaplatiť
+débarrasser (verb) /debaʁase/	zbaviť sa, upratať
+fuir (verb) /fɥiʁ/	utiecť, utekať
+supplier (verb) /syplije/	prosiť, žobroniť
+gouverneur (nm, nf) /ɡuvɛʁnœʁ/	guvernér
+mark (nm) /maʁk/	marka
+chauffeur (nm) /ʃofœʁ/	vodič, šofér
+marquer (verb) /maʁke/	označiť, skórovať
+rapidement (adv) /ʁapidmɑ̃/	rýchlo
+unité (nf) /ynite/	jednotka; jednota
+fesser (verb) /fese/	naplieskať
+souci (nm) /susi/	starosť
+manteau (nm) /mɑ̃to/	kabát
+allemand (noun, adj) /almɑ̃/	nemecký; nemčina
+pantalon (nm) /pɑ̃talɔ̃/	nohavice
+policier (noun, adj) /pɔlisje/	policajt; detektívka
+innocent (noun, adj) /inɔsɑ̃/	nevinný
+véritable (adj(f)) /veʁitabl/	skutočný, pravý
+caisse (nf) /kɛs/	pokladňa, debna
+lunette(s) (nf) /lynetɛ)/	okuliare; ďalekohľad
+patient (noun, adj) /pasjɑ̃/	pacient; trpezlivý
+menteur (nm) /mɑ̃tœʁ/	klamár
+perte (nf) /pɛʁt/	strata
+menace (nf) /mənas/	hrozba
+émission (nf) /emisjɔ̃/	vysielanie, relácia
+abandonner (verb) /abɑ̃dɔne/	vzdať sa, opustiť
+permission (nf) /pɛʁmisjɔ̃/	povolenie, priepustka
+herbe (nf) /ɛʁb/	tráva, bylina
+front (nm) /fʁɔ̃/	čelo, front
+juif (noun, adj) /ʒɥif/	Žid; židovský
+chouette (nf, adj, int) /ʃwɛt/	sova; super, skvelý
+chaise (nf) /ʃɛz/	stolička
+suicider (verb) /sɥiside/	spáchať samovraždu
+malheureusement (adv) /maløʁøzmɑ̃/	bohužiaľ, žiaľ
+chocolat (adj(i), nm) /ʃɔkɔla/	čokoláda
+mouvement (nm) /muvmɑ̃/	pohyb
+identité (nf) /idɑ̃tite/	identita, totožnosť
+douche (nf) /duʃ/	sprcha
+chaleur (nf) /ʃalœʁ/	teplo
+lèvre (nf) /lɛvʁ/	pera
+étude (nf) /etyd/	štúdium, štúdia
+faveur (nf) /favœʁ/	láskavosť, priazeň
+totalement (adv) /tɔtalmɑ̃/	úplne
+pause (nf) /poz/	prestávka
+mai (nm) /mɛ/	máj
+soudain (adj, adv) /sudɛ̃/	náhly; zrazu
+heureusement (adv) /øʁøzmɑ̃/	našťastie
+choc (nm) /ʃɔk/	šok, náraz
+note (nf) /nɔt/	poznámka, známka
+piéger (verb) /pjeʒe/	nastražiť pascu
+malheur (nm) /malœʁ/	nešťastie
+attaquer (verb) /atake/	zaútočiť
+mars (nm[pl]) /maʁs/	marec; Mars
+fonctionner (verb) /fɔ̃ksjɔne/	fungovať
+portable (adj(f), nm) /pɔʁtabl/	mobil; prenosný
+secrétaire (nm, nf) /səkʁetɛʁ/	sekretárka, tajomník
+mensonge (nm) /mɑ̃sɔ̃ʒ/	klamstvo, lož
+nettoyer (verb) /netwaje/	čistiť, upratať
+gloire (nf) /ɡlwaʁ/	sláva
+accès (nm[pl]) /aksɛ/	prístup
+changement (nm) /ʃɑ̃ʒmɑ̃/	zmena
+poupée (nf) /pupe/	bábika
+bref (adj, adv, nm) /bʁɛf/	krátky; skrátka
+réel (noun, adj) /ʁeɛl/	skutočný, reálny
+ballon (nm) /balɔ̃/	lopta, balón
+abri (nm) /abʁi/	úkryt
+corde (nf) /kɔʁd/	lano, povraz, struna
+respirer (verb) /ʁɛspiʁe/	dýchať
+plat (adj, nm) /pla/	jedlo, misa; plochý
+emploi (nm) /ɑ̃plwa/	zamestnanie, použitie
+ennuyer (verb) /ɑ̃nɥije/	nudiť, obťažovať
+attrape (nf) /atʁap/	chyták, pasca
+foule (nf) /ful/	dav
+larme (nf) /laʁm/	slza
+siècle (nm) /sjɛkl/	storočie
+atteindre (verb) /atɛ̃dʁ/	dosiahnuť
+veste (nf) /vɛst/	sako, bunda
+couverture (nf) /kuvɛʁtyʁ/	deka, prikrývka; obálka
+fac (nf) /fak/	výška (univerzita)
+mener (verb) /məne/	viesť
+lancer (nm, verb) /lɑ̃se/	hodiť, spustiť
+piano (adv, nm) /pjano/	klavír
+source (nf) /suʁs/	zdroj, prameň
+camarade (nm, nf) /kamaʁad/	kamarát, súdruh
+couche (nf) /kuʃ/	vrstva; plienka
+prêtre (nm) /pʁɛtʁ/	kňaz
+saison (nf) /sɛzɔ̃/	ročné obdobie, sezóna
+mesurer (verb) /məzyʁe/	merať
+entreprendre (verb) /ɑ̃tʁəpʁɑ̃dʁ/	podniknúť
+supporter (nm, verb) /sypɔʁte/	zniesť, podporovať
+évidemment (adv) /evidamɑ̃/	samozrejme, očividne
+image (nf) /imaʒ/	obrázok
+distance (nf) /distɑ̃s/	vzdialenosť
+commettre (verb) /kɔmɛtʁ/	spáchať
+delà (adv) /dəla/	za, ďalej
+laver (verb) /lave/	umyť, prať
+somme (nm, nf) /sɔm/	suma; zdriemnutie
+affreux (noun, adj[pl]) /afʁø/	hrozný, strašný
+ours (adj(i), nm[pl]) /uʁs/	medveď
+geste (nm) /ʒɛst/	gesto
+prisonnier (noun, adj) /pʁizɔnje/	väzeň
+directement (adv) /diʁɛktəmɑ̃/	priamo
+tableau (nm) /tablo/	obraz, tabuľa
+reconnaître (verb) /ʁəkɔnɛtʁ/	spoznať, uznať
+demi (adj(i), adv, nm) /dəmi/	pol, polovica
+commissaire (nm, nf) /kɔmisɛʁ/	komisár
+alerte (adj(f), nf) /alɛʁt/	poplach; ostražitý
+plaisanter (verb) /plɛzɑ̃te/	žartovať
+crier (verb) /kʁije/	kričať
+singe (nm) /sɛ̃ʒ/	opica
+prudent (adj) /pʁydɑ̃/	opatrný
+ressentir (verb) /ʁəsɑ̃tiʁ/	cítiť
+donne (adj) /dɔn/	daný
+convaincre (verb) /kɔ̃vɛ̃kʁ/	presvedčiť
+aube (nf) /ob/	úsvit
+propriétaire (nm, nf) /pʁɔpʁijetɛʁ/	majiteľ
+laisse (nf) /lɛs/	vôdzka
+coincer (verb) /kwɛ̃se/	zaseknúť sa, zablokovať
+tenu (adj) /təny/	držaný; povinný
+bite (nf) /bit/	vták (vulg.)
+étoile (nf) /etwal/	hviezda
+frontière (nf) /fʁɔ̃tjɛʁ/	hranica
+remonter (verb) /ʁəmɔ̃te/	vystúpiť znova hore
+sec (adj, adv, nm) /sɛk/	suchý
+diriger (verb) /diʁiʒe/	riadiť, viesť
+soi (ni, pron) /swa/	seba, sa
+facilement (adv) /fasilmɑ̃/	ľahko
+porc (nm) /pɔʁ/	prasa, bravčové
+vierge (noun, adj(f)) /vjɛʁʒ/	panna
+réserver (verb) /ʁezɛʁve/	rezervovať
+haïr (verb) /aiʁ/	nenávidieť
+suspect (noun, adj) /syspɛ/	podozrivý
+station (nf) /stasjɔ̃/	stanica
+tromper (verb) /tʁɔ̃pe/	klamať, podvádzať, mýliť sa
+souffrir (verb) /sufʁiʁ/	trpieť
+bagage (nm) /baɡaʒ/	batožina
+protection (nf) /pʁɔtɛksjɔ̃/	ochrana
+tir (nm) /tiʁ/	streľba
+dame (int, nf) /dam/	dáma, pani
+empereur (nm) /ɑ̃pʁœʁ/	cisár
+océan (nm) /ɔseɑ̃/	oceán
+concert (nm) /kɔ̃sɛʁ/	koncert
+immeuble (noun, adj(f)) /imœbl/	budova
+virer (verb) /viʁe/	vyhodiť, otočiť, previesť (peniaze)
+chaîne (nf) /ʃɛn/	reťaz, kanál
+enfance (nf) /ɑ̃fɑ̃s/	detstvo
+maudire (verb) /modiʁ/	prekliať
+cauchemar (nm) /koʃmaʁ/	nočná mora
+amitié (nf) /amitje/	priateľstvo
+partenaire (nm, nf) /paʁtənɛʁ/	partner
+curieux (noun, adj[pl]) /kyʁjø/	zvedavý, zvláštny
+patte (nf) /pat/	labka, packa
+lendemain (nm) /lɑ̃dmɛ̃/	nasledujúci deň
+soupe (nf) /sup/	polievka
+uniforme (adj(f), nm) /ynifɔʁm/	uniforma; jednotný
+marine (adj, nf) /maʁin/	námorníctvo; námornícky
+reserve (nf) /ʁəzɛʁv/	rezerva, zásoba
+chine (nf) /ʃin/	Čína
+désir (nm) /deziʁ/	túžba
+objet (nm) /ɔbʒɛ/	predmet, objekt
+tracer (verb) /tʁase/	nakresliť, vyznačiť
+recommencer (verb) /ʁəkɔmɑ̃se/	začať znova
+traverser (verb) /tʁavɛʁse/	prejsť, prekročiť
+humanité (nf) /ymanite/	ľudstvo
+lapin (nm) /lapɛ̃/	zajac, králik
+sonner (verb) /sɔne/	zvoniť
+baguer (verb) /baɡe/	krúžkovať, označiť
+survivre (verb) /syʁvivʁ/	prežiť
+bâtiment (nm) /batimɑ̃/	budova, stavba
+chèque (nm) /ʃɛk/	šek
+palais (nm[pl]) /palɛ/	palác; podnebie
+valise (nf) /valiz/	kufor
+charger (verb) /ʃaʁʒe/	naložiť, nabiť, poveriť
+haine (nf) /ɛn/	nenávisť
+assurance (nf) /asyʁɑ̃s/	poistenie, istota
+navire (nm) /naviʁ/	loď
+foyer (nm) /fwaje/	domov, ohnisko
+printemps (nm[pl]) /pʁɛ̃tɑ̃/	jar
+voiler (verb) /vwale/	zahaliť
+personnage (nm) /pɛʁsɔnaʒ/	postava, osobnosť
+brave (noun, adj) /bʁav/	statočný, dobrý
+évident (adv) /evidɑ̃/	zrejmý
+sale (noun, adj(f)) /sal/	špinavý
+roule (adj) /ʁul/	zrolovaný
+extraordinaire (adj(f)) /ɛkstʁaɔʁdinɛʁ/	mimoriadny
+explosion (nf) /ɛksplozjɔ̃/	výbuch
+sucre (nm) /sykʁ/	cukor
+procureur (nm) /pʁɔkyʁœʁ/	prokurátor
+opinion (nf) /ɔpinjɔ̃/	názor
+davantage (adv) /davɑ̃taʒ/	viac
+gardé (nm, nf) /ɡaʁde/	strážený
+net (adj, nm) /nɛt/	čistý, jasný; internet
+vivant (noun, adj) /vivɑ̃/	živý
+compliqué (noun, adj) /kɔ̃plike/	komplikovaný, zložitý
+fiancé (noun, adj) /fjɑ̃se/	snúbenec; zasnúbený
+accuser (verb) /akyze/	obviniť
+construire (verb) /kɔ̃stʁɥiʁ/	stavať, postaviť
+sombre (adj(f)) /sɔ̃bʁ/	tmavý, temný
+hâte (nf) /at/	chvat, netrpezlivosť
+voisin (noun, adj) /vwazɛ̃/	sused
+lourd (adj) /luʁ/	ťažký
+retirer (verb) /ʁətiʁe/	vybrať, stiahnuť
+comte (nm) /kɔ̃t/	gróf
+contrôler (verb) /kɔ̃tʁole/	kontrolovať
+réputation (nf) /ʁepytasjɔ̃/	povesť, reputácia
+exploser (verb) /ɛksploze/	vybuchnúť
+créature (nf) /kʁeatyʁ/	tvor, stvorenie
+étudier (verb) /etydje/	študovať
+brûler (verb) /bʁyle/	páliť, horieť
+soif (nf) /swaf/	smäd
+égal (noun, adj) /eɡal/	rovný, rovnaký
+sport (adj(i), nm) /spɔʁ/	šport
+résultat (nm) /ʁezylta/	výsledok
+siège (nm) /sjɛʒ/	sedadlo, sídlo
+adorable (adj) /adɔʁabl/	rozkošný
+cingler (verb) /sɛ̃ɡle/	šľahnúť
+canon (nm) /kanɔ̃/	kanón, delo
+gardien (noun, adj) /ɡaʁdjɛ̃/	strážca
+représenter (verb) /ʁəpʁezɑ̃te/	predstavovať, reprezentovať
+terme (nm) /tɛʁm/	termín, výraz
+troupe (nf) /tʁup/	skupina, oddiel
+théorie (nf) /teɔʁi/	teória
+surveiller (verb) /syʁveje/	dozerať, sledovať
+joueur (noun, adj) /ʒwœʁ/	hráč
+région (nf) /ʁeʒjɔ̃/	región, oblasť
+commun (noun, adj) /kɔmœ̃/	spoločný, bežný
+tien(s) (noun, adj[pl], int) /tjɛ̃)/	tvoj; no, hľa
+médicament (nm) /medikamɑ̃/	liek
+crâne (adj(f), nm) /kʁan/	lebka
+traduction (nf) /tʁadyksjɔ̃/	preklad
+studio (nm) /stydjo/	štúdio, garsónka
+libérer (verb) /libeʁe/	oslobodiť, prepustiť
+responsabilité (nf) /ʁɛspɔ̃sabilite/	zodpovednosť
+délicieux (adj) /delisjø/	vynikajúci, chutný
+quant (adv) /kɑ̃/	čo sa týka
+trace (nf) /tʁas/	stopa
+traiter (verb) /tʁete/	ošetrovať, zaobchádzať, spracovať
+modèle (nm) /mɔdɛl/	model, vzor
+cellule (nf) /selyl/	bunka, cela
+gêne (nm) /ʒɛn/	prekážka, nepohodlie
+pêcher (nm, verb) /peʃe/	rybárčiť; hrešiť
+poule (nf) /pul/	sliepka
+sénateur (nm) /senatœʁ/	senátor
+péché (nf) /peʃe/	hriech
+lentement (adv) /lɑ̃tmɑ̃/	pomaly
+empire (nm) /ɑ̃piʁ/	ríša, impérium
+débile (nm) /debil/	debil; slabomyseľný
+deviner (verb) /dəvine/	hádať, uhádnuť
+imagination (nf) /imaʒinasjɔ̃/	predstavivosť
+liquide (noun, adj(f)) /likid/	tekutina; hotovosť
+avancer (verb) /avɑ̃se/	postupovať, napredovať
+marin (noun, adj) /maʁɛ̃/	námorník; morský
+plaire (verb) /plɛʁ/	páčiť sa
+humeur (nf) /ymœʁ/	nálada
+auprès (adv) /opʁɛ/	pri, u
+jaloux (noun, adj) /ʒalu/	žiarlivý
+temple (nm) /tɑ̃pl/	chrám
+physique (noun, adj(f)) /fizik/	fyzický; fyzika
+bosser (verb) /bɔse/	makať, pracovať
+infirmier (noun, adj) /ɛ̃fiʁmje/	zdravotná sestra, ošetrovateľ
+secteur (nm) /sɛktœʁ/	sektor
+tâcher (verb) /taʃe/	snažiť sa
+enfuir (verb) /ɑ̃fɥiʁ/	utiecť
+cirque (nm) /siʁk/	cirkus
+particulier (noun, adj) /paʁtikylje/	osobitný, súkromný; súkromná osoba
+engager (verb) /ɑ̃ɡaʒe/	najať, zaviazať, zapojiť
+réaliser (verb) /ʁealize/	uskutočniť, zrealizovať
+chut (int) /ʃy/	pst, ticho
+vision (nf) /vizjɔ̃/	vízia, videnie
+cloche (nf) /klɔʃ/	zvon
+croix (nf[pl]) /kʁwa/	kríž
+vente (nf) /vɑ̃t/	predaj
+démon (nm) /demɔ̃/	démon
+barrer (verb) /baʁe/	zatarasiť, preškrtnúť
+aventure (nf) /avɑ̃tyʁ/	dobrodružstvo
+matériel (noun, adj) /mateʁjɛl/	materiál, vybavenie
+surface (nf) /syʁfas/	povrch
+télévision (nf) /televizjɔ̃/	televízia
+jaune (adv, noun, adj(f)) /ʒon/	žltý
+veiller (verb) /veje/	bdieť, dohliadať
+boutique (nf) /butik/	obchod
+rare (adj(f)) /ʁaʁ/	vzácny, zriedkavý
+journaliste (nm, nf) /ʒuʁnalist/	novinár
+magique (adj(f)) /maʒik/	čarovný, magický
+rat (adj(f), nm) /ʁa/	potkan
+cri (nm) /kʁi/	výkrik
+patience (nf) /pasjɑ̃s/	trpezlivosť
+ménage (nm) /menaʒ/	domácnosť, upratovanie
+comité (nm) /kɔmite/	výbor
+baisser (verb) /bese/	znížiť, sklopiť
+combattre (verb) /kɔ̃batʁ/	bojovať
+romantique (noun, adj(f)) /ʁɔmɑ̃tik/	romantický
+port (nm) /pɔʁ/	prístav
+science (nf) /sjɑ̃s/	veda
+bouffe (nf) /buf/	žrádlo, jedlo
+crédit (nm) /kʁedi/	úver
+abrutir (verb) /abʁytiʁ/	otupiť
+promesse (nf) /pʁɔmɛs/	sľub
+inconnu (noun, adj) /ɛ̃kɔny/	neznámy
+concourir (verb) /kɔ̃kuʁiʁ/	súťažiť
+ambulance (nf) /ɑ̃bylɑ̃s/	sanitka
+cependant (adv, conj) /səpɑ̃dɑ̃/	avšak, však
+panique (noun, adj(f)) /panik/	panika
+criminel (noun, adj) /kʁiminɛl/	zločinec; trestný
+sauvage (noun, adj(f)) /sovaʒ/	divoký
+donnée (nf) /dɔne/	údaj
+royaume (nm) /ʁwajom/	kráľovstvo
+complet (adj, nm) /kɔ̃plɛ/	plný, úplný
+centaine (nf) /sɑ̃tɛn/	stovka
+scénario (nm) /senaʁjo/	scenár
+principal (noun, adj) /pʁɛ̃sipal/	hlavný
+jus (nm) /ʒy/	šťava
+pot (nm) /po/	hrniec, nádoba
+divorce (nm) /divɔʁs/	rozvod
+cochon (noun, adj) /kɔʃɔ̃/	prasa
+cadavre (nm) /kadavʁ/	mŕtvola
+révolution (nf) /ʁevɔlysjɔ̃/	revolúcia
+existence (nf) /ɛɡzistɑ̃s/	existencia
+accompagner (verb) /akɔ̃paɲe/	sprevádzať
+lien (nm) /ljɛ̃/	spojenie, puto
+fromage (nm) /fʁɔmaʒ/	syr
+période (nm, nf) /peʁjɔd/	obdobie
+profond (adv, noun, adj) /pʁɔfɔ̃/	hlboký
+malheureux (noun, adj[pl]) /maløʁø/	nešťastný
+nommer (verb) /nɔme/	pomenovať, vymenovať
+roman (adj, nm) /ʁɔmɑ̃/	román
+poussière (nf) /pusjɛʁ/	prach
+passion (nf) /pasjɔ̃/	vášeň
+récemment (adv) /ʁesamɑ̃/	nedávno
+maitre (nm) /mɛtʁ/	majster, pán
+lutte (nf) /lyt/	boj, zápas
+briser (verb) /bʁize/	rozbiť, zlomiť
+quiconque (pron) /kikɔ̃k/	ktokoľvek
+cap (nm) /kap/	mys, kurz
+version (nf) /vɛʁsjɔ̃/	verzia
+entraînement (nm) /ɑ̃tʁɛnmɑ̃/	tréning
+mardi (nm) /maʁdi/	utorok
+indien (noun, adj) /ɛ̃djɛ̃/	indický, indiánsky; Ind
+meurtrier (noun, adj) /mœʁtʁije/	vrah; vražedný
+examen (nm) /ɛɡzamɛ̃/	skúška
+septembre (nm) /sɛptɑ̃bʁ/	september
+élever (verb) /elve/	vychovať, zdvihnúť, chovať
+profiter (verb) /pʁɔfite/	využiť, užiť si
+serpent (nm) /sɛʁpɑ̃/	had
+bouton (nm) /butɔ̃/	gombík, tlačidlo; vyrážka
+piscine (nf) /pisin/	bazén
+courrier (nm) /kuʁje/	pošta
+logique (noun, adj(f)) /lɔʒik/	logika; logický
+rythme (nm) /ʁitm/	rytmus, tempo
+cancer (nm) /kɑ̃sɛʁ/	rakovina
+proposer (verb) /pʁɔpoze/	navrhnúť, ponúknuť
+peinture (nf) /pɛ̃tyʁ/	maľba, farba
+jeudi (nm) /ʒødi/	štvrtok
+courageux (noun, adj[pl]) /kuʁaʒø/	odvážny
+œuvrer (verb) /œvʁe/	pracovať, usilovať sa
+camarade (nm, nf) /kamaʁad/	kamarát, súdruh
+hall (nm) /ol/	hala, vestibul
+figurer (verb) /fiɡyʁe/	figurovať, objavovať sa
+ascenseur (nm) /asɑ̃sœʁ/	výťah
+garage (nm) /ɡaʁaʒ/	garáž
+approcher (verb) /apʁɔʃe/	priblížiť sa
+traitement (nm) /tʁɛtmɑ̃/	liečba, spracovanie; plat
+sein (nm) /sɛ̃/	prsník, lono
+nation (nf) /nasjɔ̃/	národ
+propriété (nf) /pʁɔpʁijete/	vlastníctvo, pozemok
+labo (nm) /labo/	laboratórium
+machine (nf) /maʃin/	stroj
+sable (adj(i), nm) /sabl/	piesok
+commission (nf) /kɔmisjɔ̃/	komisia, provízia
+section (nf) /sɛksjɔ̃/	sekcia, oddiel
+nager (verb) /naʒe/	plávať
+pratique (noun, adj(f)) /pʁatik/	praktický; prax
+écran (nm) /ekʁɑ̃/	obrazovka
+chuter (verb) /ʃyte/	spadnúť
+ceinture (nf) /sɛ̃tyʁ/	opasok, pás
+briller (verb) /bʁije/	svietiť, žiariť
+miel (nm) /mjɛl/	med
+crever (verb) /kʁəve/	prasknúť, zdochnúť
+estomac (nm) /ɛstɔma/	žalúdok
+salaire (nm) /salɛʁ/	plat, mzda
+inventer (verb) /ɛ̃vɑ̃te/	vynájsť, vymyslieť
+étonner (verb) /etɔne/	prekvapiť, udiviť
+nourrir (verb) /nuʁiʁ/	kŕmiť, živiť
+incendie (nm) /ɛ̃sɑ̃di/	požiar
+pur (adj, nmf) /pyʁ/	čistý
+refaire (verb) /ʁəfɛʁ/	prerobiť, urobiť znova
+prénom (nm) /pʁenɔ̃/	krstné meno
+fuite (nf) /fɥit/	útek, únik
+invite (nm) /ɛ̃vit/	hosť; pozvaný
+idéal (nm, adj) /ideal/	ideálny
+condition (nf) /kɔ̃disjɔ̃/	podmienka, stav
+élève (adj) /elɛv/	žiak; vysoký
+douze (det, num) /duz/	dvanásť
+virus (nm[pl]) /viʁys/	vírus
+poil (nm) /pwal/	chlp, srsť
+jeunesse (nf) /ʒœnɛs/	mladosť
+ordinaire (adv, nm, adj(f)) /ɔʁdinɛʁ/	obyčajný
+agence (nf) /aʒɑ̃s/	agentúra
+loup (nm) /lu/	vlk
+naturel (nm, adj) /natyʁɛl/	prirodzený; povaha
+bombe (nf) /bɔ̃b/	bomba
+autrefois (adv) /otʁəfwa/	kedysi
+équipage (nm) /ekipaʒ/	posádka
+tempête (nf) /tɑ̃pɛt/	búrka
+central (adj, nm) /sɑ̃tʁal/	stredný, centrálny; ústredňa
+forcément (adv) /fɔʁsemɑ̃/	nevyhnutne, určite
+acteur (nm) /aktœʁ/	herec
+calmer (verb) /kalme/	upokojiť
+miroir (nm) /miʁwaʁ/	zrkadlo
+chic (adj) /ʃik/	elegantný, šik
+jury (nm) /ʒyʁi/	porota
+pardonner (verb) /paʁdɔne/	odpustiť
+affronter (verb) /afʁɔ̃te/	čeliť
+lâcher (verb) /laʃe/	pustiť, uvoľniť
+cérémonie (nf) /seʁemɔni/	obrad
+tasse (nf) /tas/	šálka
+absence (nf) /apsɑ̃s/	neprítomnosť
+comportement (nm) /kɔ̃pɔʁtəmɑ̃/	správanie
+correct (adj) /kɔʁɛkt/	správny
+récompenser (verb) /ʁekɔ̃pɑ̃se/	odmeniť
+national (adj, nf) /nasjɔnal/	národný, štátny; štátna cesta
+carte (nf) /kaʁt/	karta, mapa
+masque (nm) /mask/	maska
+raisonnable (adj(f)) /ʁɛzɔnabl/	rozumný, primeraný
+bijou (nm) /biʒu/	šperk
+mystère (nm) /mistɛʁ/	záhada, tajomstvo
+cabine (nf) /kabin/	kabína, kajuta
+étudiant (nm/f, adj) /etydjɑ̃/	študent; študentský
+créme (adj(i), nf) /kʁem/	krém, smotana
+parfum (nm) /paʁfœ̃/	parfum, vôňa, príchuť
+avouer (verb) /avwe/	priznať
+vengeance (nf) /vɑ̃ʒɑ̃s/	pomsta
+nu (nm, adj) /ny/	nahý
+presser (verb) /pʁese/	stlačiť, súriť, ponáhľať sa
+qualité (nf) /kalite/	kvalita
+couvert (adj, nm) /kuvɛʁ/	zakrytý, zamračený; príbor
+couloir (nm) /kulwaʁ/	chodba, ulička
+technique (nf, adj(f)) /tɛknik/	technika; technický
+œuf (nm) /œf/	vajce
+réaction (nf) /ʁeaksjɔ̃/	reakcia
+doué (adj) /dwe/	nadaný, talentovaný
+attente (nf) /atɑ̃t/	čakanie, očakávanie
+nôtre (det) /notʁ/	náš
+race (nf) /ʁas/	rasa, plemeno
+bêtise (nf) /betiz/	hlúposť
+moquer (verb) /mɔke/	vysmievať sa
+colle (nf) /kɔl/	lepidlo
+poitrine (nf) /pwatʁin/	hruď, prsia
+enterrement (nm) /ɑ̃tɛʁmɑ̃/	pohreb
+installer (verb) /ɛ̃stale/	nainštalovať, umiestniť
+noble (adj(f, nmf) /nɔbl/	vznešený; šľachtic
+large (adj(f), adv, nm) /laʁʒ/	široký; šírka
+urgent (adj) /yʁʒɑ̃/	naliehavý, súrny
+digne (adj(f)) /diɲ/	dôstojný, hodný
+être (nm) /ɛtʁ/	bytosť
+uniquement (adv) /ynikmɑ̃/	výlučne, iba
+riz (nm) /ʁi/	ryža
+plaisant (adj) /plɛzɑ̃/	príjemný
+condamner (verb) /kɔ̃dane/	odsúdiť
+puce (nf) /pys/	blcha; čip
+ex (nmfi) /ɛks/	bývalý, bývalá
+origine (nf) /ɔʁiʒin/	pôvod
+attitude (nf) /atityd/	postoj
+absurde (nm, adj(f)) /apsyʁd/	absurdný, nezmyselný
+union (nf) /ynjɔ̃/	únia, zväzok
+bagnole (nf) /baɲɔl/	kára, auto
+maximum (nm, adj) /maksimɔm/	maximum
+effort (nm) /efɔʁ/	úsilie
+chambre (nf) /ʃɑ̃bʁ/	izba, spálňa
+vélo (nm) /velo/	bicykel
+esclave (nmf) /ɛsklav/	otrok
+éducation (nf) /edykasjɔ̃/	vzdelanie, výchova
+réellement (adv) /ʁeɛlmɑ̃/	naozaj, skutočne
+pair (adj, nm) /pɛʁ/	párny; rovesník
+moche (adj) /mɔʃ/	škaredý
+blond (nmf, adj) /blɔ̃/	blond, svetlovlasý
+boule (nf) /bul/	guľa
+ouah (int) /wa/	wau
+déclaration (nf) /deklaʁasjɔ̃/	vyhlásenie, priznanie
+chasser (verb) /ʃase/	loviť, vyhnať
+site (nm) /sit/	stránka, lokalita
+scientifique (adj(f), nmf) /sjɑ̃tifik/	vedecký; vedec
+traître (nm, adj) /tʁɛtʁ/	zradca; zradný
+panne (nf) /pan/	porucha, výpadok
+traîner (verb) /tʁene/	ťahať, vliecť sa
+cave (adj(f), nm, nf) /kav/	pivnica
+cassette (nf) /kasɛt/	kazeta
+essai (nm) /esɛ/	pokus, skúška
+musée (nf) /myze/	múzeum
+minable (adj) /minabl/	úbohý, biedny
+sommet (nm) /sɔmɛ/	vrchol, summit
+blesser (verb) /blese/	zraniť, raniť
+aile (nf) /ɛl/	krídlo
+bagarre (nf) /baɡaʁ/	bitka
+production (nf) /pʁɔdyksjɔ̃/	výroba
+rang (nm) /ʁɑ̃/	poradie, rad
+livrer (verb) /livʁe/	doručiť, dodať
+venger (verb) /vɑ̃ʒe/	pomstiť
+flotter (verb) /flɔte/	plávať (na hladine), viať
+humour (nm) /ymuʁ/	humor
+naturellement (adv) /natyʁɛlmɑ̃/	prirodzene
+résoudre (verb) /ʁezudʁ/	vyriešiť
+commandement (nm) /kɔmɑ̃dmɑ̃/	velenie, prikázanie
+remplacer (verb) /ʁɑ̃plase/	nahradiť
+mandat (nm) /mɑ̃da/	mandát, poukážka
+milliard (nm) /miljaʁ/	miliarda
+fruit (nm) /fʁɥi/	ovocie
+plaindre (verb) /plɛ̃dʁ/	ľutovať; sťažovať sa
+partage (nm) /paʁtaʒ/	delenie, rozdelenie
+bourse (nf) /buʁs/	burza, štipendium
+jungle (nf) /ʒœ̃ɡl/	džungľa
+aimable (adj(f)) /ɛmabl/	milý, prívetivý
+guider (verb) /ɡide/	viesť, sprevádzať
+gâcher (verb) /ɡaʃe/	pokaziť, premárniť
+adulte (nmf, adj(f)) /adylt/	dospelý
+pomme (nf) /pɔm/	jablko
+auteur (nm, nf) /otœʁ/	autor
+jugement (nm) /ʒyʒmɑ̃/	rozsudok, úsudok
+organisation (nf) /ɔʁɡanizasjɔ̃/	organizácia
+vague (adj(f); nf) /vaɡ/	neurčitý; vlna
+légende (nf) /leʒɑ̃d/	legenda, popis
+botter (verb) /bɔte/	kopnúť
+barbe (nf) /baʁb/	brada (fúzy)
+territoire (nm) /teʁitwaʁ/	územie
+blessure (nf) /blesyʁ/	zranenie, rana
+géant (nmf, adj) /ʒeɑ̃/	obor; obrovský
+moto (nm) /mɔto/	motorka
+communauté (nf) /kɔmynote/	spoločenstvo, komunita
+cage (nf) /kaʒ/	klietka
+désirer (verb) /deziʁe/	túžiť, želať si
+rayon (nm) /ʁɛjɔ̃/	lúč, polomer; oddelenie, polica
+sorcier (nm) /sɔʁsje/	čarodejník
+pile (nf) /pil/	kopa; batéria; presne
+kilo (nm) /kilo/	kilo
+écrivain (nm) /ekʁivɛ̃/	spisovateľ
+forcer (verb) /fɔʁse/	prinútiť
+respecter (verb) /ʁɛspɛkte/	rešpektovať
+limite (nf) /limit/	hranica, limit
+orange (adj(i), nf) /ɔʁɑ̃ʒ/	pomaranč; oranžový
+associer (verb) /asɔsje/	spojiť, priradiť
+bénir (verb) /beniʁ/	požehnať
+quinze (det, num) /kɛ̃z/	pätnásť
+posséder (verb) /pɔsede/	vlastniť
+conseiller (nm, verb) /kɔ̃seje/	poradca; radiť
+ligne (nf) /liɲ/	čiara, riadok
+escalier (nm) /ɛskalje/	schody, schodisko
+explication (nf) /ɛksplikasjɔ̃/	vysvetlenie
+voyager (verb) /vwajaʒe/	cestovať
+attirer (verb) /atiʁe/	priťahovať, prilákať
+poursuivre (verb) /puʁsɥivʁ/	prenasledovať, pokračovať
+professionnel (nmf, adj) /pʁɔfesjɔnɛl/	profesionálny; profesionál
+incident (adj, nm) /ɛ̃sidɑ̃/	incident, udalosť
+colline (nf) /kɔlin/	kopec
+autorisation (nf) /ɔtɔʁizasjɔ̃/	povolenie
+assassiner (verb) /asasine/	zavraždiť
+ministère (nm, nf) /ministɛʁ/	ministerstvo
+exprès (adj[pl], adv) /ɛkspʁɛs/	zámerne, naschvál
+football (nm) /futbol/	futbal
+rond (adj, nm, nf) /ʁɔ̃/	okrúhly; kruh
+exercice (nm) /ɛɡzɛʁsis/	cvičenie
+fichu (adj) /fiʃy/	prekliaty, pokazený
+vote (nm) /vɔt/	hlasovanie, hlas
+domaine (nm) /dɔmɛn/	oblasť, panstvo
+retenir (verb) /ʁətəniʁ/	zadržať, zapamätať si
+religion (nf) /ʁəliʒjɔ̃/	náboženstvo
+clairement (adv) /klɛʁmɑ̃/	jasne
+furieux (adj) /fyʁjø/	zúrivý, nahnevaný
+pisser (verb) /pise/	čúrať
+circonstance (nf) /siʁkɔ̃stɑ̃s/	okolnosť
+excellence (nf) /ɛksɛlɑ̃s/	dokonalosť; Excelencia
+cimetière (nm) /simtjɛʁ/	cintorín
+classique (nm, adj(f)) /klasik/	klasický
+arrestation (nf) /aʁɛstasjɔ̃/	zatknutie
+taper (verb) /tape/	udrieť, ťukať, písať (na klávesnici)
+cabinet (nm) /kabinɛ/	kabinet, kancelária, ordinácia
+comédie (nf) /kɔmedi/	komédia
+bond (nm) /bɔ̃/	skok
+tunnel (nm) /tynɛl/	tunel
+amant (nm) /amɑ̃/	milenec
+tandis (adv) /tɑ̃di/	zatiaľ čo
+incapable (adj) /ɛ̃kapabl/	neschopný
+drapeau (nm) /dʁapo/	vlajka
+échouer (verb) /eʃwe/	zlyhať, stroskotať
+auparavant (adv) /opaʁavɑ̃/	predtým
+risquer (verb) /ʁiske/	riskovať
+magazine (nm) /maɡazin/	časopis
+remplir (verb) /ʁɑ̃pliʁ/	naplniť, vyplniť
+véhiculer (verb) /veikyle/	prepravovať, šíriť
+précieux (adj [pl]) /pʁesjø/	vzácny, cenný
+éternité (nf) /etɛʁnite/	večnosť
+citer (verb) /site/	citovať
+huile (nf) /ɥil/	olej
+proposition (nf) /pʁɔpozisjɔ̃/	návrh
+soutien (nm) /sutjɛ̃/	podpora
+hauteur (nf) /otœʁ/	výška
+échec (adj(i), nm) /eʃɛk/	neúspech; šach
+fâcher (verb) /faʃe/	nahnevať, nahnevať sa
+culture (nf) /kyltyʁ/	kultúra
+précis (adj[pl, noun) /pʁesi/	presný
+langage (nm) /lɑ̃ɡaʒ/	jazyk, reč
+objectif (adj, nm) /ɔbʒɛktif/	cieľ; objektív
+profondément (adv) /pʁɔfɔ̃demɑ̃/	hlboko
+souffrance (nf) /sufʁɑ̃s/	utrpenie
+pétrole (nm) /petʁɔl/	ropa
+entièrement (adv) /ɑ̃tjɛʁmɑ̃/	úplne
+épreuve (nf) /epʁœv/	skúška, previerka
+copier (verb) /kɔpje/	kopírovať
+bibliothèque (nf) /biblijɔtɛk/	knižnica
+énerver (verb) /enɛʁve/	rozčúliť, ísť na nervy
+trente (det, num) /tʁɑ̃t/	tridsať
+électrique (adj(f)) /elɛktʁik/	elektrický
+ranger (nm, verb) /ʁɑ̃ʒe/	upratať, uložiť
+enterrer (verb) /ɑ̃teʁe/	pochovať
+assister (verb) /asiste/	zúčastniť sa; asistovať
+vallée (nf) /vale/	údolie
+golf (nm) /ɡɔlf/	golf
+las (adj) /la/	unavený
+soigner (verb) /swaɲe/	liečiť, starať sa
+loyer (nm) /lwaje/	nájomné
+producteur (nm/f, adj) /pʁɔdyktœʁ/	producent, výrobca
+quart (nm) /kaʁ/	štvrtina, štvrť
+critique (adj(f), nmf) /kʁitik/	kritika, kritik; kritický
+acte (nm) /akt/	čin, akt, listina
+plateau (nm) /plato/	plošina, podnos, scéna
+auto (nm, nf) /oto/	auto
+concernant (adv, prep) /kɔ̃sɛʁnɑ̃/	týkajúci sa, ohľadom
+conférence (nf) /kɔ̃feʁɑ̃s/	konferencia, prednáška
+charme (nm) /ʃaʁm/	šarm, kúzlo
+fièvre (nf) /fjɛvʁ/	horúčka
+réception (nf) /ʁesɛpsjɔ̃/	recepcia, prijatie
+duc (nm) /dyk/	vojvoda
+italien (nm/f, adj) /italjɛ̃/	taliansky; taliančina
+fenêtre (nf) /fənɛtʁ/	okno
+couvrir (verb) /kuvʁiʁ/	zakryť, pokryť
+cervelle (nf) /sɛʁvɛl/	mozog
+moral (adj, nm) /mɔʁal/	morálny; morálka
+supérieur (adj, nmf) /sypeʁjœʁ/	nadriadený; vyšší
+personnellement (adv) /pɛʁsɔnɛlmɑ̃/	osobne
+tendre (adj(f)) /tɑ̃dʁ/	nežný, mäkký
+discussion (nf) /diskysjɔ̃/	diskusia
+alarmer (verb) /alaʁme/	znepokojiť
+ivre (adj) /ivʁ/	opitý
+héler (verb) /ele/	privolať, zakričať
+gagnant (nmf, adj) /ɡaɲɑ̃/	víťaz; víťazný
+beurre (nm) /bœʁ/	maslo
+commerce (nm) /kɔmɛʁs/	obchod
+fleuve (nm) /flœv/	veľká rieka, veľtok
+nerf (nm) /nɛʁ/	nerv
+séparer (verb) /sepaʁe/	oddeliť, rozdeliť
+pédé (nf) /pede/	teplý, buzerant
+assis (adj) /asi/	sediaci
+employer (verb) /ɑ̃plwaje/	použiť, zamestnať
+liaison (nf) /ljɛzɔ̃/	spojenie, pomer
+document (nm) /dɔkymɑ̃/	dokument
+salopard (nm) /salɔpaʁ/	hajzel
+place (nf) /plas/	miesto, námestie
+nuage (nm) /nyaʒ/	oblak, mrak
+fiancer (verb) /fijɑ̃se/	zasnúbiť sa
+avenue (nf) /avəny/	avenue, trieda
+guitare (nf) /ɡitaʁ/	gitara
+portraire (verb) /pɔʁtʁɛʁ/	portrétovať
+final (nm, adj) /final/	konečný, záverečný
+brise (nf) /bʁiz/	vánok
+réseau (nm) /ʁezo/	sieť
+prière (nf) /pʁijɛʁ/	modlitba, prosba
+réalisateur (nmf) /ʁealizatœʁ/	režisér
+surveillance (nf) /syʁvɛjɑ̃s/	dohľad, sledovanie
+épaule (nf) /epol/	plece, rameno
+placard (nm) /plakaʁ/	skriňa (vstavaná)
+mercredi (nm) /mɛʁkʁədi/	streda
+chiffre (nm) /ʃifʁ/	číslica, číslo
+lampe (nf) /lɑ̃p/	lampa
+expert (nm, adj) /ɛkspɛʁ/	odborník, expert
+autorité (nf) /ɔtɔʁite/	autorita, úrad
+destruction (nf) /dɛstʁyksjɔ̃/	zničenie
+congrès (nm) /kɔ̃ɡʁɛ/	kongres
+poudre (nf) /pudʁ/	prášok, púder
+juillet (nm) /ʒɥijɛ/	júl
+moderne (adj) /mɔdɛʁn/	moderný
+stade (nm) /stad/	štadión, štádium
+serment (nm) /sɛʁmɑ̃/	prísaha
+dette (nf) /dɛt/	dlh
+entraîner (verb) /ɑ̃tʁene/	trénovať; spôsobiť, strhnúť
+sensible (adj(f)) /sɑ̃sibl/	citlivý
+ajouter (verb) /aʒute/	pridať
+expression (nf) /ɛkspʁesjɔ̃/	výraz
+métro (nm) /metʁo/	metro
+fonce (adj) /fɔ̃s/	tmavý
+chat (nm) /ʃa/	mačka; čet
+durer (verb) /dyʁe/	trvať
+balance (nf) /balɑ̃s/	váha, rovnováha
+extrêmement (adv) /ɛkstʁɛmmɑ̃/	mimoriadne, nesmierne
+séance (nf) /seɑ̃s/	zasadnutie, sedenie
+collier (nm) /kɔlje/	náhrdelník, obojok
+alliance (nf) /aljɑ̃s/	aliancia, snubný prsteň
+congé (nm) /kɔ̃ʒe/	voľno, dovolenka
+portefeuille (nm) /pɔʁtəfœj/	peňaženka
+trahir (verb) /tʁaiʁ/	zradiť
+repartir (verb) /ʁəpaʁtiʁ/	odísť znova; rozdeliť
+terroriste (nm, nf) /teʁɔʁist/	terorista
+clan (nm) /klɑ̃/	klan
+exécution (nf) /ɛɡzekysjɔ̃/	vykonanie, poprava
+convenir (verb) /kɔ̃vəniʁ/	vyhovovať, dohodnúť sa
+pourrir (verb) /puʁiʁ/	hniť
+juger (verb) /ʒyʒe/	súdiť
+invitation (nf) /ɛ̃vitasjɔ̃/	pozvanie
+électricité (nf) /elɛktʁisite/	elektrina
+admettre (verb) /admɛtʁ/	pripustiť, prijať
+avril (nm) /avʁil/	apríl
+convier (verb) /kɔ̃vje/	pozvať
+acier (nm) /asje/	oceľ
+promener (verb) /pʁɔmne/	ísť na prechádzku, vyvenčiť
+sourd (adj, nmf) /suʁ/	hluchý
+degré (nm) /dəɡʁe/	stupeň
+instruction (nf) /ɛ̃stʁyksjɔ̃/	pokyn, vzdelanie
+injuste (adj(f)) /ɛ̃ʒyst/	nespravodlivý
+division (nf) /divizjɔ̃/	delenie, divízia
+fierté (nf) /fjɛʁte/	hrdosť
+exprimer (verb) /ɛkspʁime/	vyjadriť
+fidèle (adj) /fidɛl/	verný
+causer (verb) /koze/	spôsobiť; rozprávať sa
+couler (verb) /kule/	tiecť, potopiť sa
+renseignement (nm) /ʁɑ̃sɛɲmɑ̃/	informácia
+total (adj, nm) /tɔtal/	celkový; súčet
+réservé (adj) /ʁezɛʁve/	rezervovaný
+tare (nf) /taʁ/	chyba, vada
+espagnol (nm, adj) /ɛspaɲɔl/	španielsky; španielčina
+solide (nm, adj(f)) /sɔlid/	pevný
+avantage (nm) /avɑ̃taʒ/	výhoda
+habitant (nm) /abitɑ̃/	obyvateľ
+rage (nf) /ʁaʒ/	zúrivosť, besnota
+normalement (adv) /nɔʁmalmɑ̃/	normálne
+cesser (verb) /sese/	prestať
+neveu (nm) /nəvø/	synovec
+emprunter (verb) /ɑ̃pʁœ̃te/	požičať si
+ouverture (nf) /uvɛʁtyʁ/	otvorenie
+habiller (verb) /abije/	obliecť, obliecť sa
+veuf (nmf, adj) /vœf/	vdovec; ovdovený
+munition (nf) /mynisjɔ̃/	munícia
+écraser (verb) /ekʁaze/	rozdrviť, zraziť
+juin (nm) /ʒɥɛ̃/	jún
+dégoûter (verb) /deɡute/	znechutiť
+démarrer (verb) /demaʁe/	naštartovať, začať
+louer (verb) /lwe/	prenajať; chváliť
+bâton (nm) /batɔ̃/	palica
+timide (adj(f)) /timid/	plachý, hanblivý
+fermé (adj) /fɛʁme/	zatvorený, zamknutý
+caractère (nm) /kaʁaktɛʁ/	povaha, charakter, znak
+dépêcher (verb) /depeʃe/	ponáhľať sa; vyslať
+célibataire (adj, nf, nm) /selibatɛʁ/	slobodný
+pasteur (nm) /pastœʁ/	pastor, farár
+progrès (nm) /pʁɔɡʁɛ/	pokrok
+ordure (nf) /ɔʁdyʁ/	smeti, odpad
+matière (nf) /matjɛʁ/	látka, hmota, predmet
+puits (nm[pl]) /pɥi/	studňa, šachta
+bonté (nf) /bɔ̃te/	dobrota
+déposer (verb) /depoze/	položiť, uložiť, podať
+mondial (adj) /mɔ̃djal/	svetový
+intelligence (nf) /ɛ̃teliʒɑ̃s/	inteligencia
+généreux (adj) /ʒeneʁø/	štedrý
+gérer (verb) /ʒeʁe/	riadiť, spravovať
+température (nf) /tɑ̃peʁatyʁ/	teplota
+fête (nf) /fɛt/	oslava, sviatok
+saloperie (nf) /salɔpʁi/	svinstvo, hnus
+rapporter (verb) /ʁapɔʁte/	priniesť späť, nahlásiť, vyniesť
+filmer (verb) /filme/	filmovať, natáčať
+tension (nf) /tɑ̃sjɔ̃/	napätie
+serviette (nf) /sɛʁvjɛt/	uterák, obrúsok
+guérir (verb) /ɡeʁiʁ/	vyliečiť
+rouler (verb) /ʁule/	kotúľať, jazdiť
+passeport (nm) /paspɔʁ/	pas
+suffisamment (adv) /syfizamɑ̃/	dostatočne
+échelle (nf) /eʃɛl/	rebrík, mierka
+cercle (nm) /sɛʁkl/	kruh
+exiger (verb) /ɛɡziʒe/	vyžadovať, žiadať
+citoyen (nmf) /sitwajɛ̃/	občan
+pervers (nmf; adj[pl]) /pɛʁvɛʁ/	úchyl; zvrátený
+tentative (nf) /tɑ̃tativ/	pokus
+règlement (nm) /ʁɛɡləmɑ̃/	predpis, vyrovnanie
+immense (adj(f)) /imɑ̃s/	obrovský, nesmierny
+comté (nm) /kɔ̃te/	grófstvo, okres
+crainte (nf) /kʁɛ̃t/	obava, strach
+plaquer (verb) /plake/	nechať (niekoho), pokryť
+réunir (verb) /ʁeyniʁ/	zhromaždiť, spojiť
+manuel (adj, nm) /manɥɛl/	príručka; manuálny
+cruel (adj) /kʁyɛl/	krutý
+octobre (nm) /ɔktɔbʁ/	október
+méchant (adj) /meʃɑ̃/	zlý, zlomyseľný
+dessin (nm) /desɛ̃/	kresba, vzor
+inde (nf) /ɛ̃d/	India
+demeurer (verb) /dəmœʁe/	zostať, bývať
+léger (adj) /leʒe/	ľahký
+diamant (nm) /djamɑ̃/	diamant
+publique (adj, nf) /pyblik/	verejný
+emporter (verb) /ɑ̃pɔʁte/	odniesť, vziať so sebou
+asile (nm) /azil/	azyl, útulok
+organiser (verb) /ɔʁɡanize/	organizovať
+sou (nm) /su/	halier, groš
+oser (verb) /oze/	odvážiť sa
+tournage (nm) /tuʁnaʒ/	natáčanie
+nucléaire (adj, nm) /nykleɛʁ/	jadrový
+populaire (adj(f)) /pɔpylɛʁ/	populárny, ľudový
+orchestrer (verb) /ɔʁkɛstʁe/	zorganizovať, zinscenovať
+couronne (nf) /kuʁɔn/	koruna, veniec
+nue (adj) /ny/	nahá
+vedette (nf) /vədɛt/	hviezda (celebrita), hliadkový čln
+renvoyer (verb) /ʁɑ̃vwaje/	poslať späť, prepustiť
+garce (nf) /ɡaʁs/	mrcha
+formation (nf) /fɔʁmasjɔ̃/	vzdelanie, výcvik
+audience (nf) /odjɑ̃s/	publikum, pojednávanie
+participer (verb) /paʁtisipe/	zúčastniť sa
+issu (adj) /isy/	pochádzajúci
+procédure (nf) /pʁɔsedyʁ/	postup, konanie
+brancher (verb) /bʁɑ̃ʃe/	zapojiť, pripojiť
+influencer (verb) /ɛ̃flyɑ̃se/	ovplyvniť
+mouche (nf) /muʃ/	mucha
+conséquence (nf) /kɔ̃sekɑ̃s/	následok, dôsledok
+groupe (nm) /ɡʁup/	skupina
+mortel (nmf, adj) /mɔʁtɛl/	smrteľný
+collègue (nm, nf) /kɔlɛɡ/	kolega
+objection (nf) /ɔbʒɛksjɔ̃/	námietka
+éteindre (verb) /etɛ̃dʁ/	vypnúť, zhasnúť
+allumer (verb) /alyme/	zapnúť, zapáliť, rozsvietiť
+obéir (verb) /ɔbeiʁ/	poslúchať
+sabrer (verb) /sabʁe/	šabľou seknúť, škrtnúť
+sain (adj) /sɛ̃/	zdravý
+tradition (nf) /tʁadisjɔ̃/	tradícia
+décevoir (verb) /desəvwaʁ/	sklamať
+département (nm) /depaʁtəmɑ̃/	oddelenie, departement
+résister (verb) /ʁeziste/	odolať, odolávať
+impressionnant (adj) /ɛ̃pʁesjɔnɑ̃/	pôsobivý, pôsobivé
+accusation (nf) /akyzasjɔ̃/	obvinenie
+disque (nm) /disk/	disk, platňa
+piquer (verb) /pike/	pichnúť, uštipnúť; ukradnúť
+entretien (nm) /ɑ̃tʁətjɛ̃/	rozhovor, údržba
+accueillir (verb) /akœjiʁ/	privítať, ubytovať
+chasseur (nm) /ʃasœʁ/	lovec; stíhačka
+examiner (verb) /ɛɡzamine/	preskúmať, vyšetriť
+solitaire (adj(f, nmf) /sɔlitɛʁ/	osamelý; samotár
+goutter (verb) /ɡute/	kvapkať
+micro (nm) /mikʁo/	mikrofón
+technologie (nf) /tɛknɔlɔʒi/	technológia
+original (nm, adj) /ɔʁiʒinal/	pôvodný, originálny
+trompe (adj) /tʁɔ̃p/	chobot, roh
+dépasser (verb) /depase/	prekročiť, predbehnúť
+patrie (nf) /patʁi/	vlasť
+tuyau (nm) /tɥijo/	rúra, hadica; tip
+clinique (adj(f), nf) /klinik/	klinika; klinický
+régime (nf) /ʁeʒim/	režim, diéta
+album (nm) /albɔm/	album
+suprême (adj) /sypʁɛm/	najvyšší
+sincère (adj) /sɛ̃sɛʁ/	úprimný
+pipe (nf) /pip/	fajka
+violent (adj) /vjɔlɑ̃/	násilný, prudký
+émotion (nm) /emɔsjɔ̃/	emócia, dojatie
+coucou (int) /kuku/	ahoj, kukuk; kukučka
+franc (adj, adv, adj, nm) /fʁɑ̃/	úprimný, otvorený; frank
+remarque (nf) /ʁəmaʁk/	poznámka
+excitant (adj) /ɛksitɑ̃/	vzrušujúci
+guère (adv) /ɡɛʁ/	sotva, takmer nie
+sel (nm) /sɛl/	soľ
+canapé (nf) /kanape/	gauč, pohovka; jednohubka
+abattre (verb) /abatʁ/	zraziť, zabiť, porúbať
+déclarer (verb) /deklaʁe/	vyhlásiť, priznať
+splendide (adj) /splɑ̃did/	nádherný, skvelý
+promotion (nf) /pʁɔmɔsjɔ̃/	povýšenie, propagácia, akcia
+scandale (nm) /skɑ̃dal/	škandál
+cran (nm) /kʁɑ̃/	odvaha; zárez, stupeň
+mêler (verb) /mele/	miešať, zapliesť sa
+élément (nm) /elemɑ̃/	prvok, súčasť
+arracher (verb) /aʁaʃe/	vytrhnúť
+interroger (verb) /ɛ̃tɛʁɔʒe/	vypočúvať, pýtať sa
+efficace (adj(f)) /efikas/	účinný, efektívny
+événement (nm) /evɛnmɑ̃/	udalosť
+personnalité (nf) /pɛʁsɔnalite/	osobnosť
+buter (verb) /byte/	zabiť (slang.); potknúť sa
+rumeur (nf) /ʁymœʁ/	fáma, šum
+divin (adj, nm) /divɛ̃/	božský
+dégât (pl, nm) /deɡa/	škoda, poškodenie
+négatif (adj, nm) /neɡatif/	negatívny, záporný
+éclater (verb) /eklate/	prasknúť, vybuchnúť
+viser (verb) /vize/	mieriť, zamerať sa
+invisible (adj(f)) /ɛ̃vizibl/	neviditeľný
+signature (nf) /siɲatyʁ/	podpis
+user (verb) /yze/	opotrebovať, použiť
+insister (verb) /ɛ̃siste/	naliehať, trvať na
+autoriser (verb) /ɔtɔʁize/	povoliť, oprávniť
+canard (nm) /kanaʁ/	kačica
+stylo (nm) /stilo/	pero
+possibilité (nf) /pɔsibilite/	možnosť
+réveil (nm) /ʁevɛj/	budík, prebudenie
+pleuvoir (verb) /pløvwaʁ/	pršať
+ère (nf) /ɛʁ/	éra, obdobie
+conclure (verb) /kɔ̃klyʁ/	uzavrieť, dospieť k záveru
+étape (nf) /etap/	etapa, krok
+contacter (verb) /kɔ̃takte/	kontaktovať
+identifier (verb) /idɑ̃tifje/	identifikovať, rozpoznať
+attacher (verb) /ataʃe/	pripevniť, priviazať
+prime (noun, adj(f), nf) /pʁim/	prémia, bonus
+renfort (nm) /ʁɑ̃fɔʁ/	posila, podpora
+publicité (nf) /pyblisite/	reklama
+zut (int) /zy/	do kelu, sakra
+séjour (nm) /seʒuʁ/	pobyt
+tabac (nm) /taba/	tabak, trafika
+chaos (nm[pl]) /kao/	chaos
+enfermer (verb) /ɑ̃fɛʁme/	zavrieť, zamknúť
+tarte (nf) /taʁt/	koláč (tarte)
+cravete (nf) /kʁavɛt/	kravata
+frigo (nm) /fʁiɡo/	chladnička
+traîne (nf) /tʁɛn/	vlečka; flákanie sa
+câble (nm) /kabl/	kábel
+rarement (adv) /ʁaʁmɑ̃/	zriedka
+goûter (verb) /ɡute/	ochutnať; olovrant
+disputer (verb) /dispyte/	hádať sa, súperiť
+impliquer (verb) /ɛ̃plike/	zapojiť, zahŕňať, implikovať
+remarquable (adj(f)) /ʁəmaʁkabl/	pozoruhodný
+exception (nf) /ɛksɛpsjɔ̃/	výnimka
+gant (nm) /ɡɑ̃/	rukavica
+ennuyeux (adj) /ɑ̃nɥijø/	nudný, otravný
+ouvrier (nmf, adj) /uvʁije/	robotník; robotnícky
+record (nm) /ʁəkɔʁ/	rekord
+délirer (verb) /deliʁe/	blúzniť
+enseigne (nf) /ɑ̃sɛɲ/	vývesný štít
+angle (nm) /ɑ̃ɡl/	uhol, roh
+instinct (nm) /ɛ̃stɛ̃/	inštinkt
+impôt (nm) /ɛ̃po/	daň
+rompre (verb) /ʁɔ̃pʁ/	zlomiť, rozísť sa
+rattraper (verb) /ʁatʁape/	dobehnúť, napraviť, chytiť
+complexe (nm, adj(f)) /kɔ̃plɛks/	zložitý; komplex
+méthode (nf) /metɔd/	metóda
+suggérer (verb) /syɡʒeʁe/	navrhnúť, naznačiť
+tigre (nm) /tiɡʁ/	tiger
+tragédie (nf) /tʁaʒedi/	tragédia
+torture (nf) /tɔʁtyʁ/	mučenie
+industrie (nf) /ɛ̃dystʁi/	priemysel
+population (nf) /pɔpylasjɔ̃/	obyvateľstvo
+adaptation (nf) /adaptasjɔ̃/	prispôsobenie, adaptácia
+admirer (verb) /admiʁe/	obdivovať
+autoroute (nf) /otoʁut/	diaľnica
+obscurité (nf) /ɔpskyʁite/	tma
+fabuleux (adj) /fabylø/	rozprávkový, úžasný
+linge (nf) /lɛ̃ʒ/	bielizeň, prádlo
+illégal (adj) /ileɡal/	nelegálny
+rigole (nf) /ʁiɡɔl/	smiech; žlab
+opérer (verb) /ɔpeʁe/	operovať, pôsobiť
+fauteuil (nm) /fotœj/	kreslo
+vendeur (nm) /vɑ̃dœʁ/	predavač
+novembre (nm) /nɔvɑ̃bʁ/	november
+collection (nf) /kɔlɛksjɔ̃/	zbierka, kolekcia
+tonne (nf) /tɔn/	tona
+accent (nm) /aksɑ̃/	prízvuk
+déplacer (verb) /deplase/	presunúť, premiestniť
+serrer (verb) /seʁe/	stisnúť, utiahnuť
+plastique (nm, adj(f)) /plastik/	plast; plastický
+marche (nf) /maʁʃ/	chôdza, schod, pochod
+commande (nf) /kɔmɑ̃d/	objednávka, ovládanie
+lot (nm) /lo/	podiel, výhra, šarža
+trahison (nf) /tʁaizɔ̃/	zrada
+sensation (nf) /sɑ̃sasjɔ̃/	pocit, senzácia
+mesure (nf) /məzyʁ/	miera, opatrenie
+chanceux (adj) /ʃɑ̃sø/	šťastný (mať šťastie)
+boue (nf) /bu/	blato
+cabane (nf) /kaban/	chatrč, búda
+merveille (nf) /mɛʁvɛj/	zázrak, div
+poing (nm) /pwɛ̃/	päsť
+sacrifice (nm) /sakʁifis/	obeta
+communication (nf) /kɔmynikasjɔ̃/	komunikácia
+appuyer (verb) /apɥije/	stlačiť, oprieť sa, podporiť
+chagrin (adj, nm) /ʃaɡʁɛ̃/	žiaľ, smútok
+concentrer (verb) /kɔ̃sɑ̃tʁe/	sústrediť sa
+drogue (nf) /dʁɔɡ/	droga
+gratuit (adj) /ɡʁatɥi/	zadarmo, bezplatný; bezdôvodný
+britannique (adj(f)) /bʁitanik/	britský
+social (adj) /sɔsjal/	sociálny, spoločenský
+coïncidence (nf) /kɔɛ̃sidɑ̃s/	náhoda
+vire (adj) /viʁ/	vyhodený
+août (nm) /ut/	august
+malédiction (nf) /malediksjɔ̃/	kliatba
+pension (nf) /pɑ̃sjɔ̃/	penzión, internát; dôchodok
+ténèbre (nf) /tenɛbʁ/	temnota
+phase (nf) /faz/	fáza
+noix (nf) /nwa/	orech
+boum (nm) /bum/	bum
+sexuel (adj) /sɛksɥɛl/	sexuálny
+honnêtement (adv) /ɔnɛtmɑ̃/	úprimne, čestne
+défi (nm) /defi/	výzva
+estimer (verb) /ɛstime/	odhadnúť; považovať
+désastre (nm) /dezastʁ/	katastrofa, pohroma
+feuille (nf) /fœj/	list, hárok
+éliminer (verb) /elimine/	odstrániť, vyradiť
+reconnaissant (adj) /ʁəkɔnɛsɑ̃/	vďačný
+particulièrement (adv) /paʁtikyljɛʁmɑ̃/	najmä, obzvlášť
+solitude (nf) /sɔlityd/	samota
+débrouiller (verb) /debʁuje/	poradiť si, vyriešiť
+jouet (nm) /ʒwɛ/	hračka
+tarder (verb) /taʁde/	meškať, otáľať
+ingénieur (nm) /ɛ̃ʒenjœʁ/	inžinier
+chant (nm) /ʃɑ̃/	spev, pieseň
+ongle (nf) /ɔ̃ɡl/	necht
+trafic (nm) /tʁafik/	premávka, nelegálny obchod
+activité (nf) /aktivite/	činnosť, aktivita
+reconnaissance (nf) /ʁəkɔnɛsɑ̃s/	uznanie, vďačnosť; prieskum
+foie (nm) /fwa/	pečeň
+jusque (adv, prep) /ʒysk/	až po, až do
+cercueil (nm) /sɛʁkœj/	rakva
+gris (nm, adj[pl]) /ɡʁi/	sivý
+livraison (nf) /livʁɛzɔ̃/	doručenie, dodávka
+pilule (nf) /pilyl/	tabletka
+pratiquement (adv) /pʁatikmɑ̃/	prakticky
+diplômer (verb) /diplome/	udeliť diplom
+cinquante (det, num) /sɛ̃kɑ̃t/	päťdesiat
+armé (adj) /aʁme/	ozbrojený
+chapitre (nm) /ʃapitʁ/	kapitola
+communiste (adj(f, nmf) /kɔmynist/	komunista; komunistický
+commissariat (nm) /kɔmisaʁja/	policajná stanica
+trouille (nf) /tʁuj/	strach (mať nahnané)
+analyser (verb) /analize/	analyzovať
+pisse (nf) /pis/	moč (vulg.)
+essentiel (nm, adj) /esɑ̃sjɛl/	podstatný; to hlavné
+génération (nm) /ʒeneʁasjɔ̃/	generácia
+adjoindre (verb) /adʒwɛ̃dʁ/	pridať, prideliť
+écriture (nf) /ekʁityʁ/	písmo, písanie
+annuler (verb) /anyle/	zrušiť
+massacre (nm) /masakʁ/	masaker
+volontiers (adv) /vɔlɔ̃tje/	rád, s radosťou
+phrase (nf) /fʁaz/	veta
+poème (nm) /pɔɛm/	báseň
+pénis (nm) /penis/	penis
+singe (nm) /sɛ̃ʒ/	opica
+statuer (verb) /statɥe/	rozhodnúť
+époux (nm) /epu/	manžel
+automne (nm) /ɔtɔn/	jeseň
+brigade (nf) /bʁiɡad/	brigáda, čata
+éloigner (verb) /elwaɲe/	vzdialiť, odstrániť
+survie (nf) /syʁvi/	prežitie
+batterie (nf) /batʁi/	batéria; bicie
+ordonner (verb) /ɔʁdɔne/	nariadiť, usporiadať
+manche (nm, nf) /mɑ̃ʃ/	rukáv; rúčka
+creuser (verb) /kʁøze/	kopať
+pourvu (adj; adv) /puʁvy/	vybavený; za predpokladu, že
+mordre (verb) /mɔʁdʁ/	hrýzť, uhryznúť
+contenir (verb) /kɔ̃tniʁ/	obsahovať
+principe (nm) /pʁɛ̃sip/	princíp, zásada
+bourrer (verb) /buʁe/	napchať
+rembourser (verb) /ʁɑ̃buʁse/	vrátiť peniaze, splatiť
+masse (nf) /mas/	masa, hmota
+luxe (nm) /lyks/	luxus
+terreur (nf) /teʁœʁ/	hrôza, teror
+mobile (adj(f), nm) /mɔbil/	mobilný; motív, pohnútka
+sagesse (nf) /saʒɛs/	múdrosť
+rigoler (verb) /ʁiɡɔle/	smiať sa, robiť si srandu
+informer (verb) /ɛ̃fɔʁme/	informovať
+saluer (verb) /salɥe/	pozdraviť
+terriblement (adv) /teʁibləmɑ̃/	strašne
+satisfaire (verb) /satisfɛʁ/	uspokojiť
+avaler (verb) /avale/	prehltnúť
+décembre (nm) /desɑ̃bʁ/	december
+planter (verb) /plɑ̃te/	zasadiť; zaseknúť sa
+usage (nm) /yzaʒ/	použitie, zvyk
+collège (nm) /kɔlɛʒ/	stredná škola (nižšia), kolégium
+symbole (nm) /sɛ̃bɔl/	symbol
+aile (nf) /ɛl/	krídlo, blatník
+flamme (nf) /flam/	plameň
+bloc (nm) /blɔk/	blok
+règne (nm) /ʁɛɲ/	vláda (panovníka)
+orage (nm) /ɔʁaʒ/	búrka
+poste (nm, nf) /pɔst/	miesto, pozícia; pošta
+destiner (verb) /dɛstine/	určiť, venovať
+renoncer (verb) /ʁənɔ̃se/	vzdať sa
+gréver (verb) /ɡʁeve/	zaťažiť
+royal (adj) /ʁwajal/	kráľovský
+texte (nm) /tɛkst/	text
+officiel (adj, nmf) /ɔfisjɛl/	oficiálny, úradný
+pompe (nf) /pɔ̃p/	pumpa
+poubelle (nf) /pubɛl/	smetný kôš
+patrouille (nf) /patʁuj/	hliadka
+équippement (nm) /ekipmɑ̃/	vybavenie
+taux (nm) /to/	sadzba, miera
+taudis (nm) /todi/	brloh, chatrč
+métal (nm) /metal/	kov
+destination (nf) /dɛstinasjɔ̃/	cieľ cesty
+accomplir (verb) /akɔ̃pliʁ/	vykonať, splniť
+pique (nf;nm) /pik/	pika; štipľavá poznámka; piky
+accueil (nm) /akœj/	privítanie, recepcia
+roue (nf) /ʁu/	koleso
+économie (nf) /ekɔnɔmi/	ekonomika, úspora
+tombe (nf) /tɔ̃b/	hrob
+charité (nf) /ʃaʁite/	dobročinnosť
+mélanger (verb) /melɑ̃ʒe/	zmiešať, popliesť
+endormir (verb) /ɑ̃dɔʁmiʁ/	uspať, zaspať
+cuisine (nf) /kɥizin/	kuchyňa, varenie
+laboratoire (nm) /labɔʁatwaʁ/	laboratórium
+déconner (nm) /dekɔne/	blbnúť, kecať
+plaisanterie (nf) /plɛzɑ̃tʁi/	žart, vtip
+quitte (adj) /kit/	vyrovnaný, kvit
+culotte (nf) /kylɔt/	nohavičky, krátke nohavice
+boisson (nf) /bwasɔ̃/	nápoj
+saut (nm) /so/	skok
+matinée (nf) /matine/	dopoludnie
+relever (verb) /ʁələve/	zdvihnúť, vystriedať
+otage (nm) /ɔtaʒ/	rukojemník
+ravissant (adj) /ʁavisɑ̃/	očarujúci
+fabriquer (verb) /fabʁike/	vyrobiť
+tireur (nm) /tiʁœʁ/	strelec
+lave (adj) /lav/	umytý
+ambassadeur (nm) /ɑ̃basadœʁ/	veľvyslanec
+atmosphère (nf) /atmɔsfɛʁ/	atmosféra
+menacer (verb) /mənase/	hroziť, vyhrážať sa
+casier (nm) /kazje/	skrinka, priehradka
+capital (nm, nf, adj) /kapital/	hlavný; kapitál
+cendre (nf) /sɑ̃dʁ/	popol
+syndicat (nm) /sɛ̃dika/	odbory, odborová organizácia
+suisse (adj(f)) /sɥis/	švajčiarsky; Švajčiar
+énormément (adv) /enɔʁmemɑ̃/	nesmierne, enormne
+outil (nm) /uti/	nástroj, náradie
+testament (nm) /tɛstamɑ̃/	závet
+poète (nm) /pɔɛt/	básnik
+combinaison (nf) /kɔ̃binɛzɔ̃/	kombinácia; kombinéza
+transformer (verb) /tʁɑ̃sfɔʁme/	premeniť, pretvoriť
+ramasser (verb) /ʁamase/	zdvihnúť, zbierať
+avertir (verb) /avɛʁtiʁ/	varovať
+lecture (nf) /lɛktyʁ/	čítanie
+processus (nm[pl]) /pʁɔsesys/	proces
+vaincre (verb) /vɛ̃kʁ/	poraziť, premôcť
+médical (adj) /medikal/	lekársky
+atelier (nm) /atəlje/	dielňa, ateliér
+guerrier (nmf, adj) /ɡɛʁje/	bojovník; bojovný
+pouce (nm) /pus/	palec
+entraîneur (nm) /ɑ̃tʁɛnœʁ/	tréner
+peindre (verb) /pɛ̃dʁ/	maľovať
+panier (nm) /panje/	kôš
+pétrin (nm) /petʁɛ̃/	kaša, problém
+carrément (adv) /kaʁemɑ̃/	rovno, úplne
+tonnerre (nf) /tɔnɛʁ/	hrom
+témoignage (nm) /temwaɲaʒ/	svedectvo
+douter (verb) /dute/	pochybovať
+indice (nm) /ɛ̃dis/	stopa, náznak, index
+création (nf) /kʁeasjɔ̃/	tvorba, stvorenie
+environnement (nm) /ɑ̃viʁɔnmɑ̃/	životné prostredie
+certes (adv) /sɛʁt/	iste, zaiste
+dégueulasse (adj) /deɡœlas/	nechutný, hnusný
+enseigner (verb) /ɑ̃seɲe/	učiť, vyučovať
+dose (nf) /doz/	dávka
+effrayer (verb) /efʁeje/	vystrašiť
+môme (nm, nf) /mom/	decko
+curiosité (nf) /kyʁjozite/	zvedavosť
+administration (nf) /administʁasjɔ̃/	správa, administratíva
+misère (nf) /mizɛʁ/	bieda
+cuir (nm) /kɥiʁ/	koža (materiál)
+transport (nm) /tʁɑ̃spɔʁ/	doprava, preprava
+prêter (verb) /pʁete/	požičať
+savon (nm) /savɔ̃/	mydlo
+pipi (nm) /pipi/	cikanie
+fouiller (verb) /fuje/	prehľadať
+plante (nf) /plɑ̃t/	rastlina
+viol (nm) /vjɔl/	znásilnenie
+douceur (nf) /dusœʁ/	jemnosť, sladkosť
+vain (adj) /vɛ̃/	márny
+détendre (verb) /detɑ̃dʁ/	uvoľniť, uvoľniť sa
+parent (nmf, adj) /paʁɑ̃/	rodič, príbuzný
+interrompre (verb) /ɛ̃tɛʁɔ̃pʁ/	prerušiť
+etc (adv) /ɛtseteʁa/	atď.
+écart (nm) /ekaʁ/	odstup, rozdiel
+pester (verb) /pɛste/	nadávať
+fonction (nf) /fɔ̃ksjɔ̃/	funkcia
+élire (verb) /eliʁ/	zvoliť
+machin (nm) /maʃɛ̃/	vec, tá vec
+fameux (adj[pl]) /famø/	slávny
+talent (nm) /talɑ̃/	talent
+nègre (nm, adj) /nɛɡʁ/	černoch (pejor.)
+catholique (nmf, adj(f)) /katɔlik/	katolícky
+indiquer (verb) /ɛ̃dike/	ukázať, označiť
+misérable (nmf, adj) /mizeʁabl/	biedny, úbohý
+requin (nm) /ʁəkɛ̃/	žralok
+sincèrement (adv) /sɛ̃sɛʁmɑ̃/	úprimne
+affection (nf) /afɛksjɔ̃/	náklonnosť; ochorenie
+adversaire (nm, nf) /advɛʁsɛʁ/	súper, protivník
+actuellement (adv) /aktɥɛlmɑ̃/	v súčasnosti, teraz
+meuble (nm, adj(f)) /mœbl/	kus nábytku
+foutu (adj) /futy/	prekliaty, v prdeli
+dignité (nf) /diɲite/	dôstojnosť
+ramer (verb) /ʁame/	veslovať
+rat (nf) /ʁa/	potkan
+patienter (verb) /pasjɑ̃te/	počkať
+vomir (verb) /vɔmiʁ/	zvracať
+dépression (nm) /depʁesjɔ̃/	depresia
+précisément (adv) /pʁesizemɑ̃/	presne
+circuit (nm) /siʁkɥi/	okruh, obvod
+voile (nm, nf) /vwal/	závoj; plachta
+correctement (adv) /kɔʁɛktəmɑ̃/	správne
+fringuer (verb) /fʁɛ̃ɡe/	obliecť sa
+améliorer (verb) /ameljɔʁe/	zlepšiť
+observer (verb) /ɔpsɛʁve/	pozorovať
+volontaire (nmf, adj(f)) /vɔlɔ̃tɛʁ/	dobrovoľník; dobrovoľný
+fumier (nm) /fymje/	hnoj; hajzel
+égoïste (adj, nm, nf) /eɡɔist/	sebecký; egoista
+brouillard (nm) /bʁujaʁ/	hmla
+construction (nf) /kɔ̃stʁyksjɔ̃/	stavba, výstavba
+météo (nf) /meteo/	predpoveď počasia
+fillette (nf) /fijɛt/	dievčatko
+motif (nm) /mɔtif/	dôvod, motív, vzor
+sien (pron) /sjɛ̃/	jeho, jej
+loyauté (nf) /lwajote/	vernosť, lojalita
+évidence (nf) /evidɑ̃s/	samozrejmosť, zrejmosť
+mouton (nm) /mutɔ̃/	ovca
+commercial (adj, nm) /kɔmɛʁsjal/	obchodný; obchodník
+lier (verb) /lje/	spojiť, zviazať
+remède (nf) /ʁəmɛd/	liek
+maintenir (verb) /mɛ̃tniʁ/	udržiavať
+catastrophe (nf) /katastʁɔf/	katastrofa
+disparition (nf) /dispaʁisjɔ̃/	zmiznutie
+éternel (adj) /etɛʁnɛl/	večný
+drap (nm) /dʁa/	plachta, prestieradlo
+envelopper (verb) /ɑ̃vlɔpe/	zabaliť, zahaliť
+coco (nm) /koko/	kokos; kamoš
+éclair (nm) /eklɛʁ/	blesk; venček (zákusok)
+témoigner (verb) /temwaɲe/	svedčiť
+onze (det, num) /ɔ̃z/	jedenásť
+feuille (nf) /fœj/	list, hárok
+embêter (verb) /ɑ̃bete/	otravovať
+nichon (nm) /niʃɔ̃/	cecok, prso
+interview (nf) /ɛ̃tɛʁvju/	rozhovor
+partant (adv) /paʁtɑ̃/	teda; odchádzajúci
+promenade (nf) /pʁɔmnad/	prechádzka
+association (nf) /asɔsjasjɔ̃/	združenie
+leader (nm, nf) /lidœʁ/	vodca, líder
+discipline (nf) /disiplin/	disciplína
+civil (f) /sivil/	občiansky, civilný; civilista
+lancement (nm) /lɑ̃smɑ̃/	spustenie, uvedenie
+gras (adj[pl], adv, nm[pl]) /ɡʁa/	mastný, tučný
+transfert (nm) /tʁɑ̃sfɛʁ/	presun, prevod
+satellite (nm) /satelit/	satelit
+pompier (adj, nm) /pɔ̃pje/	hasič
+tennis (nf) /tenis/	tenis
+tragique (adj(f), nm) /tʁaʒik/	tragický
+enregistrement (nm) /ɑ̃ʁəʒistʁəmɑ̃/	nahrávka, registrácia
+circulation (nf) /siʁkylasjɔ̃/	premávka, obeh
+casque (nf) /kask/	prilba, slúchadlá
+compétition (nm) /kɔ̃petisjɔ̃/	súťaž
+caution (nf) /kosjɔ̃/	záloha, kaucia
+adn (nm) /adn/	DNA
+opportunité (nf) /ɔpɔʁtynite/	príležitosť
+officiellement (adv) /ɔfisjɛlmɑ̃/	oficiálne
+fixe (adj, nm) /fiks/	pevný, stály
+fasciner (verb) /fasine/	fascinovať
+menu (nm, adv, adj) /məny/	menu, jedálny lístok; drobný
+plancher (nm, verb) /plɑ̃ʃe/	podlaha
+subir (verb) /sybiʁ/	podstúpiť, utrpieť
+saigner (verb) /seɲe/	krvácať
+dentiste (nm, nf) /dɑ̃tist/	zubár
+légal (adj) /leɡal/	zákonný, legálny
+civilisation (nf) /sivilizasjɔ̃/	civilizácia
+avertissement (nm) /avɛʁtismɑ̃/	varovanie
+tache (nf) /taʃ/	škvrna
+antenne (nf) /ɑ̃tɛn/	anténa
+confier (verb) /kɔ̃fje/	zveriť
+onde (nf) /ɔ̃d/	vlna
+assaut (nm) /aso/	útok
+fiche (nf) /fiʃ/	formulár, karta, lístok
+épisode (nf) /epizɔd/	epizóda
+anneau (nm) /ano/	prsteň, krúžok
+maquillage (nf) /makijaʒ/	make-up, líčenie
+doue (adj) /du/	nadaný
+enregistrer (verb) /ɑ̃ʁəʒistʁe/	nahrať, zaregistrovať
+impact (nm) /ɛ̃pakt/	vplyv, dopad
+effacer (verb) /efase/	vymazať
+zone (nf) /zon/	zóna, oblasť
+loger (verb) /lɔʒe/	ubytovať, bývať
+conflit (nm) /kɔ̃fli/	konflikt
