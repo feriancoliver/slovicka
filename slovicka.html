@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skúšanie slovíčok</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&family=Noto+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f3ee; --card:#fffdf9; --ink:#1f2328; --muted:#6b6f76; --line:#e4dfd6;
+    --accent:#2f5d50; --accent-soft:#e3eee9; --good:#2e7d4f; --good-soft:#e2f2e8;
+    --bad:#b3412e; --bad-soft:#f8e5e0; --radius:14px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#16181b; --card:#1f2226; --ink:#ecebe7; --muted:#9aa0a6; --line:#33373d;
+      --accent:#7cc0a8; --accent-soft:#233531; --good:#6fcf97; --good-soft:#1f3328; --bad:#f08a75; --bad-soft:#3a2420; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Inter,system-ui,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:28px 18px 60px}
+  h1{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:2rem;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--muted);margin:0 0 24px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;margin-bottom:16px}
+  h2{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:1.25rem;margin:0 0 12px}
+  label{font-size:.85rem;color:var(--muted);display:block;margin-bottom:4px;font-weight:500}
+  input[type=text],textarea,select{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);font:inherit}
+  textarea{min-height:160px;font-family:ui-monospace,Menlo,monospace;font-size:.9rem;resize:vertical}
+  input:focus,textarea:focus,select:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .row{display:flex;gap:12px;flex-wrap:wrap}
+  .row>*{flex:1 1 180px}
+  .btn{appearance:none;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 16px;border-radius:10px;font:inherit;font-weight:600;cursor:pointer}
+  .btn:hover{border-color:var(--accent)}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+  @media (prefers-color-scheme: dark){ .btn.primary{color:#10201b} }
+  .btn.small{padding:6px 10px;font-size:.85rem;font-weight:500}
+  .btn:disabled{opacity:.45;cursor:not-allowed}
+  .hint{font-size:.85rem;color:var(--muted)}
+  .seg{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .seg button{flex:1;border:0;background:transparent;color:var(--ink);padding:9px 6px;font:inherit;font-size:.9rem;cursor:pointer}
+  .seg button+button{border-left:1px solid var(--line)}
+  .seg button.on{background:var(--accent-soft);color:var(--accent);font-weight:600}
+  .lists{display:flex;flex-direction:column;gap:8px}
+  .listitem{display:flex;align-items:center;gap:10px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;cursor:pointer}
+  .listitem.on{border-color:var(--accent);background:var(--accent-soft)}
+  .listitem .name{flex:1;font-weight:600}
+  .listitem .meta{color:var(--muted);font-size:.85rem}
+  .del{border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.1rem;padding:2px 6px}
+  .del:hover{color:var(--bad)}
+  .opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-bottom:16px}
+  .check{display:flex;align-items:center;gap:8px;font-size:.92rem;color:var(--ink);margin:6px 0}
+  .preview{max-height:180px;overflow:auto;border:1px solid var(--line);border-radius:10px;margin-top:10px;font-size:.9rem}
+  .preview table{width:100%;border-collapse:collapse}
+  .preview td,.preview th{padding:6px 10px;border-bottom:1px solid var(--line);text-align:left}
+  .preview th{position:sticky;top:0;background:var(--card);color:var(--muted);font-weight:500;font-size:.8rem}
+  .err{color:var(--bad);font-size:.88rem;margin-top:8px}
+  /* quiz */
+  .bar{height:6px;background:var(--line);border-radius:6px;overflow:hidden;margin:6px 0 18px}
+  .bar>div{height:100%;background:var(--accent);transition:width .3s}
+  .qtop{display:flex;justify-content:space-between;align-items:center;font-size:.88rem;color:var(--muted)}
+  .prompt-lang{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);text-align:center;margin-top:10px}
+  .prompt{font-family:Fraunces,Georgia,serif;font-size:2.2rem;text-align:center;margin:6px 0 22px;word-break:break-word;line-height:1.2}
+  .answer-input{font-size:1.15rem!important;text-align:center;padding:14px!important}
+  .feedback{border-radius:10px;padding:12px 14px;margin-top:14px;font-size:.98rem}
+  .feedback.good{background:var(--good-soft);color:var(--good)}
+  .feedback.bad{background:var(--bad-soft);color:var(--bad)}
+  .feedback b{color:var(--ink)}
+  .choices{display:grid;gap:10px}
+  .choice{text-align:left;padding:14px 16px;font-weight:500}
+  .choice.correct{background:var(--good-soft);border-color:var(--good);color:var(--good)}
+  .choice.wrong{background:var(--bad-soft);border-color:var(--bad);color:var(--bad)}
+  .flash{border:1px dashed var(--line);border-radius:12px;padding:22px;text-align:center;min-height:90px;display:flex;align-items:center;justify-content:center;font-size:1.5rem;font-family:Fraunces,Georgia,serif;margin-bottom:14px}
+  .actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:16px}
+  .score{font-family:Fraunces,Georgia,serif;font-size:3rem;text-align:center;margin:8px 0}
+  .mist{width:100%;border-collapse:collapse;font-size:.92rem;margin-top:8px}
+  .mist td{padding:7px 8px;border-bottom:1px solid var(--line)}
+  .mist td.n{color:var(--bad);text-align:right;white-space:nowrap}
+  .ipa{font-family:"Noto Sans","Segoe UI","Lucida Sans Unicode","DejaVu Sans",sans-serif;color:var(--muted);font-weight:400}
+  .prompt-ipa{text-align:center;font-size:1.15rem;margin:-14px 0 20px}
+  .flash .ipa{display:block;font-size:1rem;margin-top:6px}
+  .flash{flex-direction:column}
+  .ipapanel{margin-top:14px;padding:14px;border:1px solid var(--accent);border-radius:10px;background:var(--accent-soft)}
+  .listitem .ipabtn{font-size:.8rem;padding:4px 8px}
+  .hidden{display:none!important}
+  kbd{font-family:ui-monospace,monospace;font-size:.78rem;border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<!-- ========== SETUP ========== -->
+<section id="setup">
+  <h1>Skúšanie slovíčok</h1>
+  <p class="sub">Nahraj si zoznam slovíčok v dvoch jazykoch a precvičuj, kým ich nevieš naspamäť.</p>
+
+  <div class="card">
+    <h2>1. Pridaj zoznam</h2>
+    <div class="row" style="margin-bottom:12px">
+      <div><label for="langA">Jazyk 1 (ľavý stĺpec)</label><input type="text" id="langA" placeholder="napr. Slovenčina"></div>
+      <div><label for="langB">Jazyk 2 (pravý stĺpec)</label><input type="text" id="langB" placeholder="napr. Español"></div>
+    </div>
+    <label for="raw">Slovíčka – jedno slovo na riadok, oddelené tabulátorom, <kbd>;</kbd> <kbd>,</kbd> <kbd>=</kbd> alebo <kbd> - </kbd></label>
+    <textarea id="raw" placeholder="pes ; el perro&#10;mačka ; el gato&#10;dom ; la casa&#10;ďakujem ; gracias"></textarea>
+    <div class="row" style="margin-top:10px;align-items:center">
+      <div style="flex:0 0 auto"><label class="btn small" style="margin:0;display:inline-block;color:var(--ink)">📄 Nahrať súbor (.pdf, .txt, .csv)<input type="file" id="file" accept=".pdf,.txt,.csv,.tsv,application/pdf,text/plain,text/csv" hidden></label></div>
+      <div class="hint">Funguje aj export z Excelu/Google Sheets (CSV) alebo skopírované dva stĺpce. Viac správnych odpovedí oddeľ lomkou: <i>auto / automobil</i>.<br>Výslovnosť (IPA) môžeš pridať priamo za slovo – <i>el perro /el ˈpe.ro/</i> – alebo ako 3. stĺpec (IPA jazyka 2) a 4. stĺpec (IPA jazyka 1). Inak ju doplní Claude tlačidlom pri zozname.</div>
+    </div>
+    <div id="preview" class="preview hidden"></div>
+    <div id="parseErr" class="err hidden"></div>
+    <div class="row" style="margin-top:14px;align-items:flex-end">
+      <div><label for="listName">Názov zoznamu</label><input type="text" id="listName" placeholder="napr. Španielčina – lekcia 3"></div>
+      <div style="flex:0 0 auto"><button class="btn primary" id="saveList">Uložiť zoznam</button></div>
+    </div>
+  </div>
+
+  <div class="card" id="listsCard">
+    <h2>2. Vyber zoznam</h2>
+    <div id="lists" class="lists"></div>
+    <div id="ipaPanel" class="ipapanel hidden">
+      <div style="font-weight:600;margin-bottom:6px">Doplniť výslovnosť (IPA) – <span id="ipaListName"></span></div>
+      <div class="check"><input type="checkbox" id="ipaB" checked><label for="ipaB" style="margin:0;color:var(--ink);font-size:.92rem" id="ipaBLabel"></label></div>
+      <div class="check"><input type="checkbox" id="ipaA"><label for="ipaA" style="margin:0;color:var(--ink);font-size:.92rem" id="ipaALabel"></label></div>
+      <div class="check"><input type="checkbox" id="ipaOver"><label for="ipaOver" style="margin:0;color:var(--ink);font-size:.92rem">Prepísať aj existujúce prepisy</label></div>
+      <div class="actions" style="justify-content:flex-start">
+        <button class="btn primary small" id="ipaGo">Doplniť</button>
+        <button class="btn small" id="ipaClose">Zavrieť</button>
+      </div>
+      <div class="hint" id="ipaStatus"></div>
+    </div>
+    <p id="noLists" class="hint">Zatiaľ tu nie je žiadny zoznam. Pridaj ho vyššie – alebo <a href="#" id="demo">vyskúšaj ukážku</a>.</p>
+  </div>
+
+  <div class="card">
+    <h2>3. Nastav skúšanie</h2>
+    <div class="opts">
+      <div><label>Smer</label>
+        <div class="seg" id="dirSeg">
+          <button data-v="ab" class="on" id="dirAB">A → B</button>
+          <button data-v="ba" id="dirBA">B → A</button>
+          <button data-v="mix">Mix</button>
+        </div></div>
+      <div><label>Spôsob</label>
+        <div class="seg" id="modeSeg">
+          <button data-v="type" class="on">Písanie</button>
+          <button data-v="choice">Výber</button>
+          <button data-v="flash">Kartičky</button>
+        </div></div>
+      <div><label for="count">Počet slovíčok</label>
+        <select id="count"><option value="0">Všetky</option><option>10</option><option>20</option><option>30</option><option>50</option><option>100</option></select></div>
+      <div><label>Rozsah (poradie v zozname)</label>
+        <div class="row" style="gap:8px;align-items:center">
+          <input type="text" inputmode="numeric" id="rFrom" placeholder="od" style="flex:1 1 60px">
+          <span class="hint" style="flex:0 0 auto">–</span>
+          <input type="text" inputmode="numeric" id="rTo" placeholder="do" style="flex:1 1 60px">
+        </div></div>
+    </div>
+    <div class="check"><input type="checkbox" id="optRepeat" checked><label for="optRepeat" style="margin:0;color:var(--ink);font-size:.92rem">Chybné slovíčka sa vracajú, kým ich nezvládneš</label></div>
+    <div class="check"><input type="checkbox" id="optAnyMeaning" checked><label for="optAnyMeaning" style="margin:0;color:var(--ink);font-size:.92rem">Stačí jeden z významov oddelených čiarkou alebo bodkočiarkou (napr. „of, from, some“)</label></div>
+    <div class="check"><input type="checkbox" id="optAccents"><label for="optAccents" style="margin:0;color:var(--ink);font-size:.92rem">Tolerovať chýbajúcu diakritiku (pes = pés)</label></div>
+    <div class="check"><input type="checkbox" id="optIpa" checked><label for="optIpa" style="margin:0;color:var(--ink);font-size:.92rem">Zobrazovať výslovnosť (IPA) – pri otázke aj pri správnej odpovedi</label></div>
+    <div class="check"><input type="checkbox" id="optArticles"><label for="optArticles" style="margin:0;color:var(--ink);font-size:.92rem">Ignorovať členy (el/la/der/die/das/the/le…)</label></div>
+    <div style="margin-top:16px"><button class="btn primary" id="start" disabled>Začať skúšanie</button></div>
+  </div>
+</section>
+
+<!-- ========== QUIZ ========== -->
+<section id="quiz" class="hidden">
+  <div class="qtop"><span id="qInfo"></span><button class="btn small" id="quit">Ukončiť</button></div>
+  <div class="bar"><div id="progress" style="width:0"></div></div>
+  <div class="card">
+    <div class="prompt-lang" id="promptLang"></div>
+    <div class="prompt" id="prompt"></div>
+    <div class="prompt-ipa ipa hidden" id="promptIpa"></div>
+
+    <div id="typeBox">
+      <input type="text" id="answer" class="answer-input" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Napíš preklad a stlač Enter">
+      <div class="actions">
+        <button class="btn" id="dontKnow">Neviem</button>
+        <button class="btn primary" id="check">Skontrolovať</button>
+      </div>
+    </div>
+
+    <div id="choiceBox" class="choices hidden"></div>
+
+    <div id="flashBox" class="hidden">
+      <div class="flash" id="flashBack"><span class="hint" style="font-family:Inter">Klikni alebo stlač medzerník pre zobrazenie</span></div>
+      <div class="actions" id="flashGrade">
+        <button class="btn" id="flashNo">✗ Nevedel/a som</button>
+        <button class="btn primary" id="flashYes">✓ Vedel/a som</button>
+      </div>
+    </div>
+
+    <div id="feedback" class="feedback hidden"></div>
+    <div class="actions hidden" id="nextRow">
+      <button class="btn small" id="override">Mal/a som pravdu</button>
+      <button class="btn primary" id="next">Ďalej ↵</button>
+    </div>
+  </div>
+  <p class="hint" style="text-align:center">Tip: <kbd>Enter</kbd> = skontrolovať / ďalej · pri výbere čísla <kbd>1</kbd>–<kbd>4</kbd></p>
+</section>
+
+<!-- ========== RESULTS ========== -->
+<section id="results" class="hidden">
+  <div class="card" style="text-align:center">
+    <h2 style="margin-bottom:0">Hotovo!</h2>
+    <div class="score" id="score"></div>
+    <p class="hint" id="scoreText"></p>
+    <div class="actions">
+      <button class="btn" id="back">Späť na zoznamy</button>
+      <button class="btn" id="again">Znova celý zoznam</button>
+      <button class="btn primary" id="retryMist">Precvičiť chyby</button>
+    </div>
+  </div>
+  <div class="card" id="mistCard">
+    <h2>Slovíčka, ktoré robili problém</h2>
+    <table class="mist" id="mistTable"></table>
+  </div>
+</section>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"></script>
+<script>
+try { pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js'; } catch(e){}
+</script>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const KEY = 'vocab-trainer-lists-v1';
+  let memLists = [];
+  const store = {
+    load(){ try { const s = localStorage.getItem(KEY); return s ? JSON.parse(s) : memLists; } catch(e){ return memLists; } },
+    save(l){ memLists = l; try { localStorage.setItem(KEY, JSON.stringify(l)); } catch(e){} }
+  };
+  let lists = store.load();
+  let selectedId = lists[0]?.id || null;
+  let opts = { dir:'ab', mode:'type' };
+
+  // ---------- parsing ----------
+  function detectSep(lines){
+    const cands = ['\t',';','=',' - ',' – ',' — ',','];
+    for (const c of cands){
+      const hits = lines.filter(l => l.includes(c)).length;
+      if (hits >= Math.max(1, lines.length*0.6)) return c;
+    }
+    return null;
+  }
+  function splitCSV(line, sep){
+    if (sep !== ',' && sep !== ';' && sep !== '\t') {
+      const i = line.indexOf(sep); return i<0 ? [line] : [line.slice(0,i), line.slice(i+sep.length)];
+    }
+    const out=[]; let cur='', q=false;
+    for (let i=0;i<line.length;i++){
+      const ch=line[i];
+      if (ch==='"'){ if(q && line[i+1]==='"'){cur+='"';i++;} else q=!q; }
+      else if (ch===sep && !q){ out.push(cur); cur=''; }
+      else cur+=ch;
+    }
+    out.push(cur); return out;
+  }
+  function parse(text){
+    const lines = text.replace(/^﻿/,'').split(/\r?\n/).map(l=>l.trim()).filter(l=>l && !l.startsWith('#'));
+    if (!lines.length) return {items:[], err:null};
+    const sep = detectSep(lines);
+    if (!sep) return {items:[], err:'Nepodarilo sa rozpoznať oddeľovač. Použi napr. bodkočiarku: „pes ; el perro“.'};
+    const items=[]; let bad=0;
+    for (const l of lines){
+      const p = splitCSV(l, sep).map(s=>s.trim());
+      if (p.length>=2 && p[0] && p[1]){
+        const A = splitIpa(p[0]), B = splitIpa(p[1]);
+        const it = {a:A.text, b:B.text};
+        const ipaB = B.ipa || cleanIpa(p[2]||''), ipaA = A.ipa || cleanIpa(p[3]||'');
+        if (ipaA) it.ipaA = ipaA; if (ipaB) it.ipaB = ipaB;
+        if (it.a && it.b) items.push(it); else bad++;
+      } else bad++;
+    }
+    return {items, err: bad ? `${bad} riadok/riadkov sa nepodarilo načítať (chýba druhý stĺpec).` : null};
+  }
+  // IPA written after the word: "el perro /el ˈpe.ro/" or "el perro [el ˈpe.ro]"
+  function splitIpa(cell){
+    const m = cell.match(/^(.*?)\s*(?:\[([^\[\]]+)\]|(?:^|\s)\/([^\/\s][^\/]*)\/)\s*$/);
+    if (m && m[1].trim()) return {text:m[1].trim(), ipa:(m[2]||m[3]||'').trim()};
+    return {text:cell, ipa:''};
+  }
+  const cleanIpa = s => s.trim().replace(/^[\/\[]\s*|\s*[\/\]]$/g,'').trim();
+  const fmtIpa = s => s ? `/${esc(s)}/` : '';
+
+  function renderPreview(){
+    const {items, err} = parse($('raw').value);
+    const pv = $('preview'), pe = $('parseErr');
+    if (!items.length){ pv.classList.add('hidden'); } else {
+      const A = esc($('langA').value || 'Jazyk 1'), B = esc($('langB').value || 'Jazyk 2');
+      pv.innerHTML = `<table><tr><th>${A}</th><th>${B}</th></tr>` +
+        items.slice(0,200).map(i=>`<tr><td>${esc(i.a)} <span class="ipa">${fmtIpa(i.ipaA)}</span></td><td>${esc(i.b)} <span class="ipa">${fmtIpa(i.ipaB)}</span></td></tr>`).join('') +
+        `</table>`;
+      pv.classList.remove('hidden');
+    }
+    pe.textContent = err ? err : (items.length ? '' : '');
+    pe.classList.toggle('hidden', !err);
+    if (items.length && !err) { pe.classList.remove('hidden'); pe.style.color='var(--good)'; pe.textContent = `✓ Načítaných ${items.length} slovíčok`; }
+    else pe.style.color='';
+  }
+  $('raw').addEventListener('input', renderPreview);
+  $('langA').addEventListener('input', renderPreview);
+  $('langB').addEventListener('input', renderPreview);
+  async function pdfToText(buf){
+    const pdf = await pdfjsLib.getDocument({data:buf}).promise;
+    const out = [];
+    for (let p=1; p<=pdf.numPages; p++){
+      const page = await pdf.getPage(p);
+      const tc = await page.getTextContent();
+      const items = tc.items.filter(i => i.str && i.str.trim()).map(i => ({
+        s:i.str, x:i.transform[4], y:i.transform[5], w:i.width,
+        fs: Math.hypot(i.transform[0], i.transform[1]) || 10
+      }));
+      // group into lines by y
+      items.sort((a,b) => b.y-a.y || a.x-b.x);
+      const lines = [];
+      for (const it of items){
+        const L = lines.find(l => Math.abs(l.y-it.y) < it.fs*0.5);
+        if (L) L.items.push(it); else lines.push({y:it.y, items:[it]});
+      }
+      lines.sort((a,b)=>b.y-a.y);
+      for (const L of lines){
+        L.items.sort((a,b)=>a.x-b.x);
+        let txt='', end=null;
+        for (const it of L.items){
+          if (end!==null){
+            const gap = it.x - end;
+            if (gap > it.fs*1.6) txt += '\t';
+            else if (gap > it.fs*0.12 && !txt.endsWith(' ') && !it.s.startsWith(' ')) txt += ' ';
+          }
+          txt += it.s; end = it.x + it.w;
+        }
+        // collapse multiple tabs (tables with more spacing) into one
+        out.push(txt.replace(/\t+/g,'\t').replace(/ {2,}/g,' ').trim());
+      }
+    }
+    return out.join('\n');
+  }
+
+  $('file').addEventListener('change', async e => {
+    const f = e.target.files[0]; if (!f) return;
+    e.target.value='';
+    if (!$('listName').value) $('listName').value = f.name.replace(/\.[^.]+$/,'');
+    if (/\.pdf$/i.test(f.name) || f.type==='application/pdf'){
+      const pe=$('parseErr'); pe.classList.remove('hidden'); pe.style.color='var(--muted)'; pe.textContent='Načítavam PDF…';
+      try {
+        if (typeof pdfjsLib==='undefined') throw new Error('lib');
+        const text = await pdfToText(await f.arrayBuffer());
+        if (!text.trim()){ pe.style.color=''; pe.textContent='V PDF sa nenašiel žiadny text – pravdepodobne je to sken (obrázok). Skús PDF s textom, ktorý sa dá označiť.'; return; }
+        $('raw').value = text; renderPreview();
+        if (!parse(text).err) return;
+        pe.textContent += ' Riadky, ktoré nie sú slovíčka (nadpisy, čísla strán), môžeš v texte vyššie zmazať.';
+      } catch(err){
+        pe.style.color=''; pe.textContent = err.message==='lib' ? 'Knižnicu na čítanie PDF sa nepodarilo načítať. Skontroluj pripojenie a obnov stránku.' : 'PDF sa nepodarilo prečítať (možno je chránené heslom alebo poškodené).';
+      }
+      return;
+    }
+    const r = new FileReader();
+    r.onload = () => { $('raw').value = r.result; renderPreview(); };
+    r.readAsText(f, 'UTF-8');
+  });
+
+  $('saveList').onclick = () => {
+    const {items} = parse($('raw').value);
+    if (!items.length){ $('parseErr').classList.remove('hidden'); $('parseErr').style.color=''; $('parseErr').textContent='Najprv vlož aspoň jedno slovíčko.'; return; }
+    const list = {
+      id: Date.now().toString(36),
+      name: $('listName').value.trim() || `Zoznam ${lists.length+1}`,
+      langA: $('langA').value.trim() || 'Jazyk 1',
+      langB: $('langB').value.trim() || 'Jazyk 2',
+      items
+    };
+    lists.unshift(list); store.save(lists); selectedId = list.id;
+    $('raw').value=''; $('listName').value=''; renderPreview(); renderLists();
+    $('listsCard').scrollIntoView({behavior:'smooth', block:'start'});
+  };
+
+  $('demo').onclick = e => {
+    e.preventDefault();
+    $('langA').value='Slovenčina'; $('langB').value='Español'; $('listName').value='Ukážka – základné slová';
+    $('raw').value = ['pes ; el perro','mačka ; el gato','dom ; la casa','voda ; el agua','chlieb ; el pan','ďakujem ; gracias','prosím ; por favor','dobré ráno ; buenos días','kniha ; el libro','priateľ ; el amigo / la amiga','jesť ; comer','piť ; beber','veľký ; grande','malý ; pequeño','dnes ; hoy'].join('\n');
+    renderPreview();
+  };
+
+  function renderLists(){
+    const box = $('lists');
+    $('noLists').classList.toggle('hidden', lists.length>0);
+    box.innerHTML = lists.map(l => `
+      <div class="listitem ${l.id===selectedId?'on':''}" data-id="${l.id}">
+        <input type="radio" name="lst" ${l.id===selectedId?'checked':''} tabindex="-1">
+        <span class="name">${esc(l.name)}</span>
+        <span class="meta">${esc(l.langA)} ↔ ${esc(l.langB)} · ${l.items.length} slov${ipaCount(l) ? ' · IPA ✓' : ''}</span>
+        ${sampleFn ? `<button class="btn ipabtn" data-ipa="${l.id}" title="Doplniť výslovnosť">IPA</button>` : ''}
+        <button class="del" data-del="${l.id}" title="Zmazať">×</button>
+      </div>`).join('');
+    box.querySelectorAll('.listitem').forEach(el => el.onclick = ev => {
+      const ib = ev.target.closest('[data-ipa]');
+      if (ib){ selectedId = ib.dataset.ipa; renderLists(); openIpa(); return; }
+      const del = ev.target.closest('[data-del]');
+      if (del){
+        if (del.dataset.confirm){ lists = lists.filter(x=>x.id!==del.dataset.del); store.save(lists);
+          if (selectedId===del.dataset.del) selectedId = lists[0]?.id||null; renderLists(); }
+        else { del.dataset.confirm='1'; del.textContent='Zmazať?'; del.style.fontSize='.8rem'; del.style.color='var(--bad)'; setTimeout(()=>renderLists(),3000); }
+        return;
+      }
+      selectedId = el.dataset.id; renderLists();
+    });
+    const sel = lists.find(l=>l.id===selectedId);
+    $('start').disabled = !sel;
+    $('dirAB').textContent = sel ? `${short(sel.langA)} → ${short(sel.langB)}` : 'A → B';
+    $('dirBA').textContent = sel ? `${short(sel.langB)} → ${short(sel.langA)}` : 'B → A';
+  }
+  const short = s => s.length>12 ? s.slice(0,11)+'…' : s;
+  const ipaCount = l => l.items.filter(i=>i.ipaA||i.ipaB).length;
+
+  // ---------- IPA via Claude ----------
+  let sampleFn = null, ipaBusy = false;
+  (async () => {
+    try { if (window.claude && claude.use){ sampleFn = await claude.use('sample'); if (sampleFn) renderLists(); } } catch(e){}
+  })();
+
+  function openIpa(){
+    const l = lists.find(x=>x.id===selectedId); if (!l) return;
+    $('ipaListName').textContent = l.name;
+    $('ipaBLabel').textContent = `${l.langB} (jazyk 2)`;
+    $('ipaALabel').textContent = `${l.langA} (jazyk 1)`;
+    $('ipaStatus').textContent = '';
+    $('ipaPanel').classList.remove('hidden');
+  }
+  $('ipaClose').onclick = () => $('ipaPanel').classList.add('hidden');
+
+  async function ipaFor(lang, words){
+    const prompt =
+`You are an expert phonetician. Give the IPA transcription of each ${lang} word or phrase below, in its standard pronunciation.
+Rules:
+- Return ONLY a JSON array of strings, exactly ${words.length} items, same order as the input.
+- No surrounding slashes or brackets. Mark primary stress with ˈ where the language uses lexical stress.
+- If an entry contains alternatives separated by "/", transcribe each and join them with " / ".
+- Ignore notes in parentheses.
+Input (JSON): ${JSON.stringify(words)}`;
+    const out = await sampleFn.json(prompt, {modelTier:'default'});
+    const arr = Array.isArray(out) ? out : (out && Array.isArray(out.items) ? out.items : null);
+    if (!arr || arr.length !== words.length) throw {code:'shape'};
+    return arr.map(s => cleanIpa(String(s||'')));
+  }
+
+  $('ipaGo').onclick = async () => {
+    if (ipaBusy || !sampleFn) return;
+    const l = lists.find(x=>x.id===selectedId); if (!l) return;
+    const over = $('ipaOver').checked;
+    const jobs = [];
+    if ($('ipaB').checked) jobs.push({key:'ipaB', field:'b', lang:l.langB});
+    if ($('ipaA').checked) jobs.push({key:'ipaA', field:'a', lang:l.langA});
+    if (!jobs.length){ $('ipaStatus').textContent='Vyber aspoň jeden jazyk.'; return; }
+    ipaBusy = true; $('ipaGo').disabled = true;
+    const st = $('ipaStatus');
+    let filled = 0, failed = 0;
+    try {
+      for (const j of jobs){
+        const todo = l.items.map((it,i)=>i).filter(i => over || !l.items[i][j.key]);
+        for (let s=0; s<todo.length; s+=40){
+          const chunk = todo.slice(s, s+40);
+          st.textContent = `Claude prepisuje ${j.lang}: ${Math.min(s+40,todo.length)} / ${todo.length}…`;
+          try {
+            const res = await ipaFor(j.lang, chunk.map(i => l.items[i][j.field]));
+            chunk.forEach((i,k) => { if (res[k]){ l.items[i][j.key] = res[k]; filled++; } });
+            store.save(lists);
+          } catch(err){
+            if (err && (err.code==='not_granted' || err.code==='rate_limited')) throw err;
+            failed += chunk.length;
+          }
+        }
+      }
+      st.textContent = `Hotovo – doplnených ${filled} prepisov` + (failed ? `, ${failed} sa nepodarilo (skús znova).` : '.') + ' Prepisy generuje AI, pri zriedkavých slovách ich over v slovníku.';
+    } catch(err){
+      st.textContent = err.code==='not_granted' ? 'Bez povolenia nemôže Claude výslovnosť doplniť.'
+        : err.code==='rate_limited' ? `Príliš veľa požiadaviek – skús to o chvíľu. (Zatiaľ doplnených: ${filled})`
+        : 'Niečo sa pokazilo, skús to znova.';
+    } finally {
+      ipaBusy = false; $('ipaGo').disabled = false; renderLists();
+    }
+  };
+
+  function segInit(id, key){
+    $(id).querySelectorAll('button').forEach(b => b.onclick = () => {
+      $(id).querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+      b.classList.add('on'); opts[key]=b.dataset.v;
+    });
+  }
+  segInit('dirSeg','dir'); segInit('modeSeg','mode');
+
+  // ---------- quiz engine ----------
+  let Q = null;
+  const shuffle = a => { for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; };
+
+  function startQuiz(itemsOverride){
+    const list = lists.find(l=>l.id===selectedId); if(!list) return;
+    let pool = itemsOverride ? itemsOverride.slice() : list.items.map((it,i)=>({...it, idx:i}));
+    if (!itemsOverride){
+      const from = Math.max(1, parseInt($('rFrom').value,10) || 1);
+      const to = Math.min(pool.length, parseInt($('rTo').value,10) || pool.length);
+      if (from <= to) pool = pool.slice(from-1, to);
+    }
+    shuffle(pool);
+    const n = parseInt($('count').value,10);
+    if (n && !itemsOverride) pool = pool.slice(0,n);
+    const cards = pool.map(it => {
+      const d = opts.dir==='mix' ? (Math.random()<.5?'ab':'ba') : opts.dir;
+      return {...it, d};
+    });
+    Q = { list, queue:cards, total:cards.length, done:0, firstTry:0, seen:new Set(), mistakes:new Map(), cur:null, answered:false, lastOk:false, items:pool };
+    show('quiz'); nextCard();
+  }
+
+  function show(id){ ['setup','quiz','results'].forEach(s=>$(s).classList.toggle('hidden', s!==id)); window.scrollTo(0,0); }
+
+  function nextCard(){
+    if (!Q.queue.length) return finish();
+    Q.cur = Q.queue.shift(); Q.answered=false;
+    const c = Q.cur, L = Q.list;
+    const q = c.d==='ab' ? c.a : c.b;
+    $('promptLang').textContent = (c.d==='ab' ? L.langA : L.langB) + ' → ' + (c.d==='ab' ? L.langB : L.langA);
+    $('prompt').textContent = q;
+    const pIpa = c.d==='ab' ? c.ipaA : c.ipaB;
+    $('promptIpa').innerHTML = fmtIpa(pIpa);
+    $('promptIpa').classList.toggle('hidden', !(pIpa && $('optIpa').checked));
+    $('qInfo').textContent = `${Q.done} / ${Q.total} hotových` + (Q.queue.length+1 > Q.total-Q.done ? ` · ${Q.queue.length+1-(Q.total-Q.done)} na zopakovanie` : '');
+    $('progress').style.width = (Q.done/Q.total*100)+'%';
+    $('feedback').classList.add('hidden'); $('nextRow').classList.add('hidden'); $('override').classList.add('hidden');
+    $('typeBox').classList.toggle('hidden', opts.mode!=='type');
+    $('choiceBox').classList.toggle('hidden', opts.mode!=='choice');
+    $('flashBox').classList.toggle('hidden', opts.mode!=='flash');
+    if (opts.mode==='type'){ const a=$('answer'); a.value=''; a.disabled=false; a.focus(); $('check').disabled=false; $('dontKnow').disabled=false; }
+    if (opts.mode==='choice') renderChoices();
+    if (opts.mode==='flash'){ $('flashBack').innerHTML='<span class="hint" style="font-family:Inter">Klikni alebo stlač medzerník pre zobrazenie</span>'; $('flashBack').dataset.shown=''; $('flashGrade').classList.add('hidden'); }
+  }
+  const target = c => c.d==='ab' ? c.b : c.a;
+  const targetIpa = c => $('optIpa').checked ? ((c.d==='ab' ? c.ipaB : c.ipaA) || '') : '';
+  const ipaSpan = c => targetIpa(c) ? ` <span class="ipa">${fmtIpa(targetIpa(c))}</span>` : '';
+
+  function norm(s){
+    let t = s.toLowerCase().replace(/\s+/g,' ').trim().replace(/[.!?¡¿,;:"„“”']+/g,'').trim();
+    if ($('optAccents').checked) t = t.normalize('NFD').replace(/[̀-ͯ]/g,'');
+    if ($('optArticles').checked) t = t.replace(/^(el|la|los|las|un|una|der|die|das|den|dem|des|ein|eine|einen|the|a|an|le|les|l|un|une|il|lo|gli|i)\s+/,'');
+    t = t.replace(/\s*\(.*?\)\s*/g,' ').trim();
+    return t;
+  }
+  function accepted(c){
+    const t = target(c).replace(/\([^)]*\)/g,' ');
+    const re = $('optAnyMeaning').checked ? /\s*[\/|,;]\s*/ : /\s*[\/|]\s*/;
+    const parts = t.split(re).map(norm).filter(Boolean);
+    // "to be" ↔ "be": accept English infinitives with or without "to"
+    parts.slice().forEach(p => { if (p.startsWith('to ')) parts.push(p.slice(3)); });
+    return parts;
+  }
+  function isRight(input, c){ const n = norm(input); return n && (accepted(c).includes(n) || norm(target(c))===n); }
+
+  function grade(ok, given){
+    if (Q.answered) return; Q.answered = true; Q.lastOk = ok;
+    const c = Q.cur, key = c.idx;
+    const firstTime = !Q.seen.has(key); Q.seen.add(key);
+    if (ok){ Q.done++; if (firstTime) Q.firstTry++; }
+    else {
+      Q.mistakes.set(key, (Q.mistakes.get(key)||0)+1);
+      if ($('optRepeat').checked){
+        const pos = Math.min(Q.queue.length, 2 + Math.floor(Math.random()*3));
+        Q.queue.splice(pos,0,{...c});
+      } else Q.done++;
+    }
+    $('progress').style.width = (Q.done/Q.total*100)+'%';
+  }
+
+  function showFeedback(ok, given){
+    const fb=$('feedback'); fb.classList.remove('hidden','good','bad'); fb.classList.add(ok?'good':'bad');
+    const t = esc(target(Q.cur)) + '</b>' + ipaSpan(Q.cur) + '<b>';
+    fb.innerHTML = ok
+      ? (norm(given||'')===norm(target(Q.cur)) || !given ? `✓ Správne! <b>${t}</b>` : `✓ Správne! Presne: <b>${t}</b>`)
+      : (given ? `✗ Tvoja odpoveď: <s>${esc(given)}</s><br>Správne: <b>${t}</b>` : `Správne: <b>${t}</b>`);
+    $('nextRow').classList.remove('hidden');
+    $('override').classList.toggle('hidden', ok || opts.mode!=='type' || !given);
+    $('next').focus();
+  }
+
+  // type mode
+  function doCheck(){
+    if (Q.answered) return nextCard();
+    const v = $('answer').value; if (!v.trim()) return;
+    const ok = isRight(v, Q.cur);
+    grade(ok, v); $('answer').disabled=true; $('check').disabled=true; $('dontKnow').disabled=true;
+    showFeedback(ok, v);
+  }
+  $('check').onclick = doCheck;
+  $('dontKnow').onclick = () => { grade(false); $('answer').disabled=true; $('check').disabled=true; $('dontKnow').disabled=true; showFeedback(false); };
+  $('answer').addEventListener('keydown', e => { if (e.key==='Enter'){ e.preventDefault(); doCheck(); } });
+  $('override').onclick = () => {
+    // undo the wrong mark
+    const key = Q.cur.idx;
+    const n = (Q.mistakes.get(key)||1)-1; if (n>0) Q.mistakes.set(key,n); else Q.mistakes.delete(key);
+    if ($('optRepeat').checked){ const i = Q.queue.findIndex(x=>x.idx===key); if (i>=0) Q.queue.splice(i,1); Q.done++; }
+    if (n===0 && ![...Q.mistakes.keys()].includes(key)) Q.firstTry++;
+    $('progress').style.width=(Q.done/Q.total*100)+'%';
+    const fb=$('feedback'); fb.classList.remove('bad'); fb.classList.add('good'); fb.innerHTML=`✓ Uznané. Správne: <b>${esc(target(Q.cur))}</b>${ipaSpan(Q.cur)}`;
+    $('override').classList.add('hidden'); $('next').focus();
+  };
+  $('next').onclick = nextCard;
+
+  // choice mode
+  function renderChoices(){
+    const c = Q.cur, all = Q.list.items;
+    const correct = target(c);
+    const field = c.d==='ab' ? 'b' : 'a';
+    const others = shuffle(all.map(x=>x[field]).filter(x=>norm(x)!==norm(correct))).filter((v,i,a)=>a.findIndex(y=>norm(y)===norm(v))===i).slice(0,3);
+    const opts4 = shuffle([correct, ...others]);
+    const box=$('choiceBox');
+    box.innerHTML = opts4.map((o,i)=>`<button class="btn choice" data-i="${i}"><span class="hint" style="margin-right:8px">${i+1}</span>${esc(o)}</button>`).join('');
+    box.querySelectorAll('.choice').forEach(b => b.onclick = () => {
+      if (Q.answered) return;
+      const pick = opts4[+b.dataset.i], ok = norm(pick)===norm(correct);
+      grade(ok, pick);
+      box.querySelectorAll('.choice').forEach(x => { const v=opts4[+x.dataset.i]; if(norm(v)===norm(correct)) x.classList.add('correct'); else if (x===b) x.classList.add('wrong'); x.disabled=true; });
+      if (targetIpa(c)){ const fb=$('feedback'); fb.classList.remove('hidden','good','bad'); fb.classList.add(ok?'good':'bad');
+        fb.innerHTML = `${ok?'✓':'✗'} <b>${esc(correct)}</b>${ipaSpan(c)}`; }
+      $('nextRow').classList.remove('hidden'); $('override').classList.add('hidden'); $('next').focus();
+    });
+  }
+
+  // flash mode
+  function flip(){
+    if ($('flashBack').dataset.shown) return;
+    $('flashBack').dataset.shown='1';
+    $('flashBack').innerHTML = `<span>${esc(target(Q.cur))}</span>` + (targetIpa(Q.cur) ? `<span class="ipa">${fmtIpa(targetIpa(Q.cur))}</span>` : '');
+    $('flashGrade').classList.remove('hidden');
+  }
+  $('flashBack').onclick = flip;
+  $('flashYes').onclick = () => { if(!$('flashBack').dataset.shown||Q.answered) return; grade(true); nextCard(); };
+  $('flashNo').onclick  = () => { if(!$('flashBack').dataset.shown||Q.answered) return; grade(false); nextCard(); };
+
+  document.addEventListener('keydown', e => {
+    if ($('quiz').classList.contains('hidden')) return;
+    if (opts.mode==='flash'){
+      if (e.key===' '){ e.preventDefault(); flip(); }
+      else if ($('flashBack').dataset.shown && (e.key==='ArrowRight'||e.key==='Enter'||e.key==='1')){ $('flashYes').click(); }
+      else if ($('flashBack').dataset.shown && (e.key==='ArrowLeft'||e.key==='2'||e.key==='0')){ $('flashNo').click(); }
+    }
+    if (opts.mode==='choice'){
+      if (!Q.answered && /^[1-4]$/.test(e.key)){ const b=$('choiceBox').querySelector(`[data-i="${+e.key-1}"]`); if(b) b.click(); }
+      else if (Q.answered && e.key==='Enter'){ e.preventDefault(); nextCard(); }
+    }
+    if (opts.mode==='type' && Q.answered && e.key==='Enter' && document.activeElement!==$('answer')){ e.preventDefault(); nextCard(); }
+  });
+
+  $('quit').onclick = () => finish();
+
+  function finish(){
+    show('results');
+    const tot = Q.seen.size || 0;
+    const pct = tot ? Math.round(Q.firstTry/tot*100) : 0;
+    $('score').textContent = tot ? pct+' %' : '—';
+    $('scoreText').textContent = tot
+      ? `Na prvý pokus si vedel/a ${Q.firstTry} z ${tot} slovíčok.` + (pct===100?' Výborne! 🎉': pct>=80?' Skvelá práca!':'')
+      : 'Neodpovedal/a si na žiadne slovíčko.';
+    const m = [...Q.mistakes.entries()].sort((a,b)=>b[1]-a[1]);
+    $('mistCard').classList.toggle('hidden', !m.length);
+    $('retryMist').classList.toggle('hidden', !m.length);
+    $('mistTable').innerHTML = m.map(([idx,n]) => { const it=Q.list.items[idx]; return `<tr><td>${esc(it.a)} <span class="ipa">${fmtIpa(it.ipaA)}</span></td><td>${esc(it.b)} <span class="ipa">${fmtIpa(it.ipaB)}</span></td><td class="n">${n}× chyba</td></tr>`; }).join('');
+    Q.mistItems = m.map(([idx])=>({...Q.list.items[idx], idx}));
+  }
+  $('back').onclick = () => { show('setup'); renderLists(); };
+  $('again').onclick = () => startQuiz();
+  $('retryMist').onclick = () => startQuiz(Q.mistItems);
+  $('start').onclick = () => startQuiz();
+
+  function esc(s){ return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+  renderLists();
+})();
+</script>
+</body>
+</html>
